@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="taapes" annotators="Nick Thieberger, Timothy Brickell" speaker="NF02">
-            <file f_name="mc_nafsan_taapes" audio="mc_nafsan_taapes.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_taapes" audio="mc_nafsan_taapes.wav" updated="2020-05-25">
                 <unit uid="0001" start_time="420" end_time="7480">
                     <utterance_id>nafsan_taapes_0001</utterance_id>
                     <utterance>Too go taap̃es rapiatlak, ratmer piaselkir Rato ur naor iskei.</utterance>
@@ -1930,7 +1930,7 @@
                         <segment>
                             <gword>-n</gword>
                             <gloss>-3S.DP</gloss>
-                            <graid>-pro.d:poss</graid>
+                            <graid>-rn_pro.d:poss</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>

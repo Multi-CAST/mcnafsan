@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="lelep" annotators="Nick Thieberger, Timothy Brickell" speaker="NF01">
-            <file f_name="mc_nafsan_lelep" audio="mc_nafsan_lelep.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_lelep" audio="mc_nafsan_lelep.wav" updated="2020-08-24">
                 <unit uid="0001" start_time="0" end_time="9583">
                     <utterance_id>nafsan_lelep_0001</utterance_id>
                     <utterance>Me faat nen ga taos rusoso ki nana, faat Lelep a? Tenen kin rupreg potut ki. Rutfagi pak elag.</utterance>
@@ -555,7 +555,7 @@
                         <segment>
                             <gword>Aneityum</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:l</graid>
+                            <graid>pn_np:l</graid>
                             <refind>207</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -615,7 +615,8 @@
                         <segment>
                             <gword>Aneityum</gword>
                             <gloss>p.name</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pn_np</graid>
+                            <refind>207</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -627,7 +628,8 @@
                         <segment>
                             <gword>Aneityum</gword>
                             <gloss>p.name</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pn_np</graid>
+                            <refind>207</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -1341,7 +1343,7 @@
                             <refind>215</refind>
                         </segment>
                         <segment>
-                            <gword>Kala</gword>
+                            <gword>kala</gword>
                             <gloss>exclamation</gloss>
                             <graid>other</graid>
                         </segment>
@@ -1508,7 +1510,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3S.O</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                             <refind>213</refind>
                         </segment>
@@ -1604,7 +1606,7 @@
                         </segment>
                         <segment>
                             <gword>o</gword>
-                            <gloss>O</gloss>
+                            <gloss>oh</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -1629,7 +1631,7 @@
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>Mm</gword>
+                            <gword>mm</gword>
                             <gloss>confirm</gloss>
                             <graid>other</graid>
                         </segment>
@@ -1761,7 +1763,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3S.O</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                         </segment>
                         <segment>
@@ -1824,7 +1826,7 @@
                             <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>Malpei</gword>
+                            <gword>malpei</gword>
                             <gloss>before</gloss>
                             <graid>nc</graid>
                         </segment>
@@ -2612,7 +2614,7 @@
                         <segment>
                             <gword>Em̃elfat</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                             <refind>225</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -3070,14 +3072,14 @@
                     <utterance_translation>Natopu is different, it is what God made and put on the Earth. He is a man but a different spirit.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>E</gword>
-                            <gloss>E</gloss>
-                            <graid>other</graid>
-                        </segment>
-                        <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
                             <graid>##</graid>
+                        </segment>
+                        <segment>
+                            <gword>E</gword>
+                            <gloss>e</gloss>
+                            <graid>other</graid>
                         </segment>
                         <segment>
                             <gword>natopu</gword>
@@ -3325,7 +3327,7 @@
                 </unit>
                 <unit uid="0022" start_time="149922" end_time="151080">
                     <utterance_id>nafsan_lelep_0022</utterance_id>
-                    <utterance>[AUDIENCE] Me natap ipi..?</utterance>
+                    <utterance>[AUDIENCE] Me natap ipi...?</utterance>
                     <utterance_translation>[AUDIENCE] But what is the idol?</utterance_translation>
                     <annotations>
                         <segment>
@@ -3792,7 +3794,7 @@
                 <unit uid="0026" start_time="171666" end_time="182482">
                     <utterance_id>nafsan_lelep_0026</utterance_id>
                     <utterance>Me ipo mer preg nalkis kenen, Iwel. Komam tete utae. Tete naat rutae. Malnen kin kuna kumsak go natam̃ol nen kin kefo gaag preg naul nkas taos meresin.</utterance>
-                    <utterance_translation>And he will make bush medecine for it. Some of us know. Some people know. When you feel you are getting sick, this man will make leaf medecine for you.</utterance_translation>
+                    <utterance_translation>And he will make bush medicine for it. Some of us know. Some people know. When you feel you are getting sick, this man will make leaf medicine for you.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>

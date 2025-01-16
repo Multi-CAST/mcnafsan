@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="nmatu" annotators="Nick Thieberger, Timothy Brickell" speaker="NF03">
-            <file f_name="mc_nafsan_nmatu" audio="mc_nafsan_nmatu.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_nmatu" audio="mc_nafsan_nmatu.wav" updated="2020-06-18">
                 <unit uid="0001" start_time="5880" end_time="17400">
                     <utterance_id>nafsan_nmatu_0001</utterance_id>
                     <utterance>Amurin na katrausi tenatrauswen ni maarik Wili Santo ineu trausi teetwei.</utterance>
@@ -78,14 +78,14 @@
                         <segment>
                             <gword>Wili</gword>
                             <gloss>PN</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>602</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>Santo</gword>
                             <gloss>PN</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -167,7 +167,7 @@
                         <segment>
                             <gword>Ermag</gword>
                             <gloss>PN</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                             <refind>604</refind>
                             <isnref>new</isnref>
                         </segment>

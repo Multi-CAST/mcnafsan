@@ -9,9 +9,9 @@ nafsan	kori	0001	ka=	1S.IRS=	=lv	=lv
 nafsan	kori	0001	traus	tell	v:pred	v		pred		
 nafsan	kori	0001	natrauswen	story	np:p	np		p		
 nafsan	kori	0001	ni	of	rn	rn				
-nafsan	kori	0001	Egun	p.name	rn_np:poss	rn_np		poss	101	new
+nafsan	kori	0001	Egun	p.name	rn_pn_np:poss	rn_pn_np		poss	101	new
 nafsan	kori	0002	#	#	##	##				
-nafsan	kori	0002	Egun	p.name	np:dt	np		dt	101	
+nafsan	kori	0002	Egun	p.name	pn_np:dt	pn_np		dt	101	
 nafsan	kori	0002	nrak	time	np:other	np		other		
 nafsan	kori	0002	pei	first	rn	rn				
 nafsan	kori	0002	i=	3S.RS=	=lv	=lv				
@@ -19,11 +19,11 @@ nafsan	kori	0002	piatlak	have	v:predex	v		predex
 nafsan	kori	0002	natam̃ol	person	np.h:s	np	h	s		
 nafsan	kori	0002	kin	REL	other	other				
 nafsan	kori	0002	naur	island	np:dt_l	np		dt_l	101	
-nafsan	kori	0002	Egun	p.name	rn_np	rn_np			101	
+nafsan	kori	0002	Egun	p.name	rn_pn_np	rn_pn_np			101	
 nafsan	kori	0002	nen	that	rn	rn				
 nafsan	kori	0002	#	#	##	##				
-nafsan	kori	0002	Peter	p.name	np.h:s	np	h	s		
-nafsan	kori	0002	Milne	p.name	rn_np	rn_np				
+nafsan	kori	0002	Peter	p.name	pn_np.h:s	pn_np	h	s		
+nafsan	kori	0002	Milne	p.name	rn	rn				
 nafsan	kori	0002	i=	3S.RS=	=lv	=lv				
 nafsan	kori	0002	pak	go_to	v:pred	v		pred		
 nafsan	kori	0002	-wes	-3S.OBL	-pro:l	-pro		l	101	
@@ -278,12 +278,12 @@ nafsan	kori	0008	ru=	3P.RS=	=lv	=lv
 nafsan	kori	0008	sos-o	call-TS	v:pred	v		pred		
 nafsan	kori	0008	ZERO	ZERO	0:p	0		p	109	
 nafsan	kori	0008	ki	PREP	adp	adp				
-nafsan	kori	0008	Krikai	p.name	np:other	np		other	110	new
+nafsan	kori	0008	Krikai	p.name	pn_np:other	pn_np		other	110	new
 nafsan	kori	0008	#	#	##	##				
 nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
 nafsan	kori	0008	ra=	3D.RS=	=lv	=lv				
 nafsan	kori	0008	sak	land	v:pred	v		pred		
-nafsan	kori	0008	Krikai	p.name	np:g	np		g	109	
+nafsan	kori	0008	Krikai	p.name	pn_np:g	pn_np		g	109	
 nafsan	kori	0008	#	#	##	##				
 nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
 nafsan	kori	0008	ra=	3D.RS=	=lv	=lv				
@@ -500,7 +500,7 @@ nafsan	kori	0013	akit	1P.O	pro.1:p	pro	1	p	113
 nafsan	kori	0013	nanre	side	np:l	np		l		
 nafsan	kori	0013	ni	of	rn	rn				
 nafsan	kori	0013	naur	island	rn_np:poss	rn_np		poss	101	
-nafsan	kori	0013	Egun	p.name	rn_np	rn_np			101	
+nafsan	kori	0013	Egun	p.name	rn_pn_np	rn_pn_np			101	
 nafsan	kori	0014	#	#	##ds	##ds				
 nafsan	kori	0014	ZERO	ZERO	0.1:s	0	1	s	104	
 nafsan	kori	0014	ka=	1S.IRS=	=lv	=lv				
@@ -677,7 +677,7 @@ nafsan	kori	0017	i=	3S.RS=	=lv	=lv
 nafsan	kori	0017	preg	make	v:pred	v		pred		
 nafsan	kori	0017	nas	bow	np:p	np		p	117	
 nafsan	kori	0017	#	#	#nc	#nc				
-nafsan	kori	0017	ZERO	ZERO	nc	nc				
+nafsan	kori	0017	ZERO	ZERO	nc_0.h	nc_0	h			
 nafsan	kori	0017	ki=	3S.PS=	nc	nc				
 nafsan	kori	0017	na	say	nc	nc				
 nafsan	kori	0017	#	#	##	##				
@@ -1020,7 +1020,7 @@ nafsan	kori	0024	ZERO	ZERO	0.d:s	0	d	s	102
 nafsan	kori	0024	i=	3S.RS=	=lv	=lv				
 nafsan	kori	0024	sak	land	v:pred	v		pred		
 nafsan	kori	0024	elau	sea	np:g	np		g	124	
-nafsan	kori	0024	Krikai	p.name	rn_np	rn_np			109	
+nafsan	kori	0024	Krikai	p.name	rn_pn_np	rn_pn_np			109	
 nafsan	kori	0025	#	#	##	##				
 nafsan	kori	0025	go	and	other	other				
 nafsan	kori	0025	ZERO	ZERO	0.h:a	0	h	a	104	
@@ -1189,7 +1189,7 @@ nafsan	kori	0028	#	#	##	##
 nafsan	kori	0028	ZERO	ZERO	0.h:a	0	h	a	112	
 nafsan	kori	0028	i=	3S.RS=	=lv	=lv				
 nafsan	kori	0028	tup̃-a	shoot-TS	v:pred	v		pred		
-nafsan	kori	0028	ZERO	3S.O	0.d:p	0	d	p	102	
+nafsan	kori	0028	ZERO	ZERO	0.d:p	0	d	p	102	
 nafsan	kori	0028	ki	PREP	adp	adp				
 nafsan	kori	0028	timen	arrow	np:obl	np		obl	118	
 nafsan	kori	0028	kaaru	next	rn	rn				
@@ -1392,7 +1392,7 @@ nafsan	kori	0034	ZERO	ZERO	0.d:s	0	d	s	102
 nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
 nafsan	kori	0034	sak	land	v:pred	v		pred		
 nafsan	kori	0034	natokon	village	np:g	np		g	127	new
-nafsan	kori	0034	Taalo	p.name	rn_np	rn_np			128	new
+nafsan	kori	0034	Taalo	p.name	rn_pn_np	rn_pn_np			128	new
 nafsan	kori	0034	san	there	rn	rn				
 nafsan	kori	0034	#	#	#rc_rn	#rc_rn				
 nafsan	kori	0034	kin	REL	other	other				
@@ -1456,7 +1456,7 @@ nafsan	kori	0035	sum̃	house	np:g	np		g	129	new
 nafsan	kori	0035	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	102	
 nafsan	kori	0035	#	#	#nc	#nc				
 nafsan	kori	0035	me	and	nc	nc				
-nafsan	kori	0035	ZERO	ZERO	nc	nc				
+nafsan	kori	0035	ZERO	ZERO	nc_0.h	nc_0	h			
 nafsan	kori	0035	ku=	2S.RS=	nc	nc				
 nafsan	kori	0035	tae	know	nc	nc				
 nafsan	kori	0035	kros	cross_beam:BI	nc	nc				
@@ -1709,7 +1709,7 @@ nafsan	kori	0042	pan	go	v:pred	v		pred
 nafsan	kori	0042	panpan	until	other	other				
 nafsan	kori	0042	pak	to	adp	adp				
 nafsan	kori	0042	elag	high	ln	ln				
-nafsan	kori	0042	Krikai	p.name	np:g	np		g	110	
+nafsan	kori	0042	Krikai	p.name	pn_np:g	pn_np		g	110	
 nafsan	kori	0043	#	#	##	##				
 nafsan	kori	0043	ZERO	ZERO	0:s	0		s	107	
 nafsan	kori	0043	pan	go	lv	lv				
@@ -1726,7 +1726,7 @@ nafsan	kori	0043	ZERO	ZERO	0:a	0		a	107
 nafsan	kori	0043	i=	3S.RS=	=lv	=lv				
 nafsan	kori	0043	pak	go_to	v:pred	v		pred		
 nafsan	kori	0043	natik-i	edge-V	np:p	np		p	132	bridging
-nafsan	kori	0043	-n	-3S.DP	-pro.h:poss	-pro	h	poss	112	
+nafsan	kori	0043	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss	112	
 nafsan	kori	0043	tefla	similar	other	other				
 nafsan	kori	0043	=n	=DST	=other	=other				
 nafsan	kori	0043	#	#	##	##				
@@ -1773,7 +1773,7 @@ nafsan	kori	0045	#	#	##	##
 nafsan	kori	0045	gar	3P.POS	pro.h:a	pro	h	a	113	
 nafsan	kori	0045	ru=	3P.RS=	=lv	=lv				
 nafsan	kori	0045	pak	go_to	v:pred	v		pred		
-nafsan	kori	0045	Egun	p.name	np:p	np		p		
+nafsan	kori	0045	Egun	p.name	pn_np:p	pn_np		p		
 nafsan	kori	0045	pan	go	nc	nc				
 nafsan	kori	0045	kin	REL	nc	nc				
 nafsan	kori	0045	#	#	##	##				

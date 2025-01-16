@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Thieberger, Nick & Brickell, Timothy. 2020. Multi-CAST Nafsan. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2001. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nafsan) (date accessed)
+  > Thieberger, Nick & Brickell, Timothy. 2021. Multi-CAST Nafsan. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nafsan) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -113,17 +113,17 @@ information on all annotated categories, including those not listed here.
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
 | **⟨0.1⟩** | 30 | 46 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 78 |
 | **⟨0.2⟩** | 24 | 44 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 70 |
-| **⟨0.h⟩** | 121 | 140 | 0 | 11 | 0 | 0 | 0 | 0 | 0 | 0 | 272 |
+| **⟨0.h⟩** | 121 | 141 | 0 | 11 | 0 | 0 | 0 | 0 | 0 | 0 | 273 |
 | **⟨0.d⟩** | 149 | 98 | 0 | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 271 |
 | **⟨0⟩** | 52 | 30 | 0 | 72 | 7 | 0 | 0 | 0 | 0 | 0 | 161 |
-| **⟨pro.1⟩** | 10 | 15 | 0 | 10 | 4 | 1 | 0 | 0 | 9 | 0 | 49 |
+| **⟨pro.1⟩** | 11 | 15 | 0 | 10 | 4 | 1 | 0 | 0 | 9 | 0 | 50 |
 | **⟨pro.2⟩** | 11 | 6 | 0 | 12 | 4 | 1 | 0 | 0 | 5 | 0 | 39 |
-| **⟨pro.h⟩** | 4 | 7 | 0 | 15 | 11 | 3 | 0 | 0 | 37 | 0 | 77 |
+| **⟨pro.h⟩** | 3 | 6 | 0 | 15 | 11 | 3 | 0 | 0 | 37 | 0 | 75 |
 | **⟨pro.d⟩** | 9 | 2 | 0 | 3 | 1 | 0 | 0 | 0 | 17 | 0 | 32 |
 | **⟨pro⟩** | 9 | 3 | 0 | 25 | 19 | 1 | 10 | 2 | 12 | 4 | 85 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 34 | 22 | 0 | 49 | 1 | 1 | 0 | 7 | 6 | 1 | 121 |
+| **⟨np.h⟩** | 34 | 21 | 0 | 49 | 1 | 1 | 0 | 7 | 6 | 1 | 120 |
 | **⟨np.d⟩** | 42 | 21 | 0 | 14 | 2 | 1 | 0 | 7 | 5 | 0 | 92 |
 | **⟨np⟩** | 60 | 7 | 0 | 179 | 14 | 50 | 38 | 26 | 31 | 52 | 457 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -131,7 +131,7 @@ information on all annotated categories, including those not listed here.
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other⟩** | 0 | 0 | 0 | 0 | 0 | 4 | 2 | 5 | 0 | 0 | 11 |
-| | 555 | 441 | 0 | 417 | 63 | 63 | 50 | 47 | 122 | 57 | 1815 |
+| | 555 | 440 | 0 | 417 | 63 | 63 | 50 | 47 | 122 | 57 | 1814 |
 
 
 **Clause boundaries**

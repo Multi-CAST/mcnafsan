@@ -34,7 +34,7 @@ nafsan	tafra	0001	tu-e	give-TS	v:pred	v		pred
 nafsan	tafra	0001	-r	-3P.O	-pro.h:p	-pro	h	p	909	bridging
 nafsan	tafra	0001	ki	PREP	adp	adp				
 nafsan	tafra	0001	-n	-DST	-pro:obl	-pro		obl		
-nafsan	tafra	0001	Ertap	Eratap	np:other	np		other	910	new
+nafsan	tafra	0001	Ertap	Eratap	pn_pn_np:other	pn_pn_np		other	910	new
 nafsan	tafra	0002	#	#	##	##				
 nafsan	tafra	0002	ntau	year	np:other	np		other	903	
 nafsan	tafra	0002	1956	1956	rn_np	rn_np			912	new
@@ -63,11 +63,11 @@ nafsan	tafra	0002	-n	-3S.O	-pro:obl	-pro		obl
 nafsan	tafra	0003	#	#	##	##				
 nafsan	tafra	0003	apu	grandfather	ln_np.h	ln_np	h		913	new
 nafsan	tafra	0003	ni	of	ln	ln				
-nafsan	tafra	0003	Elaknar	p.name	ln_np:poss	ln_np		poss	914	new
+nafsan	tafra	0003	Elaknar	p.name	ln_pn_np:poss	ln_pn_np		poss	914	new
 nafsan	tafra	0003	go	and	ln	ln				
 nafsan	tafra	0003	apu	grandfather	np.h:a	np	h	a	915	new
 nafsan	tafra	0003	nig	of	rn	rn				
-nafsan	tafra	0003	Elaau	p.name	rn_np:poss	rn_np		poss	916	new
+nafsan	tafra	0003	Elaau	p.name	rn_pn_np:poss	rn_pn_np		poss	916	new
 nafsan	tafra	0003	ru=	3P.RS=	=lv	=lv				
 nafsan	tafra	0003	pan	go	lv	lv				
 nafsan	tafra	0003	tu-e	give-TS	v:pred	v		pred		
@@ -79,7 +79,6 @@ nafsan	tafra	0003	kai=	ES=	=lv	=lv
 nafsan	tafra	0003	ler	return	lv	lv				
 nafsan	tafra	0003	mai	come	v:pred	v		pred		
 nafsan	tafra	0003	#	#	#nc	#nc				
-nafsan	tafra	0003	ZERO	ZERO	nc	nc				
 nafsan	tafra	0003	u=	2P.RS=	nc	nc				
 nafsan	tafra	0003	tu	stay	nc	nc				
 nafsan	tafra	0004	#	#	##	##				
@@ -87,11 +86,11 @@ nafsan	tafra	0004	me	and	other	other
 nafsan	tafra	0004	ZERO	ZERO	0.2:a	0	2	a		
 nafsan	tafra	0004	u=	2P.RS=	=lv	=lv				
 nafsan	tafra	0004	tol	pass	v:pred	v		pred		
-nafsan	tafra	0004	Janweri	p.name	np:p	np		p	917	new
+nafsan	tafra	0004	Janweri	p.name	pn_np:p	pn_np		p	917	new
 nafsan	tafra	0004	#	#	##	##				
 nafsan	tafra	0004	go	and	other	other				
 nafsan	tafra	0004	komam	1P.ex	pro.1:a	pro	1	a	904	
-nafsan	tafra	0004	Limaas	p.name	rn_np.h	rn_np	h		918	new
+nafsan	tafra	0004	Limaas	p.name	rn_pn_np.h	rn_pn_np	h		918	new
 nafsan	tafra	0004	ra=	1D.exRS=	=lv	=lv				
 nafsan	tafra	0004	mer	again	lv	lv				
 nafsan	tafra	0004	na	want	v:pred	v		pred		
@@ -102,8 +101,8 @@ nafsan	tafra	0004	fan	go:IR	lv	lv
 nafsan	tafra	0004	saof-i	visit-TS	v:pred	v		pred		
 nafsan	tafra	0004	-r	-3P.O	-pro.h:p	-pro	h	p	920	bridging
 nafsan	tafra	0005	#	#	##	##				
-nafsan	tafra	0005	Pastor	pastor	np.h:a	np	h	a	921	new
-nafsan	tafra	0005	Kalagis	p.name	rn_np	rn_np			922	new
+nafsan	tafra	0005	Pastor	pastor	ln	ln				
+nafsan	tafra	0005	Kalagis	p.name	pn_np.h	pn_np	h		921	new
 nafsan	tafra	0005	i=	3S.RS=	=lv	=lv				
 nafsan	tafra	0005	mur-i	want-TS	v:pred	v		pred		
 nafsan	tafra	0005	-n	-3S.O	-pro:p	-pro		p		
@@ -113,17 +112,17 @@ nafsan	tafra	0005	komam	1P.ex	pro.1:a	pro	1	a	904
 nafsan	tafra	0005	ko=	1P.exIRS=	=lv	=lv				
 nafsan	tafra	0005	mau	all	lv	lv				
 nafsan	tafra	0005	pak	go_to	v:pred	v		pred		
-nafsan	tafra	0005	Ertap	Eratap	np:p	np		p	910	
+nafsan	tafra	0005	Ertap	Eratap	pn_np:p	pn_np		p	910	
 nafsan	tafra	0006	#	#	##	##				
 nafsan	tafra	0006	ZERO	ZERO	0.1:a	0	1	a	904	
 nafsan	tafra	0006	u=	1P.exRS=	=lv	=lv				
 nafsan	tafra	0006	pan	go	lv	lv				
 nafsan	tafra	0006	paakor	arrive	v:pred	v		pred		
-nafsan	tafra	0006	Elaknar	p.name	np:p	np		p	914	
+nafsan	tafra	0006	Elaknar	p.name	pn_np:p	pn_np		p	914	
 nafsan	tafra	0006	#	#	##	##				
 nafsan	tafra	0006	go	and	other	other				
 nafsan	tafra	0006	tata	father	np.h:s	np	h	s	923	new
-nafsan	tafra	0006	Sailas	p.name	rn_np	rn_np			924	new
+nafsan	tafra	0006	Sailas	p.name	rn_pn_np	rn_pn_np			924	new
 nafsan	tafra	0006	i=	3S.RS=	=lv	=lv				
 nafsan	tafra	0006	to	stay	v:pred	v		pred		
 nafsan	tafra	0006	e-sum̃	LOC-house	np:l	np		l	925	new
@@ -141,7 +140,7 @@ nafsan	tafra	0007	ZERO	ZERO	0.h:s_ds	0	h	s_ds	923
 nafsan	tafra	0007	i=	3S.RS=	=lv	=lv				
 nafsan	tafra	0007	na	say	v:pred	v		pred		
 nafsan	tafra	0007	#	#	#ds	#ds				
-nafsan	tafra	0007	Webe	p.name	np.h:other	np	h	other	926	new
+nafsan	tafra	0007	Webe	p.name	pn_np.h:other	pn_np	h	other	926	new
 nafsan	tafra	0007	naik	fish	np:s	np		s	927	new
 nafsan	tafra	0007	seserik	small	rn	rn				
 nafsan	tafra	0007	ru=	3P.RS=	=lv	=lv				
@@ -178,13 +177,13 @@ nafsan	tafra	0009	ler	return	v:pred	v		pred
 nafsan	tafra	0009	pan	go	other	other				
 nafsan	tafra	0010	#	#	##	##				
 nafsan	tafra	0010	selwan	while	other	other				
-nafsan	tafra	0010	Paster	pastor	np.h:a	np	h	a	921	
-nafsan	tafra	0010	Kalagis	p.name	rn	rn			922	
+nafsan	tafra	0010	Paster	pastor	ln	ln				
+nafsan	tafra	0010	Kalagis	p.name	pn_np.h:a	pn_np	h	a	921	
 nafsan	tafra	0010	i=	3S.RS=	=lv	=lv				
 nafsan	tafra	0010	nrog	hear	v:pred	v		pred		
 nafsan	tafra	0010	nafsan	story	np:p	np		p	931	new
 nafsan	tafra	0010	ni	of	rn	rn				
-nafsan	tafra	0010	Sailas	Sailas	rn_np.h:poss	rn_np	h	poss	923	
+nafsan	tafra	0010	Sailas	Sailas	rn_pn_np.h:poss	rn_pn_np	h	poss	923	
 nafsan	tafra	0010	#	#	##	##				
 nafsan	tafra	0010	ZERO	ZERO	0.h:s	0	h	s	921	
 nafsan	tafra	0010	i=	3S.RS=	=lv	=lv				
@@ -204,7 +203,7 @@ nafsan	tafra	0011	a=	1S.RS=	=lv	=lv
 nafsan	tafra	0011	tae	know	v:pred	v		pred		
 nafsan	tafra	0011	#	#	#cc	#cc				
 nafsan	tafra	0011	nag	say	other	other				
-nafsan	tafra	0011	ZERO	ZERO	pro.h:a	pro	h	a	923	
+nafsan	tafra	0011	ZERO	ZERO	0.h:a	0	h	a	923	
 nafsan	tafra	0011	ke=	3S.IRS=	=lv	=lv				
 nafsan	tafra	0011	fo	PSP:IR	lv	lv				
 nafsan	tafra	0011	nrik	tell	v:pred	v		pred		
@@ -216,9 +215,9 @@ nafsan	tafra	0011	#	#	#rc	#rc
 nafsan	tafra	0011	ZERO	ZERO	0.1:g	0	1	g		
 nafsan	tafra	0011	nag	REL	other	other				
 nafsan	tafra	0011	ZERO	ZERO	0.h:a	0	h	a	923	
-nafsan	tafra	0011	i=	3sRS=	=lv	=lv				
+nafsan	tafra	0011	i=	3S.RS=	=lv	=lv				
 nafsan	tafra	0011	til-i	say-TS	v:pred	v		pred		
-nafsan	tafra	0011	ZERO	3SG.O	0:p	0		p	933	
+nafsan	tafra	0011	ZERO	ZERO	0:p	0		p	933	
 nafsan	tafra	0011	#	#	##	##				
 nafsan	tafra	0011	go	and	other	other				
 nafsan	tafra	0011	ZERO	ZERO	0.h:a	0	h	a	923	
@@ -395,7 +394,7 @@ nafsan	tafra	0022	selwan	while	other	other
 nafsan	tafra	0022	ZERO	ZERO	0.2:a	0	2	a	940	bridging
 nafsan	tafra	0022	ku=	2S.RS=	=lv	=lv				
 nafsan	tafra	0022	lefek-ki	around-TR	v:pred	v		pred		
-nafsan	tafra	0022	Efat	Efate	np:p	np		p	939	new
+nafsan	tafra	0022	Efat	Efate	pn_np:p	pn_np		p	939	new
 nafsan	tafra	0022	negakit	1P.inPOS	rn_pro.1:poss	rn_pro	1	poss	901	
 nafsan	tafra	0022	%	%	%	%				
 nafsan	tafra	0022	ZERO	ZERO	0.2:a	0	2	a	940	
@@ -411,7 +410,7 @@ nafsan	tafra	0022	userek-ki	go_around-TR	v:pred	v		pred
 nafsan	tafra	0022	nagis	point	np:p	np		p	942	bridging
 nafsan	tafra	0022	negakit	1P.inPOS	rn_pro.1:poss	rn_pro	1	poss	901	
 nafsan	tafra	0022	nig	of	rn	rn				
-nafsan	tafra	0022	Efat	p.name	rn_np:poss	rn_np		poss	939	
+nafsan	tafra	0022	Efat	p.name	rn_pn_np:poss	rn_pn_np		poss	939	
 nafsan	tafra	0023	#	#	#nc	#nc				
 nafsan	tafra	0023	go	and	nc	nc				
 nafsan	tafra	0023	akit	1P.inc.S	nc_pro.1	nc_pro	1		901	

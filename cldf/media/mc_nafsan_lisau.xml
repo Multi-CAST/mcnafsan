@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="lisau" annotators="Nick Thieberger, Timothy Brickell" speaker="NF02">
-            <file f_name="mc_nafsan_lisau" audio="mc_nafsan_lisau.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_lisau" audio="mc_nafsan_lisau.wav" updated="2020-06-18">
                 <unit uid="0001" start_time="180" end_time="11180">
                     <utterance_id>nafsan_lisau_0001</utterance_id>
                     <utterance>Ipiatlak, Etasrik, Ratison. Etasrik ipiatlak mtulep iskei itkos.</utterance>
@@ -26,14 +26,14 @@
                         <segment>
                             <gword>Etasrik</gword>
                             <gloss>p.name</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>301</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>Ratison</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>302</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -45,7 +45,7 @@
                         <segment>
                             <gword>Etasrik</gword>
                             <gloss>p.name</gloss>
-                            <graid>np.d:s</graid>
+                            <graid>pn_np.d:s</graid>
                             <refind>301</refind>
                         </segment>
                         <segment>
@@ -172,7 +172,7 @@
                         <segment>
                             <gword>Lisau</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                             <refind>304</refind>
                         </segment>
                     </annotations>
@@ -1062,7 +1062,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3S.O</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0.h:p</graid>
                             <refind>313</refind>
                         </segment>

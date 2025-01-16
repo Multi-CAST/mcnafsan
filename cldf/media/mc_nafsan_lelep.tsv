@@ -100,7 +100,7 @@ nafsan	lelep	0003	ZERO	ZERO	0.1:a	0	1	a
 nafsan	lelep	0003	a=	1S.RS=	=lv	=lv				
 nafsan	lelep	0003	slat-i	take-TS	v:pred	v		pred		
 nafsan	lelep	0003	ZERO	ZERO	0:p	0		p	206	
-nafsan	lelep	0003	Aneityum	p.name	np:l	np		l	207	new
+nafsan	lelep	0003	Aneityum	p.name	pn_np:l	pn_np		l	207	new
 nafsan	lelep	0003	#	#	#ac	#ac				
 nafsan	lelep	0003	nlaken	because	other	other				
 nafsan	lelep	0003	akit	1P.incS	pro.1:a	pro	1	a		
@@ -110,8 +110,8 @@ nafsan	lelep	0003	ZERO	ZERO	0:p	0		p	201
 nafsan	lelep	0003	esa	here	np:other	np		other		
 nafsan	lelep	0004	[AUD]	[AUD]	[AUD]	[AUD]				
 nafsan	lelep	0004	#	#	#nc	#nc				
-nafsan	lelep	0004	Aneityum	p.name	nc	nc				
-nafsan	lelep	0005	Aneityum	p.name	nc	nc				
+nafsan	lelep	0004	Aneityum	p.name	nc_pn_np	nc_pn_np			207	
+nafsan	lelep	0005	Aneityum	p.name	nc_pn_np	nc_pn_np			207	
 nafsan	lelep	0006	o	o	nc	nc				
 nafsan	lelep	0006	a	confirm	nc	nc				
 nafsan	lelep	0007	#	#	##	##				
@@ -240,7 +240,7 @@ nafsan	lelep	0010	ki=	3S.PS=	=lv	=lv
 nafsan	lelep	0010	pi	be	lv	lv				
 nafsan	lelep	0010	tu	stand	v:pred	v		pred		
 nafsan	lelep	0010	ntan	ground	np:l	np		l	215	
-nafsan	lelep	0010	Kala	exclamation	other	other				
+nafsan	lelep	0010	kala	exclamation	other	other				
 nafsan	lelep	0010	#	#	##	##				
 nafsan	lelep	0010	ZERO	ZERO	0:s	0		s	213	
 nafsan	lelep	0010	i=	3S.RS=	=lv	=lv				
@@ -272,7 +272,7 @@ nafsan	lelep	0010	#	#	##	##
 nafsan	lelep	0010	ZERO	ZERO	0.2:a	0	2	a		
 nafsan	lelep	0010	ku=	2S.RS=	=lv	=lv				
 nafsan	lelep	0010	lek-a	look-TS	v:pred	v		pred		
-nafsan	lelep	0010	ZERO	3S.O	0:p	0		p	213	
+nafsan	lelep	0010	ZERO	ZERO	0:p	0		p	213	
 nafsan	lelep	0010	#	#	##	##				
 nafsan	lelep	0010	go	and	other	other				
 nafsan	lelep	0010	ZERO	ZERO	0.2:a	0	2	a		
@@ -289,12 +289,12 @@ nafsan	lelep	0011	nafnag	food	np:s	np		s	212
 nafsan	lelep	0011	ru=	3P.RS=	=lv	=lv				
 nafsan	lelep	0011	tu	stand	v:pred	v		pred		
 nafsan	lelep	0011	wi	good	rv	rv				
-nafsan	lelep	0011	o	O	other	other				
+nafsan	lelep	0011	o	oh	other	other				
 nafsan	lelep	0011	#	#	##	##				
 nafsan	lelep	0011	nafnag	food	np:s	np		s	212	
 nafsan	lelep	0011	i=	3S.RS=	=lv	=lv				
 nafsan	lelep	0011	top	big	v:pred	v		pred		
-nafsan	lelep	0011	Mm	confirm	other	other				
+nafsan	lelep	0011	mm	confirm	other	other				
 nafsan	lelep	0011	#	#	##	##				
 nafsan	lelep	0011	i=	3S.RS=	=lv	=lv				
 nafsan	lelep	0011	piatlak	have	v:predex	v		predex		
@@ -318,7 +318,7 @@ nafsan	lelep	0011	te-ni	DET-of	np:dt_p	np		dt_p
 nafsan	lelep	0011	ZERO	ZERO	0.1:a	0	1	a		
 nafsan	lelep	0011	a=	1S.RS=	=lv	=lv				
 nafsan	lelep	0011	pregnrog-o	try-TS	v:pred	v		pred		
-nafsan	lelep	0011	ZERO	3S.O	0:p	0		p		
+nafsan	lelep	0011	ZERO	ZERO	0:p	0		p		
 nafsan	lelep	0011	#	#	##	##				
 nafsan	lelep	0011	ZERO	ZERO	0.h:a	0	h	a		
 nafsan	lelep	0011	ru=	3P.RS=	=lv	=lv				
@@ -328,7 +328,7 @@ nafsan	lelep	0012	#	#	#nc	#nc
 nafsan	lelep	0012	gawankia	that's_it	nc	nc				
 nafsan	lelep	0013	[AUD]	[AUD]	[AUD]	[AUD]				
 nafsan	lelep	0013	#	#	#nc	#nc				
-nafsan	lelep	0013	Malpei	before	nc	nc				
+nafsan	lelep	0013	malpei	before	nc	nc				
 nafsan	lelep	0014	#	#	##	##				
 nafsan	lelep	0014	malpei	before	other	other				
 nafsan	lelep	0014	mal	time	np:other	np		other		
@@ -474,7 +474,7 @@ nafsan	lelep	0017	ru=	3P.RS=	=lv	=lv
 nafsan	lelep	0017	sos-o	call-TS	v:pred	v		pred		
 nafsan	lelep	0017	ZERO	ZERO	0:p	0		p	224	
 nafsan	lelep	0017	ki	PREP	adp	adp				
-nafsan	lelep	0017	Em̃elfat	p.name	np:other	np		other	225	new
+nafsan	lelep	0017	Em̃elfat	p.name	pn_np:other	pn_np		other	225	new
 nafsan	lelep	0017	nametp̃agon	end	nc	nc				
 nafsan	lelep	0017	leg	straight	nc	nc				
 nafsan	lelep	0017	faat	NC	nc	nc				
@@ -557,8 +557,8 @@ nafsan	lelep	0020	i=	3S.RS=	nc	nc
 nafsan	lelep	0020	ta	not	nc	nc				
 nafsan	lelep	0020	pi	be	nc	nc				
 nafsan	lelep	0020	natopu	spirit	nc_np.d	nc_np	d		227	new
-nafsan	lelep	0021	E	E	other	other				
 nafsan	lelep	0021	#	#	##	##				
+nafsan	lelep	0021	E	e	other	other				
 nafsan	lelep	0021	natopu	spirit	np.d:s	np	d	s	227	
 nafsan	lelep	0021	te-p̃tae	DET-different	np:pred	np		pred		
 nafsan	lelep	0021	#	#	##	##				

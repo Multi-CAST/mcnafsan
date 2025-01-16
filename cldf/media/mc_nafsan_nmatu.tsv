@@ -12,8 +12,8 @@ nafsan	nmatu	0001	traus-i	tell-TS	v:pred	v		pred
 nafsan	nmatu	0001	te-natrauswen	DET-story	np:p	np		p	601	new
 nafsan	nmatu	0001	ni	of	rn	rn				
 nafsan	nmatu	0001	maarik	mister	rn	rn				
-nafsan	nmatu	0001	Wili	PN	rn_np.h:poss	rn_np	h	poss	602	new
-nafsan	nmatu	0001	Santo	PN	rn_np	rn_np				
+nafsan	nmatu	0001	Wili	PN	rn_pn_np.h:poss	rn_pn_np	h	poss	602	new
+nafsan	nmatu	0001	Santo	PN	rn	rn				
 nafsan	nmatu	0001	#	#	##	##				
 nafsan	nmatu	0001	ZERO	ZERO	0.h:a	0	h	a	602	
 nafsan	nmatu	0001	i=	3S.RS=	=lv	=lv				
@@ -27,7 +27,7 @@ nafsan	nmatu	0002	i=	3S.RS=	=lv	=lv
 nafsan	nmatu	0002	til	say	v:pred	v		pred		
 nafsan	nmatu	0002	natam̃ol	person	np.h:p	np	h	p	603	bridging
 nafsan	nmatu	0002	ni	of	rn	rn				
-nafsan	nmatu	0002	Ermag	PN	rn_np:poss	rn_np		poss	604	new
+nafsan	nmatu	0002	Ermag	PN	rn_pn_np:poss	rn_pn_np		poss	604	new
 nafsan	nmatu	0002	i=	3S.RS=	=rn	=rn				
 nafsan	nmatu	0002	nru	two	rn_np	rn_np				
 nafsan	nmatu	0003	#	#	##	##				

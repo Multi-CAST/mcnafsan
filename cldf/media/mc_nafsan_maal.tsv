@@ -298,7 +298,6 @@ nafsan	maal	0010	maal	hawk	np:p	np		p	502
 nafsan	maal	0010	pak	to	adp	adp				
 nafsan	maal	0010	elag	high	np:g	np		g	504	
 nafsan	maal	0010	#	#	#nc	#nc				
-nafsan	maal	0010	ZERO	ZERO	nc	nc				
 nafsan	maal	0010	i=	3S.RS=	nc	nc				
 nafsan	maal	0010	pi	be	nc	nc				
 nafsan	maal	0010	stori	story	nc	nc				
@@ -357,7 +356,6 @@ nafsan	maal	0013	maal	hawk	np.d:p	np	d	p	505
 nafsan	maal	0013	pak	to	adp	adp				
 nafsan	maal	0013	elag	high	np:g	np		g	504	
 nafsan	maal	0013	#	#	#nc	#nc				
-nafsan	maal	0013	ZERO	ZERO	nc	nc				
 nafsan	maal	0013	i=	3S.RS=	nc	nc				
 nafsan	maal	0013	pi	be	nc	nc				
 nafsan	maal	0013	stori	story	nc	nc				

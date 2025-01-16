@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="kori" annotators="Nick Thieberger, Timothy Brickell" speaker="NF01">
-            <file f_name="mc_nafsan_kori" audio="mc_nafsan_kori.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_kori" audio="mc_nafsan_kori.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="605" end_time="2930">
                     <utterance_id>nafsan_kori_0001</utterance_id>
                     <utterance>Ana katraus natrauswen ni Egun.</utterance>
@@ -61,7 +61,7 @@
                         <segment>
                             <gword>Egun</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                             <refind>101</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -80,7 +80,7 @@
                         <segment>
                             <gword>Egun</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:dt</graid>
+                            <graid>pn_np:dt</graid>
                             <refind>101</refind>
                         </segment>
                         <segment>
@@ -122,7 +122,7 @@
                         <segment>
                             <gword>Egun</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>101</refind>
                         </segment>
                         <segment>
@@ -138,12 +138,12 @@
                         <segment>
                             <gword>Peter</gword>
                             <gloss>p.name</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>pn_np.h:s</graid>
                         </segment>
                         <segment>
                             <gword>Milne</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn</graid>
                         </segment>
                         <segment>
                             <gword>i=</gword>
@@ -1523,7 +1523,7 @@
                         <segment>
                             <gword>Krikai</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_np:other</graid>
                             <refind>110</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -1551,7 +1551,7 @@
                         <segment>
                             <gword>Krikai</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>109</refind>
                         </segment>
                         <segment>
@@ -2729,7 +2729,7 @@
                         <segment>
                             <gword>Egun</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>101</refind>
                         </segment>
                     </annotations>
@@ -3692,7 +3692,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>ZERO</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_0.h</graid>
                         </segment>
                         <segment>
                             <gword>ki=</gword>
@@ -5544,7 +5544,7 @@
                         <segment>
                             <gword>Krikai</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>109</refind>
                         </segment>
                     </annotations>
@@ -6463,7 +6463,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3S.O</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0.d:p</graid>
                             <refind>102</refind>
                         </segment>
@@ -7579,7 +7579,7 @@
                         <segment>
                             <gword>Taalo</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>128</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -7925,7 +7925,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>ZERO</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_0.h</graid>
                         </segment>
                         <segment>
                             <gword>ku=</gword>
@@ -9330,7 +9330,7 @@
                         <segment>
                             <gword>Krikai</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:g</graid>
+                            <graid>pn_np:g</graid>
                             <refind>110</refind>
                             <isnref/>
                         </segment>
@@ -9440,7 +9440,7 @@
                         <segment>
                             <gword>-n</gword>
                             <gloss>-3S.DP</gloss>
-                            <graid>-pro.h:poss</graid>
+                            <graid>-rn_pro.h:poss</graid>
                             <refind>112</refind>
                             <isnref/>
                         </segment>
@@ -9726,7 +9726,7 @@
                         <segment>
                             <gword>Egun</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                         </segment>
                         <segment>
                             <gword>pan</gword>

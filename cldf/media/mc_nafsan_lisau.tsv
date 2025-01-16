@@ -2,10 +2,10 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 nafsan	lisau	0001	#	#	##	##				
 nafsan	lisau	0001	i=	3S.RS=	=lv	=lv				
 nafsan	lisau	0001	piatlak	have	v:predex	v		predex		
-nafsan	lisau	0001	Etasrik	p.name	np.d:s	np	d	s	301	new
-nafsan	lisau	0001	Ratison	p.name	rn_np	rn_np			302	new
+nafsan	lisau	0001	Etasrik	p.name	pn_np.d:s	pn_np	d	s	301	new
+nafsan	lisau	0001	Ratison	p.name	rn_pn_np	rn_pn_np			302	new
 nafsan	lisau	0001	#	#	##	##				
-nafsan	lisau	0001	Etasrik	p.name	np.d:s	np	d	s	301	
+nafsan	lisau	0001	Etasrik	p.name	pn_np.d:s	pn_np	d	s	301	
 nafsan	lisau	0001	i=	3S.RS=	=lv	=lv				
 nafsan	lisau	0001	piatlak	have	v:predex	v		predex		
 nafsan	lisau	0001	mtulep	wife	np.h:p	np	h	p	303	new
@@ -27,7 +27,7 @@ nafsan	lisau	0002	nagi-e	name-V	np:s	np		s	304	new
 nafsan	lisau	0002	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss	303	
 nafsan	lisau	0002	i=	3S.RS=	=lv	=lv				
 nafsan	lisau	0002	pi	be	cop	cop				
-nafsan	lisau	0002	Lisau	p.name	np:pred	np		pred	304	
+nafsan	lisau	0002	Lisau	p.name	pn_np:pred	pn_np		pred	304	
 nafsan	lisau	0003	#	#	##	##				
 nafsan	lisau	0003	ga	3S.	pro.d:a	pro	d	a	303	
 nafsan	lisau	0003	me	and	other	other				
@@ -185,7 +185,7 @@ nafsan	lisau	0009	p̃a=	2S.IRS=	=lv	=lv
 nafsan	lisau	0009	fo	PSP:IR	lv	lv				
 nafsan	lisau	0009	neu	1S.BEN	lv_pro.1:obl	lv_pro	1	obl		
 nafsan	lisau	0009	wat-gi	hit-TR	v:pred	v		pred		
-nafsan	lisau	0009	ZERO	3S.O	0.h:p	0	h	p	313	
+nafsan	lisau	0009	ZERO	ZERO	0.h:p	0	h	p	313	
 nafsan	lisau	0010	#	#	##	##				
 nafsan	lisau	0010	ZERO	ZERO	0.h:a	0	h	a	303	
 nafsan	lisau	0010	ke=	3S.IRS=	=lv	=lv				

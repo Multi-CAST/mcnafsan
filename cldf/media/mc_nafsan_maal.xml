@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="maal" annotators="Nick Thieberger, Timothy Brickell" speaker="NF03">
-            <file f_name="mc_nafsan_maal" audio="mc_nafsan_maal.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_maal" audio="mc_nafsan_maal.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="760" end_time="7040">
                     <utterance_id>nafsan_maal_0001</utterance_id>
                     <utterance>Naliati iskei maal ruto ruto puserek.</utterance>
@@ -1662,11 +1662,6 @@
                             <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>ZERO</gword>
-                            <gloss>ZERO</gloss>
-                            <graid>nc</graid>
-                        </segment>
-                        <segment>
                             <gword>i=</gword>
                             <gloss>3S.RS=</gloss>
                             <graid>nc</graid>
@@ -1992,11 +1987,6 @@
                             <gword>#</gword>
                             <gloss>#</gloss>
                             <graid>#nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>ZERO</gword>
-                            <gloss>ZERO</gloss>
-                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>i=</gword>

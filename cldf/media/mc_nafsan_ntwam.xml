@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="ntwam" annotators="Nick Thieberger, Timothy Brickell" speaker="NF04">
-            <file f_name="mc_nafsan_ntwam" audio="mc_nafsan_ntwam.wav" updated="2019-09-16">
+            <file f_name="mc_nafsan_ntwam" audio="mc_nafsan_ntwam.wav" updated="2020-09-14">
                 <unit uid="0001" start_time="10620" end_time="14540">
                     <utterance_id>nafsan_ntwam_0001</utterance_id>
                     <utterance>Nrak iskei ipiatlak apu go ati iskei ratok.</utterance>
@@ -1093,7 +1093,7 @@
                         <segment>
                             <gword>kineu</gword>
                             <gloss>1S.</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.1:s</graid>
                             <refind>701</refind>
                         </segment>
                         <segment>
@@ -2938,7 +2938,7 @@
                 <unit uid="0025" start_time="237680" end_time="247680">
                     <utterance_id>nafsan_ntwam_0025</utterance_id>
                     <utterance>Malnen kin inrik ntwam nen kin ntwam nen ina, "A me kineu ana kafo pam akam kia me akam rasef.</utterance>
-                    <utterance_translation>When he said this to the devil, the devil said, "Ah but I wanted to eat you, but you ran away.</utterance_translation>
+                    <utterance_translation>When he said this to the devil, the devil said, "Ah, but I wanted to eat you, but you ran away.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -3390,7 +3390,7 @@
                 <unit uid="0028" start_time="266300" end_time="275230">
                     <utterance_id>nafsan_ntwam_0028</utterance_id>
                     <utterance>Me selwan kin itok panpanpan ratok panpanpan kitok malik sa kitok tarup̃ ntan mai</utterance>
-                    <utterance_translation>They stayed until it grew dark, then (the darkness) fell on the ground.</utterance_translation>
+                    <utterance_translation>They stayed until it grew dark, then (the darkness) fell on the ground,</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4248,7 +4248,7 @@
                 <unit uid="0035" start_time="310720" end_time="319540">
                     <utterance_id>nafsan_ntwam_0035</utterance_id>
                     <utterance>Itok p̃as maloput p̃og. Selwan rato na rakfareki namlas pan rato na rakfarekin nen rakfan fam.</utterance>
-                    <utterance_translation>It was the middle of the night. When they ran away to the bush they ran to get food.</utterance_translation>
+                    <utterance_translation>It was the middle of the night. When they ran away to the bush, they ran to get food.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -6571,7 +6571,7 @@
                 <unit uid="0051" start_time="452500" end_time="457760">
                     <utterance_id>nafsan_ntwam_0051</utterance_id>
                     <utterance>Selwan ntwam isef maarik me isu, ga me namlas imakot kot reki esum̃.</utterance>
-                    <utterance_translation>When the devil escaped the man came down and broke the bush up to the house.</utterance_translation>
+                    <utterance_translation>When the devil escaped, the man came down and broke the bush up to the house.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>

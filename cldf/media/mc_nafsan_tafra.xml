@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="tafra" annotators="Nick Thieberger, Timothy Brickell" speaker="NF03">
-            <file f_name="mc_nafsan_tafra" audio="mc_nafsan_tafra.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_tafra" audio="mc_nafsan_tafra.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="400" end_time="17620">
                     <utterance_id>nafsan_tafra_0001</utterance_id>
                     <utterance>Selwan tupaakor nametp̃ag ntau, rato tu teesa tete nanromien ruto nig Apu go Ati negarwes nanromien sees pan tuer kin Ertap.</utterance>
@@ -208,7 +208,7 @@
                         <segment>
                             <gword>Ertap</gword>
                             <gloss>Eratap</gloss>
-                            <graid>np:other</graid>
+                            <graid>pn_pn_np:other</graid>
                             <refind>910</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -382,7 +382,7 @@
                         <segment>
                             <gword>Elaknar</gword>
                             <gloss>p.name</gloss>
-                            <graid>ln_np:poss</graid>
+                            <graid>ln_pn_np:poss</graid>
                             <refind>914</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -406,7 +406,7 @@
                         <segment>
                             <gword>Elaau</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                             <refind>916</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -467,11 +467,6 @@
                             <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>ZERO</gword>
-                            <gloss>ZERO</gloss>
-                            <graid>nc</graid>
-                        </segment>
-                        <segment>
                             <gword>u=</gword>
                             <gloss>2P.RS=</gloss>
                             <graid>nc</graid>
@@ -516,7 +511,7 @@
                         <segment>
                             <gword>Janweri</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>917</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -539,7 +534,7 @@
                         <segment>
                             <gword>Limaas</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np.h</graid>
+                            <graid>rn_pn_np.h</graid>
                             <refind>918</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -607,15 +602,13 @@
                         <segment>
                             <gword>Pastor</gword>
                             <gloss>pastor</gloss>
-                            <graid>np.h:a</graid>
-                            <refind>921</refind>
-                            <isnref>new</isnref>
+                            <graid>ln</graid>
                         </segment>
                         <segment>
                             <gword>Kalagis</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
-                            <refind>922</refind>
+                            <graid>pn_np.h</graid>
+                            <refind>921</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
@@ -667,7 +660,7 @@
                         <segment>
                             <gword>Ertap</gword>
                             <gloss>Eratap</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>910</refind>
                         </segment>
                     </annotations>
@@ -706,7 +699,7 @@
                         <segment>
                             <gword>Elaknar</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>914</refind>
                         </segment>
                         <segment>
@@ -729,7 +722,7 @@
                         <segment>
                             <gword>Sailas</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np</graid>
+                            <graid>rn_pn_np</graid>
                             <refind>924</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -833,7 +826,7 @@
                         <segment>
                             <gword>Webe</gword>
                             <gloss>p.name</gloss>
-                            <graid>np.h:other</graid>
+                            <graid>pn_np.h:other</graid>
                             <refind>926</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -1052,14 +1045,13 @@
                         <segment>
                             <gword>Paster</gword>
                             <gloss>pastor</gloss>
-                            <graid>np.h:a</graid>
-                            <refind>921</refind>
+                            <graid>ln</graid>
                         </segment>
                         <segment>
                             <gword>Kalagis</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn</graid>
-                            <refind>922</refind>
+                            <graid>pn_np.h:a</graid>
+                            <refind>921</refind>
                         </segment>
                         <segment>
                             <gword>i=</gword>
@@ -1086,7 +1078,7 @@
                         <segment>
                             <gword>Sailas</gword>
                             <gloss>Sailas</gloss>
-                            <graid>rn_np.h:poss</graid>
+                            <graid>rn_pn_np.h:poss</graid>
                             <refind>923</refind>
                         </segment>
                         <segment>
@@ -1199,7 +1191,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>ZERO</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>923</refind>
                         </segment>
                         <segment>
@@ -1264,7 +1256,7 @@
                         </segment>
                         <segment>
                             <gword>i=</gword>
-                            <gloss>3sRS=</gloss>
+                            <gloss>3S.RS=</gloss>
                             <graid>=lv</graid>
                         </segment>
                         <segment>
@@ -1274,7 +1266,7 @@
                         </segment>
                         <segment>
                             <gword>ZERO</gword>
-                            <gloss>3SG.O</gloss>
+                            <gloss>ZERO</gloss>
                             <graid>0:p</graid>
                             <refind>933</refind>
                         </segment>
@@ -1965,7 +1957,7 @@
                 <unit uid="0020" start_time="204240" end_time="218420">
                     <utterance_id>nafsan_tafra_0020</utterance_id>
                     <utterance>me isok ipturki ntas panpan kaiptol. Go kimro kin nag kefo mer mai fam.</utterance>
-                    <utterance_translation>and spurted water until it became hungry. And he thought he would go and eat.</utterance_translation>
+                    <utterance_translation>and jumped and spurted water until it became hungry. And he thought he would go and eat.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -2277,7 +2269,7 @@
                         <segment>
                             <gword>Efat</gword>
                             <gloss>Efate</gloss>
-                            <graid>np:p</graid>
+                            <graid>pn_np:p</graid>
                             <refind>939</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -2368,7 +2360,7 @@
                         <segment>
                             <gword>Efat</gword>
                             <gloss>p.name</gloss>
-                            <graid>rn_np:poss</graid>
+                            <graid>rn_pn_np:poss</graid>
                             <refind>939</refind>
                         </segment>
                     </annotations>

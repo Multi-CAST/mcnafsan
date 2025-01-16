@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2001">
+<multicast version="2101">
     <corpus c_name="nafsan">
         <text t_name="litog" annotators="Nick Thieberger, Timothy Brickell" speaker="NF02">
-            <file f_name="mc_nafsan_litog" audio="mc_nafsan_litog.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_litog" audio="mc_nafsan_litog.wav" updated="2020-08-06">
                 <unit uid="0001" start_time="102" end_time="4897">
                     <utterance_id>nafsan_litog_0001</utterance_id>
                     <utterance>Ore ipiatlak natopu nigmam ni esa. Naat kipe gaag trausi?</utterance>
@@ -21,7 +21,7 @@
                         <segment>
                             <gword>ZERO</gword>
                             <gloss>ZERO</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_0.1</graid>
                         </segment>
                         <segment>
                             <gword>i=</gword>
@@ -94,11 +94,6 @@
                             <gword>#</gword>
                             <gloss>#</gloss>
                             <graid>#nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>ZERO</gword>
-                            <gloss>ZERO</gloss>
-                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>sees</gword>
@@ -675,7 +670,7 @@
                         <segment>
                             <gword>Litog</gword>
                             <gloss>p.name</gloss>
-                            <graid>np:pred</graid>
+                            <graid>pn_np:pred</graid>
                             <refind>409</refind>
                         </segment>
                     </annotations>
@@ -872,8 +867,8 @@
                             <graid>#nc</graid>
                         </segment>
                         <segment>
-                            <gword>Olsem</gword>
-                            <gloss>Olsem</gloss>
+                            <gword>olsem</gword>
+                            <gloss>olsem</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -1015,11 +1010,6 @@
                             <gword>#</gword>
                             <gloss>#</gloss>
                             <graid>#nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>ZERO</gword>
-                            <gloss>ZERO</gloss>
-                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>i=</gword>
@@ -2384,7 +2374,7 @@
                         <segment>
                             <gword>Litog</gword>
                             <gloss>p.name</gloss>
-                            <graid>np.h:dt_p</graid>
+                            <graid>pn_np.h:dt_p</graid>
                             <refind>409</refind>
                         </segment>
                         <segment>
@@ -2888,7 +2878,8 @@
                         <segment>
                             <gword>Litog</gword>
                             <gloss>p.name</gloss>
-                            <graid>nc</graid>
+                            <graid>nc_pn_np.h</graid>
+                            <refind>409</refind>
                         </segment>
                     </annotations>
                 </unit>
@@ -2905,7 +2896,7 @@
                         <segment>
                             <gword>Litog</gword>
                             <gloss>p.name</gloss>
-                            <graid>nc_np.h</graid>
+                            <graid>nc_pn_np.h</graid>
                             <refind>407</refind>
                         </segment>
                         <segment>
@@ -3243,11 +3234,6 @@
                         <segment>
                             <gword>ale</gword>
                             <gloss>okay:BI</gloss>
-                            <graid>nc</graid>
-                        </segment>
-                        <segment>
-                            <gword>ZER</gword>
-                            <gloss>ZERO</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>

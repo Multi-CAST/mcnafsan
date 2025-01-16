@@ -1,7 +1,7 @@
 corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 nafsan	litog	0001	#	#	#nc	#nc				
 nafsan	litog	0001	ore	yes	nc	nc				
-nafsan	litog	0001	ZERO	ZERO	nc	nc				
+nafsan	litog	0001	ZERO	ZERO	nc_0.1	nc_0	1			
 nafsan	litog	0001	i=	3S.RS=	nc	nc				
 nafsan	litog	0001	piatlak	have	nc	nc				
 nafsan	litog	0001	natopu	spirit	nc	nc				
@@ -15,7 +15,6 @@ nafsan	litog	0001	pe	PF	nc	nc
 nafsan	litog	0001	gaag	2S.BEN	nc	nc				
 nafsan	litog	0001	traus-i	tell-TR	nc	nc				
 nafsan	litog	0002	#	#	#nc	#nc				
-nafsan	litog	0002	ZERO	ZERO	nc	nc				
 nafsan	litog	0002	sees	small	nc	nc				
 nafsan	litog	0002	m̃as	only	nc	nc				
 nafsan	litog	0003	#	#	##	##				
@@ -115,7 +114,7 @@ nafsan	litog	0007	nagi-e	name-V	np:s	np		s	409	new
 nafsan	litog	0007	-n	-3S.DP	-rn_pro:poss	-rn_pro		poss	407	
 nafsan	litog	0007	i=	3S.RS=	=lv	=lv				
 nafsan	litog	0007	pi	be	cop	cop				
-nafsan	litog	0007	Litog	p.name	np:pred	np		pred	409	
+nafsan	litog	0007	Litog	p.name	pn_np:pred	pn_np		pred	409	
 nafsan	litog	0008	#	#	##	##				
 nafsan	litog	0008	me	but	other	other				
 nafsan	litog	0008	ZERO	ZERO	0.d:a	0	d	a	401	
@@ -148,7 +147,7 @@ nafsan	litog	0009	tp̃olu	send_message	v:pred	v		pred
 nafsan	litog	0009	polis	police:BI	np.d:p	np	d	p	410	
 nafsan	litog	0009	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	401	
 nafsan	litog	0010	#	#	#nc	#nc				
-nafsan	litog	0010	Olsem	Olsem	nc	nc				
+nafsan	litog	0010	olsem	olsem	nc	nc				
 nafsan	litog	0010	hemi	hemi	nc	nc				
 nafsan	litog	0010	sendem	sendem	nc	nc				
 nafsan	litog	0010	polis	police:BI	nc	nc				
@@ -175,7 +174,6 @@ nafsan	litog	0010	sol	salt:BI	nc	nc
 nafsan	litog	0010	wota	water:BI	nc	nc				
 nafsan	litog	0010	a	ah	nc	nc				
 nafsan	litog	0011	#	#	#nc	#nc				
-nafsan	litog	0011	ZERO	ZERO	nc	nc				
 nafsan	litog	0011	i=	3S.RS=	nc	nc				
 nafsan	litog	0011	piatlak	have	nc	nc				
 nafsan	litog	0011	na	DET	nc	nc				
@@ -417,7 +415,7 @@ nafsan	litog	0022	#	#	##	##
 nafsan	litog	0022	ZERO	ZERO	0.d:a	0	d	a	412	
 nafsan	litog	0022	puet	take	v:pred	v		pred		
 nafsan	litog	0022	nmatu	female	np.h:p	np	h	p	407	
-nafsan	litog	0022	Litog	p.name	np.h:dt_p	np	h	dt_p	409	
+nafsan	litog	0022	Litog	p.name	pn_np.h:dt_p	pn_np	h	dt_p	409	
 nafsan	litog	0022	#	#	##	##				
 nafsan	litog	0022	ZERO	ZERO	0.d:a	0	d	a	412	
 nafsan	litog	0022	ru=	3P.RS=	=lv	=lv				
@@ -506,9 +504,9 @@ nafsan	litog	0026	tup̃	until	adp	adp
 nafsan	litog	0026	mees	today	np:obl	np		obl	421	
 nafsan	litog	0027	[AUD]	[AUD]	[AUD]	[AUD]				
 nafsan	litog	0027	#	#	#nc	#nc				
-nafsan	litog	0027	Litog	p.name	nc	nc				
+nafsan	litog	0027	Litog	p.name	nc_pn_np.h	nc_pn_np	h		409	
 nafsan	litog	0028	#	#	##	##				
-nafsan	litog	0028	Litog	p.name	nc_np.h	nc_np	h		407	
+nafsan	litog	0028	Litog	p.name	nc_pn_np.h	nc_pn_np	h		407	
 nafsan	litog	0028	ZERO	ZERO	0.h:s	0	h	s	407	
 nafsan	litog	0028	nlaken	because	other	other				
 nafsan	litog	0028	i=	3S.RS=	=lv	=lv				
@@ -570,7 +568,6 @@ nafsan	litog	0030	tup̃	until	adp	adp
 nafsan	litog	0030	mees	today	np:obl	np		obl	421	
 nafsan	litog	0030	#	#	#nc	#nc				
 nafsan	litog	0030	ale	okay:BI	nc	nc				
-nafsan	litog	0030	ZER	ZERO	nc	nc				
 nafsan	litog	0030	i=	3S.RS=	nc	nc				
 nafsan	litog	0030	tefla	similar	nc	nc				
 nafsan	litog	0031	taos	like	nc	nc				

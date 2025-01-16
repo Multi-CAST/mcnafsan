@@ -67,11 +67,11 @@ nafsan	lisau	0005	ZERO	ZERO	f0.h:a	f0	h	a	309
 nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
 nafsan	lisau	0005	preg	make	v:pred	v		pred		
 nafsan	lisau	0005	te-namrun	DET-something	np:p	np		p	310	new
-nafsan	lisau	0005	%	%	#rc_rn	#rc_rn				
+nafsan	lisau	0005	#	#	#rc_rn	#rc_rn				
 nafsan	lisau	0005	ZERO	ZERO	f0.h:s	f0	h	s	309	
 nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
 nafsan	lisau	0005	takel	crooked	v:pred	v		pred		
-nafsan	lisau	0005	#	#	%	%				
+nafsan	lisau	0005	%	%	%	%				
 nafsan	lisau	0005	ZERO	ZERO	0.h:a	0	h	a	307	
 nafsan	lisau	0005	ke=	3S.IRS=	=lv	=lv				
 nafsan	lisau	0005	fo	PSP.IR	lv	lv				

@@ -34,7 +34,7 @@ nafsan	tafra	0001	tu-e	give-TS	v:pred	v		pred
 nafsan	tafra	0001	-r	-3P.O	-pro.h:p	-pro	h	p	909	bridging
 nafsan	tafra	0001	ki	PREP	adp	adp				
 nafsan	tafra	0001	-n	-DST	-pro:obl	-pro		obl		
-nafsan	tafra	0001	Ertap	Eratap	pn_pn_np:other	pn_pn_np		other	910	new
+nafsan	tafra	0001	Ertap	Eratap	pn_np:other	pn_np		other	910	new
 nafsan	tafra	0002	#	#	##	##				
 nafsan	tafra	0002	ntau	year	np:other	np		other	903	
 nafsan	tafra	0002	1956	1956	rn_np	rn_np			912	new

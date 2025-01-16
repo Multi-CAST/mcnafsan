@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="nafsan">
   <text t_name="tafra" annotators="Nick Thieberger, Timothy Brickell" speaker="NF03">
-   <file f_name="mc_nafsan_tafra" audio="mc_nafsan_tafra.wav" updated="2022-07-25">
+   <file f_name="mc_nafsan_tafra" audio="mc_nafsan_tafra.wav" updated="2023-07-09">
     <unit uid="0001" start_time="400" end_time="17620">
      <utterance_id>nafsan_tafra_0001</utterance_id>
      <utterance>Selwan tupaakor nametp̃ag ntau, rato tu teesa tete nanromien ruto nig Apu go Ati negarwes nanromien sees pan tuer kin Ertap.</utterance>
@@ -208,7 +208,7 @@
       <segment>
        <gword>Ertap</gword>
        <gloss>Eratap</gloss>
-       <graid>pn_pn_np:other</graid>
+       <graid>pn_np:other</graid>
        <refind>910</refind>
        <isnref>new</isnref>
       </segment>

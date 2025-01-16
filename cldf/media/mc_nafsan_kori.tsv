@@ -1061,7 +1061,7 @@ nafsan	kori	0025	#	#	#ds	#ds
 nafsan	kori	0025	ZERO	ZERO	0.2:a	0	2	a	112	
 nafsan	kori	0025	p̃a=	2S.IRS=	=lv	=lv				
 nafsan	kori	0025	nrog	hear	v:pred	v		pred		
-nafsan	kori	0025	#	#	#ds.cc:p	#ds.cc		p		
+nafsan	kori	0025	#	#	#ds_cc:p	#ds_cc		p		
 nafsan	kori	0025	kin	COMP	other	other				
 nafsan	kori	0025	ZERO	ZERO	0.d:s	0	d	s	102	
 nafsan	kori	0025	i=	3S.RS=	=lv	=lv				

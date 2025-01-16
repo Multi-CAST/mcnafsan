@@ -217,7 +217,7 @@ nafsan	maal	0008	ZERO	ZERO	0.d:a	0	d	a	505
 nafsan	maal	0008	i=	3S.RS=	=lv	=lv				
 nafsan	maal	0008	min	drink	v:pred	v		pred		
 nafsan	maal	0008	silu	every	np:p	np		p	510	
-nafsan	maal	0008	#	#	%	%				
+nafsan	maal	0008	%	%	%	%				
 nafsan	maal	0008	go	and	other	other				
 nafsan	maal	0008	ZERO	ZERO	0.d:s	0	d	s	512	bridging
 nafsan	maal	0008	ru=	3P.RS=	=lv	=lv				

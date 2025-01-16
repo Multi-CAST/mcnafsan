@@ -248,7 +248,7 @@ nafsan	tafra	0013	i=	3S.RS=	=lv	=lv
 nafsan	tafra	0013	to	PROG	lv_aux	lv_aux				
 nafsan	tafra	0013	wat	hit	v:pred	v		pred		
 nafsan	tafra	0013	ur	along	rv	rv				
-nafsan	tafra	0013	elau	sea	np:p	np		p	934	
+nafsan	tafra	0013	elau	sea	np:p	np		p	934	unused
 nafsan	tafra	0014	#	#	##	##				
 nafsan	tafra	0014	me	but	other	other				
 nafsan	tafra	0014	naik	fish	np.d:s	np	d	s	927	
@@ -336,7 +336,7 @@ nafsan	tafra	0019	to	at	rn	rn
 nafsan	tafra	0019	#	#	##	##				
 nafsan	tafra	0019	ZERO	ZERO	0.d:a	0	d	a	936	
 nafsan	tafra	0019	pul-ki	twirl-TR	v:pred	v		pred		
-nafsan	tafra	0019	nam̃el-e	tail_of_fish-V	np:p	np		p	937	
+nafsan	tafra	0019	nam̃el-e	tail_of_fish-V	np:p	np		p	937	bridging
 nafsan	tafra	0019	-n	-3S.DP	-rn_pro:poss	-rn_pro		poss	936	
 nafsan	tafra	0020	#	#	##	##				
 nafsan	tafra	0020	me	and	other	other				

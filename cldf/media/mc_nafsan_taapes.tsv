@@ -160,7 +160,7 @@ nafsan	taapes	0010	na	PURP	other	other
 nafsan	taapes	0010	ZERO	ZERO	0.d:a	0	d	a	801	
 nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
 nafsan	taapes	0010	kal-ki	dress-TR	v:pred	v		pred		
-nafsan	taapes	0010	nkal	cloth	np:p	np		p	807	
+nafsan	taapes	0010	nkal	cloth	np:p	np		p	807	bridging
 nafsan	taapes	0010	ga	3S.POS	rn_pro:poss	rn_pro		poss	801	
 nafsan	taapes	0010	#	#	##	##				
 nafsan	taapes	0010	ZERO	ZERO	0.d:s	0	d	s	801	
@@ -180,7 +180,7 @@ nafsan	taapes	0010	ZERO	ZERO	0.d:a	0	d	a	801
 nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
 nafsan	taapes	0010	pas-ki	push-TR	v:pred	v		pred		
 nafsan	taapes	0010	-n	-3S.O	-pro:p	-pro		p	806	
-nafsan	taapes	0010	np̃au	head	np:g	np		g	808	
+nafsan	taapes	0010	np̃au	head	np:g	np		g	808	bridging
 nafsan	taapes	0010	-n	-3S.DP	-rn_pro:poss	-rn_pro		poss	801	
 nafsan	taapes	0011	#	#	##	##				
 nafsan	taapes	0011	ZERO	ZERO	0.d:s	0	d	s	801	

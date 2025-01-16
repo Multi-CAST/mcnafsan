@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Thieberger, Nick & Brickell, Timothy. 2021. Multi-CAST Nafsan. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nafsan) (date accessed)",
+    "dc:bibliographicCitation": "Thieberger, Nick & Brickell, Timothy. 2022. Multi-CAST Nafsan. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2211. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nafsan) (date accessed)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TextCorpus",
     "dc:description": "The **Nafsan** ([sout2856](https://glottolog.org/resource/languoid/id/sout2856)) language, also known as South Efate, is a Southern Oceanic language spoken on the island of Efate in central Vanuatu. As of 2005, there are approximately 6\u2009000 speakers of Nafsan living in coastal villages from Pango to Eton. A [description of the language](MediaTable#cldf:Thieberger2006_a-grammar-of-South-Efate.pdf) can be found in [Thieberger (2006)](Source#cldf:thieberger2006).\n\nThe Multi-CAST Nafsan corpus constitutes a subset of the material collected by Nick Thieberger for his PhD research over three periods of fieldwork in the villages of Eratap and Erakor in South Efate between 1995 and 2000, and during subsequent trips. The entirety of the data has been archived in [PARADISEC](http://catalog.paradisec.org.au/collections/NT1), and can also be accessed via [ANNIS](https://gerlingo.com/language_detail.php?langID=6). See further [Thieberger (2004)](Source#cldf:thieberger2004).\n\nThe texts were glossed with GRAID by Nick Thieberger and Timothy Brickell, and subsequently annotated with RefIND by Adrian Kuqi under supervision of Stefan Schnell.\n\nThe Multi-CAST Nafsan texts (version 2207) also constitute a part of the [Nafsan data set](https://doreco.huma-num.fr/languages/sout2856) in [DoReCo](https://doreco.huma-num.fr/), which has been time-aligned at the phone level.",
     "dc:identifier": "https://multicast.aspra.uni-bamberg.de/#nafsan",
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Multi-CAST/mcnafsan",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2001",
+            "dc:created": "v2101",
             "dc:title": "Repository"
         },
         {

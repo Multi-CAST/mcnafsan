@@ -679,7 +679,7 @@ nafsan	ntwam	0031	nen	that	rn	rn
 nafsan	ntwam	0031	i=	3S.RS=	=lv	=lv				
 nafsan	ntwam	0031	to	PROG	aux	aux				
 nafsan	ntwam	0031	us	follow	v:pred	v		pred		
-nafsan	ntwam	0031	napu	road	np:p	np		p	734	
+nafsan	ntwam	0031	napu	road	np:p	np		p	734	new
 nafsan	ntwam	0031	#	#	#rc_rn	#rc_rn				
 nafsan	ntwam	0031	kin	REL	other	other				
 nafsan	ntwam	0031	ZERO	ZERO	0:a	0		a	701	
@@ -1019,7 +1019,7 @@ nafsan	ntwam	0043	kineu	1S.	pro.1:a	pro	1	a	701
 nafsan	ntwam	0043	kai=	1S.PS=	=lv	=lv				
 nafsan	ntwam	0043	pe	PF	lv	lv				
 nafsan	ntwam	0043	pam	eat	v:pred	v		pred		
-nafsan	ntwam	0043	natam̃ol	person	np.h:p	np	h	p	749	
+nafsan	ntwam	0043	natam̃ol	person	np.h:p	np	h	p	749	bridging
 nafsan	ntwam	0043	i=	3S.RS=	=rn	=rn				
 nafsan	ntwam	0043	latol	eight	rn_np	rn_np				
 nafsan	ntwam	0043	ki	TOP	other	other				

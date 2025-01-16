@@ -388,13 +388,13 @@ nafsan	litog	0021	go	and	other	other
 nafsan	litog	0021	ZERO	ZERO	0.h:a	0	h	a	412	
 nafsan	litog	0021	rukoi=	3P.PS=	=lv	=lv				
 nafsan	litog	0021	pus-i	put-TS	v:pred	v		pred		
-nafsan	litog	0021	ZERO	ZERO	0:p	0		p	419	
+nafsan	litog	0021	ZERO	ZERO	0:p	0		p	419	new
 nafsan	litog	0021	#	#	##	##				
 nafsan	litog	0021	ZERO	ZERO	0.h:a	0	h	a	412	
 nafsan	litog	0021	ru=	3P.RS=	=lv	=lv				
 nafsan	litog	0021	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	407	
 nafsan	litog	0021	slat	take	v:pred	v		pred		
-nafsan	litog	0021	sernale	everything	np:p	np		p	419	new
+nafsan	litog	0021	sernale	everything	np:p	np		p	419	
 nafsan	litog	0021	#	#	##	##				
 nafsan	litog	0021	ZERO	ZERO	0.h:a	0	h	a	412	
 nafsan	litog	0021	pan	go	lv	lv				

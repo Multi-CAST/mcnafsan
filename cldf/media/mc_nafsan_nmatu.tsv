@@ -412,7 +412,7 @@ nafsan	nmatu	0020	E	hey	other	other
 nafsan	nmatu	0020	ZERO	ZERO	0.2:a	0	2	a	610	
 nafsan	nmatu	0020	p̃a=	2S.IRS=	=lv	=lv				
 nafsan	nmatu	0020	freg	make:IR	v:pred	v		pred		
-nafsan	nmatu	0020	nafnag	food	np:p	np		p	618	
+nafsan	nmatu	0020	nafnag	food	np:p	np		p	618	new
 nafsan	nmatu	0020	#	#	##	##				
 nafsan	nmatu	0020	ZERO	ZERO	0.1:s	0	1	s	620	bridging
 nafsan	nmatu	0020	tak=	1D.incIRS=	=lv	=lv				
@@ -519,7 +519,7 @@ nafsan	nmatu	0024	tete	some	other	other
 nafsan	nmatu	0024	nrak	time	np:other	np		other		
 nafsan	nmatu	0025	#	#	##	##				
 nafsan	nmatu	0025	go	and	other	other				
-nafsan	nmatu	0025	naliati	day	np:other	np		other	625	new
+nafsan	nmatu	0025	naliati	day	np:other	np		other	625	
 nafsan	nmatu	0025	i=	3S.RS=	=rn	=rn				
 nafsan	nmatu	0025	skei	one	rn_np	rn_np				
 nafsan	nmatu	0025	ZERO	ZERO	0.h:s	0	h	s	602	

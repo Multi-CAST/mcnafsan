@@ -484,7 +484,7 @@ nafsan	lelep	0017	me	but	other	other
 nafsan	lelep	0017	ZERO	ZERO	0.h:s	0	h	s	224	
 nafsan	lelep	0017	i=	3S.RS=	=lv	=lv				
 nafsan	lelep	0017	pi	be	cop	cop				
-nafsan	lelep	0017	natam̃ol	person	np.h:pred	np	h	pred	225	new
+nafsan	lelep	0017	natam̃ol	person	np.h:pred	np	h	pred	225	
 nafsan	lelep	0018	#	#	##	##				
 nafsan	lelep	0018	ZERO	ZERO	0.2:a	0	2	a		
 nafsan	lelep	0018	ku=	2S.RS=	=lv	=lv				
@@ -521,7 +521,7 @@ nafsan	lelep	0018	pak	go_to	v:pred	v		pred
 nafsan	lelep	0018	m̃eltig	close	other	other				
 nafsan	lelep	0018	#	#	##	##				
 nafsan	lelep	0018	me	but	other	other				
-nafsan	lelep	0018	ZERO	ZERO	0:s	0		s	226	
+nafsan	lelep	0018	ZERO	ZERO	0:s	0		s	226	bridging
 nafsan	lelep	0018	natam̃ol	person	np:pred	np		pred	226	
 nafsan	lelep	0018	ko	or	rn	rn				
 nafsan	lelep	0018	nafte	what	rn_np	rn_np				
@@ -721,7 +721,7 @@ nafsan	lelep	0026	ku=	2S.RS=	=lv	=lv
 nafsan	lelep	0026	msak	sick	v:pred	v		pred		
 nafsan	lelep	0026	#	#	##	##				
 nafsan	lelep	0026	go	and	other	other				
-nafsan	lelep	0026	natam̃ol	person	np.h:s	np	h	s	232	new
+nafsan	lelep	0026	natam̃ol	person	np.h:s	np	h	s	232	
 nafsan	lelep	0026	nen	that	rn	rn				
 nafsan	lelep	0026	#	#	#rc:pred	#rc		pred		
 nafsan	lelep	0026	kin	REL	other	other				

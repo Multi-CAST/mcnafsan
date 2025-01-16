@@ -1,0 +1,1819 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	kori	0001	#	#	##	##				
+nafsan	kori	0001	ZERO	ZERO	0.1:a	0	1	a		
+nafsan	kori	0001	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0001	na	want	v:pred	v		pred		
+nafsan	kori	0001	#	#	#cc:p	#cc		p		
+nafsan	kori	0001	ZERO	ZERO	0.1:a	0	1	a		
+nafsan	kori	0001	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0001	traus	tell	v:pred	v		pred		
+nafsan	kori	0001	natrauswen	story	np:p	np		p		
+nafsan	kori	0001	ni	of	rn	rn				
+nafsan	kori	0001	Egun	p.name	rn_np:poss	rn_np		poss	101	new
+nafsan	kori	0002	#	#	##	##				
+nafsan	kori	0002	Egun	p.name	np:dt	np		dt	101	
+nafsan	kori	0002	nrak	time	np:other	np		other		
+nafsan	kori	0002	pei	first	rn	rn				
+nafsan	kori	0002	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0002	piatlak	have	v:predex	v		predex		
+nafsan	kori	0002	natam̃ol	person	np.h:s	np	h	s		
+nafsan	kori	0002	kin	REL	other	other				
+nafsan	kori	0002	naur	island	np:dt_l	np		dt_l	101	
+nafsan	kori	0002	Egun	p.name	rn_np	rn_np			101	
+nafsan	kori	0002	nen	that	rn	rn				
+nafsan	kori	0002	#	#	##	##				
+nafsan	kori	0002	Peter	p.name	np.h:s	np	h	s		
+nafsan	kori	0002	Milne	p.name	rn_np	rn_np				
+nafsan	kori	0002	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0002	pak	go_to	v:pred	v		pred		
+nafsan	kori	0002	-wes	-3S.OBL	-pro:l	-pro		l	101	
+nafsan	kori	0002	pa	go	rv	rv				
+nafsan	kori	0003	#	#	##	##				
+nafsan	kori	0003	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0003	piatlak	have	v:predex	v		predex		
+nafsan	kori	0003	natam̃ol	person	np.h:s	np	h	s		
+nafsan	kori	0003	#	#	##	##				
+nafsan	kori	0003	me	and	other	other				
+nafsan	kori	0003	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0003	piatlak	have	v:predex	v		predex		
+nafsan	kori	0003	ntwam	devil	np.d:s	np	d	s	102	unused
+nafsan	kori	0003	i=	3S.RS=	=rn	=rn				
+nafsan	kori	0003	skei	one	rn_np	rn_np				
+nafsan	kori	0003	#	#	##	##				
+nafsan	kori	0003	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0003	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0003	to	stay	v:pred	v		pred		
+nafsan	kori	0003	#	#	##	##				
+nafsan	kori	0003	me	and	other	other				
+nafsan	kori	0003	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0003	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0003	to	PROG	lv	lv				
+nafsan	kori	0003	fam	eat:IR	v:pred	v		pred		
+nafsan	kori	0003	#	#	##	##				
+nafsan	kori	0003	natrauswen	story	np:pred	np		pred	103	new
+nafsan	kori	0003	tilm̃ori	tell.truth	rn	rn				
+nafsan	kori	0003	#	#	#rc:s	#rc		s		
+nafsan	kori	0003	nen	REL	other	other				
+nafsan	kori	0003	kineu	1S.	pro.1:a	pro	1	a		
+nafsan	kori	0003	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0003	to	PROG	lv	lv				
+nafsan	kori	0003	traus-i	tell-TS	v:pred	v		pred		
+nafsan	kori	0003	ZERO	ZERO	0:p	0		p	103	
+nafsan	kori	0003	#	#	##neg	##neg				
+nafsan	kori	0003	ZERO	ZERO	0.1:a	0	1	a		
+nafsan	kori	0003	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0003	kano	unable	lv	lv				
+nafsan	kori	0003	traus	tell	v:pred	v		pred		
+nafsan	kori	0003	natrauswen	story	np:p	np		p		
+nafsan	kori	0003	psir	lie	rn_np	rn_np				
+nafsan	kori	0004	#	#	##	##				
+nafsan	kori	0004	nfaag	parable	np:dt	np		dt	103	
+nafsan	kori	0004	ntwam	devil	np.d:s	np	d	s	102	
+nafsan	kori	0004	nen	that	rn	rn				
+nafsan	kori	0004	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0004	to	HABIT	lv	lv				
+nafsan	kori	0004	fam	eat:IR	v:pred	v		pred		
+nafsan	kori	0004	#	#	##	##				
+nafsan	kori	0004	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0004	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0004	to	HABIT	lv	lv				
+nafsan	kori	0004	fam	eat:IR	v:pred	v		pred		
+nafsan	kori	0004	pan	until	other	other				
+nafsan	kori	0004	#	#	##	##				
+nafsan	kori	0004	me	and	other	other				
+nafsan	kori	0004	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0004	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0004	pan	go	v:pred	v		pred		
+nafsan	kori	0004	#	#	#ac	#ac				
+nafsan	kori	0004	na	PURP	other	other				
+nafsan	kori	0004	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0004	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0004	fam	eat:IR	v:pred	v		pred		
+nafsan	kori	0004	nmatu	woman	np.h:p	np	h	p	104	new
+nafsan	kori	0004	i=	3S.RS=	=rn	=rn				
+nafsan	kori	0004	skei	one	rn_np	rn_np				
+nafsan	kori	0004	#	#	##	##				
+nafsan	kori	0004	me	but	other	other				
+nafsan	kori	0004	nmatu	woman	np.h:s	np	h	s	104	
+nafsan	kori	0004	nen	that	rn	rn				
+nafsan	kori	0004	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0004	trau	really	lv	lv				
+nafsan	kori	0004	fag	scabby	v:pred	v		pred		
+nafsan	kori	0005	#	#	##	##				
+nafsan	kori	0005	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0005	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0005	piatlak	have	v:predex	v		predex		
+nafsan	kori	0005	nfag	sore	np:p	np		p	105	new
+nafsan	kori	0005	nam̃ol-i	body-V	rn_np	rn_np				
+nafsan	kori	0005	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss	104	
+nafsan	kori	0005	#	#	##	##				
+nafsan	kori	0005	ZERO	ZERO	0.d:s_ds	0	d	s_ds	102	
+nafsan	kori	0005	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0005	na	say	v:pred	v		pred		
+nafsan	kori	0005	#	#	#ds	#ds				
+nafsan	kori	0005	o	O	nc	nc				
+nafsan	kori	0005	me	but	other	other				
+nafsan	kori	0005	ag	2S.	pro.2:s	pro	2	s	104	
+nafsan	kori	0005	ku=	2S.RS=	=lv	=lv				
+nafsan	kori	0005	fag	scabby	v:pred	v		pred		
+nafsan	kori	0005	#	#	##ds	##ds				
+nafsan	kori	0005	ag	2S.	pro.2:s	pro	2	s	104	
+nafsan	kori	0005	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0005	fo	PSP:IR	lv	lv				
+nafsan	kori	0005	pi	be	cop	cop				
+nafsan	kori	0005	temlaap	last	np:pred	np		pred	104	
+nafsan	kori	0005	#	#	##ds	##ds				
+nafsan	kori	0005	ZERO	ZERO	0.1:a	0	1	a	102	
+nafsan	kori	0005	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0005	fei	lead:IR	lv	lv				
+nafsan	kori	0005	pam	eat	v:pred	v		pred		
+nafsan	kori	0005	te-nen	DET-that	np.h:p	np	h	p		
+nafsan	kori	0005	#	#	#rc_rn	#rc_rn				
+nafsan	kori	0005	kin	REL	other	other				
+nafsan	kori	0005	ZERO	ZERO	0.1:a	0	1	a	102	
+nafsan	kori	0005	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0005	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0005	na	DET	ln	ln				
+nafsan	kori	0005	nasok-o	skin-V	np:dt_p	np		dt_p	106	new
+nafsan	kori	0005	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss		
+nafsan	kori	0005	#	#	##ds	##ds				
+nafsan	kori	0005	ZERO	ZERO	0:s	0		s	106	
+nafsan	kori	0005	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0005	malmal	clean	v:pred	v		pred		
+nafsan	kori	0005	wi	good	rv	rv				
+nafsan	kori	0005	#	#	#ds_ac	#ds_ac				
+nafsan	kori	0005	kin	SUB	other	other				
+nafsan	kori	0005	me	and	other	other				
+nafsan	kori	0005	ZERO	ZERO	0.1:a	0	1	a	102	
+nafsan	kori	0005	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0005	fo	PSP:IR	lv	lv				
+nafsan	kori	0005	inrok	behind	lv	lv				
+nafsan	kori	0005	mai	come	lv	lv				
+nafsan	kori	0005	pam-i	eat-TS	v:pred	v		pred		
+nafsan	kori	0005	-k	-2S.O	-pro.2:p	-pro	2	p	104	
+nafsan	kori	0006	#	#	##	##				
+nafsan	kori	0006	me	but	other	other				
+nafsan	kori	0006	nmatu	woman	np.h:s	np	h	s	104	
+nafsan	kori	0006	nen	that	rn	rn				
+nafsan	kori	0006	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0006	to	stay	v:pred	v		pred		
+nafsan	kori	0006	#	#	##	##				
+nafsan	kori	0006	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0006	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0006	to	stay	v:pred	v		pred		
+nafsan	kori	0006	#	#	##	##				
+nafsan	kori	0006	me	and	other	other				
+nafsan	kori	0006	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0006	ki=	3S.PS=	=lv	=lv				
+nafsan	kori	0006	pe	PF	lv	lv				
+nafsan	kori	0006	mtak-ki	fear-TR	v:pred	v		pred		
+nafsan	kori	0006	maarik	mister	ln	ln				
+nafsan	kori	0006	ntwam	devil	np.d:p	np	d	p	102	
+nafsan	kori	0006	ne	this	rn	rn				
+nafsan	kori	0006	#	#	##	##				
+nafsan	kori	0006	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0006	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0006	to	stay	v:pred	v		pred		
+nafsan	kori	0006	pan	until	other	other				
+nafsan	kori	0006	pan	until	other	other				
+nafsan	kori	0006	#	#	##	##				
+nafsan	kori	0006	ntwam	devil	np.d:s	np	d	s	102	
+nafsan	kori	0006	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0006	to	PROG	lv	lv				
+nafsan	kori	0006	gohed	go_on:BI	lv	lv				
+nafsan	kori	0006	fam	eat:IR	v:pred	v		pred		
+nafsan	kori	0006	#	#	##	##				
+nafsan	kori	0006	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0006	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0006	to	PROG	lv	lv				
+nafsan	kori	0006	fam	eat:IR	v:pred	v		pred		
+nafsan	kori	0006	#	#	##	##				
+nafsan	kori	0006	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0006	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0006	to	PROG	lv	lv				
+nafsan	kori	0006	fam	eat:IR	v:pred	v		pred		
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	nmatu	woman	np.h:s	np	h	s	104	
+nafsan	kori	0007	nen	that	rn	rn				
+nafsan	kori	0007	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0007	to	PROG	lv	lv				
+nafsan	kori	0007	pan	go	v:pred	v		pred		
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0007	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0007	mtak	fear	v:pred	v		pred		
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	me	and	other	other				
+nafsan	kori	0007	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0007	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0007	piatlak	have	v:predex	v		predex		
+nafsan	kori	0007	kori	dog	np:p	np		p	107	new
+nafsan	kori	0007	sees	small	rn	rn				
+nafsan	kori	0007	i=	3S.RS=	=rn	=rn				
+nafsan	kori	0007	skei	one	rn_np	rn_np				
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0007	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0007	nrik	tell	v:pred	v		pred		
+nafsan	kori	0007	kori	dog	np:p	np		p	107	
+nafsan	kori	0007	sees	small	rn	rn				
+nafsan	kori	0007	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0007	nen	that	rn	rn				
+nafsan	kori	0007	#	#	#ds	#ds				
+nafsan	kori	0007	kin	SUB	other	other				
+nafsan	kori	0007	na	SUB	other	other				
+nafsan	kori	0007	ZERO	ZERO	0.1:s	0	1	s	108	bridging
+nafsan	kori	0007	tak=	1D.incIRS=	=lv	=lv				
+nafsan	kori	0007	sef	escape	v:pred	v		pred		
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	ZERO	ZERO	0.h:a	0	h	a	108	
+nafsan	kori	0007	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0007	pa	drive	v:pred	v		pred		
+nafsan	kori	0007	raru	canoe	np:p	np		p		
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	me	and	other	other				
+nafsan	kori	0007	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0007	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0007	sef	escape	v:pred	v		pred		
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0007	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0007	mai	come	v:pred	v		pred		
+nafsan	kori	0007	mai	come	rv	rv				
+nafsan	kori	0007	#	#	##	##				
+nafsan	kori	0007	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0007	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0007	palus	paddle	v:pred	v		pred		
+nafsan	kori	0007	mai	come	rv	rv				
+nafsan	kori	0007	mai	come	nc	nc				
+nafsan	kori	0007	mai	come	nc	nc				
+nafsan	kori	0007	mai	come	nc	nc				
+nafsan	kori	0007	mai	come	nc	nc				
+nafsan	kori	0008	#	#	##	##				
+nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0008	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0008	maos	tired	v:pred	v		pred		
+nafsan	kori	0008	#	#	##	##				
+nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0008	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0008	to	PROG	lv	lv				
+nafsan	kori	0008	sal	float	v:pred	v		pred		
+nafsan	kori	0008	namos	ocean	np:l	np		l	124	new
+nafsan	kori	0008	#	#	##	##				
+nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0008	rai=	3D.PS=	=lv	=lv				
+nafsan	kori	0008	mer	again	lv	lv				
+nafsan	kori	0008	palus	paddle	v:pred	v		pred		
+nafsan	kori	0008	pan	until	other	other				
+nafsan	kori	0008	#	#	##	##				
+nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0008	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0008	mai	come	lv	lv				
+nafsan	kori	0008	sak	land	v:pred	v		pred		
+nafsan	kori	0008	esa	place	np:g	np		g	109	new
+nafsan	kori	0008	=n	=DST	=rn	=rn				
+nafsan	kori	0008	#	#	##	##				
+nafsan	kori	0008	ZERO	ZERO	0.h:a	0	h	a	108	
+nafsan	kori	0008	ru=	3P.RS=	=lv	=lv				
+nafsan	kori	0008	sos-o	call-TS	v:pred	v		pred		
+nafsan	kori	0008	ZERO	ZERO	0:p	0		p	109	
+nafsan	kori	0008	ki	PREP	adp	adp				
+nafsan	kori	0008	Krikai	p.name	np:other	np		other	110	new
+nafsan	kori	0008	#	#	##	##				
+nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0008	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0008	sak	land	v:pred	v		pred		
+nafsan	kori	0008	Krikai	p.name	np:g	np		g	109	
+nafsan	kori	0008	#	#	##	##				
+nafsan	kori	0008	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0008	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0008	sak	land	v:pred	v		pred		
+nafsan	kori	0008	pak	to	adp	adp				
+nafsan	kori	0008	elag	high	ln_np	ln_np				
+nafsan	kori	0008	ntaf	hill	np:l	np		l	111	new
+nafsan	kori	0009	#	#	##	##				
+nafsan	kori	0009	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0009	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0009	sak	land	v:pred	v		pred		
+nafsan	kori	0009	pak	to	adp	adp				
+nafsan	kori	0009	elag	high	ln	ln				
+nafsan	kori	0009	ntaf	hill	np:g	np		g	111	
+nafsan	kori	0009	#	#	##	##				
+nafsan	kori	0009	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0009	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0009	to	stay	v:pred	v		pred		
+nafsan	kori	0009	ntaf	hill	np:l	np		l	111	
+nafsan	kori	0009	to	stay	nc	nc				
+nafsan	kori	0009	#	#	##	##				
+nafsan	kori	0009	me	and	other	other				
+nafsan	kori	0009	ZERO	ZERO	0.h:s	0	h	s	108	
+nafsan	kori	0009	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0009	to	stay	v:pred	v		pred		
+nafsan	kori	0009	panpan	until	other	other				
+nafsan	kori	0009	#	#	##	##				
+nafsan	kori	0009	go	and	other	other				
+nafsan	kori	0009	nmatu	woman	np.h:s	np	h	s	104	
+nafsan	kori	0009	nen	that	rn	rn				
+nafsan	kori	0009	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0009	to	stay	v:pred	v		pred		
+nafsan	kori	0009	pan	until	other	other				
+nafsan	kori	0009	pan	until	other	other				
+nafsan	kori	0009	#	#	##	##				
+nafsan	kori	0009	me	and	other	other				
+nafsan	kori	0009	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0009	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0009	piatlak	have	v:predex	v		predex		
+nafsan	kori	0009	teesa	child	np.h:p	np	h	p	112	new
+nafsan	kori	0009	i=	3S.RS=	=rn	=rn				
+nafsan	kori	0009	skei	one	rn_np	rn_np				
+nafsan	kori	0010	#	#	##	##				
+nafsan	kori	0010	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0010	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0010	piatlak	have	v:predex	v		predex		
+nafsan	kori	0010	teesa	child	nc	nc				
+nafsan	kori	0010	me	and	nc	nc				
+nafsan	kori	0010	teesa	child	np.h:p	np	h	p	112	
+nafsan	kori	0010	nanwei	male	rn_np	rn_np				
+nafsan	kori	0010	#	#	##	##				
+nafsan	kori	0010	ZERO	ZERO	0.h:a	0	h	a		
+nafsan	kori	0010	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0010	na	want	v:pred	v		pred		
+nafsan	kori	0010	#	#	#cc:p	#cc		p		
+nafsan	kori	0010	ZERO	ZERO	0.h:s	0	h	s	113	bridging
+nafsan	kori	0010	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0010	tok	stay	v:pred	v		pred		
+nafsan	kori	0010	-wes	-3S.OBL	-pro:l	-pro		l	109	
+nafsan	kori	0010	to	stay	rv	rv				
+nafsan	kori	0010	panpan	until	other	other				
+nafsan	kori	0010	#	#	##	##				
+nafsan	kori	0010	go	and	other	other				
+nafsan	kori	0010	teesa	child	np.h:s	np	h	s	112	
+nafsan	kori	0010	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0010	nen	that	rn	rn				
+nafsan	kori	0010	ki=	3S.PS=	=lv	=lv				
+nafsan	kori	0010	to	HAB	lv	lv				
+nafsan	kori	0010	to	stay	v:pred	v		pred		
+nafsan	kori	0010	#	#	##	##				
+nafsan	kori	0010	me	and	other	other				
+nafsan	kori	0010	plakori	hunt.dog	np:s	np		s	107	
+nafsan	kori	0010	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0010	nen	that	rn	rn				
+nafsan	kori	0010	ru=	3P.RS=	=lv	=lv				
+nafsan	kori	0010	to	stay	v:pred	v		pred		
+nafsan	kori	0010	#	#	##	##				
+nafsan	kori	0010	teesa	child	np.h:s	np	h	s	112	
+nafsan	kori	0010	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0010	nen	that	rn	rn				
+nafsan	kori	0010	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0010	to	HAB	lv	lv				
+nafsan	kori	0010	to	stay	v:pred	v		pred		
+nafsan	kori	0010	pan	until	other	other				
+nafsan	kori	0010	panpan	until	other	other				
+nafsan	kori	0010	#	#	##	##				
+nafsan	kori	0010	ZERO	ZERO	es_f0.h:s	es_f0	h	s	112	
+nafsan	kori	0010	kai=	ES=	=lv	=lv				
+nafsan	kori	0010	pi	be	cop	cop				
+nafsan	kori	0010	natam̃ol	person	np.h:pred	np	h	pred	112	
+nafsan	kori	0011	#	#	##	##				
+nafsan	kori	0011	me	and	other	other				
+nafsan	kori	0011	ZERO	ZERO	0.h:s	0	h	s	112	
+nafsan	kori	0011	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0011	nrik	tell	v:pred	v		pred		
+nafsan	kori	0011	mama	mother:BI	np.h:p	np	h	p	104	
+nafsan	kori	0011	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	112	
+nafsan	kori	0011	ki	PREP	adp	adp				
+nafsan	kori	0011	#	#	#ds	#ds				
+nafsan	kori	0011	na	SUB	other	other				
+nafsan	kori	0011	E	oh	other	other				
+nafsan	kori	0011	mama	mother:BI	np.h:voc	np	h	voc	104	
+nafsan	kori	0011	me	but	other	other				
+nafsan	kori	0011	tkanwan	so	other	other				
+nafsan	kori	0011	kin	SUB	other	other				
+nafsan	kori	0011	ag	2S.	pro.2:s	pro	2	s	104	
+nafsan	kori	0011	ku=	2S.RS=	=lv	=lv				
+nafsan	kori	0011	to	HABIT	lv	lv				
+nafsan	kori	0011	maet	fright	v:pred	v		pred		
+nafsan	kori	0011	kuk	cook	rv	rv				
+nafsan	kori	0011	p̃og	night	np:other	np		other	114	unused
+nafsan	kori	0011	tefla	similar	other	other				
+nafsan	kori	0011	#	#	##	##				
+nafsan	kori	0011	go	and	other	other				
+nafsan	kori	0011	mama	mother:BI	np.h:s_ds	np	h	s_ds	104	
+nafsan	kori	0011	ga	3S.	rn_pro.h:poss	rn_pro	h	poss	112	
+nafsan	kori	0011	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0011	na	say	v:pred	v		pred		
+nafsan	kori	0011	#	#	#ds.neg	#ds.neg				
+nafsan	kori	0011	E	E	other	other				
+nafsan	kori	0011	me	but	other	other				
+nafsan	kori	0011	neu	1S.	pro.1:s	pro	1	s	104	
+nafsan	kori	0011	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0011	kano	unable	lv	lv				
+nafsan	kori	0011	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0011	aliat	day	np:other	np		other	115	unused
+nafsan	kori	0011	#	#	##ds	##ds				
+nafsan	kori	0011	ZERO	ZERO	0.1:s	0	1	s	104	
+nafsan	kori	0011	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0011	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0011	#	#	##ds	##ds				
+nafsan	kori	0011	ZERO	ZERO	0.1:s	0	1	s	104	
+nafsan	kori	0011	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0011	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0011	p̃og	night	np:other	np		other	114	
+nafsan	kori	0012	#	#	##	##				
+nafsan	kori	0012	nlaken	because	other	other				
+nafsan	kori	0012	teesa	child	np.h:a	np	h	a	112	
+nafsan	kori	0012	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0012	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0012	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0012	kuk	cook:BI	np:p	np		p		
+nafsan	kori	0012	ni	of	rn	rn				
+nafsan	kori	0012	p̃og	night	rn_np:poss	rn_np		poss	114	
+nafsan	kori	0012	#	#	##	##				
+nafsan	kori	0012	me	and	other	other				
+nafsan	kori	0012	ZERO	ZERO	0.h:a	0	h	a	113	
+nafsan	kori	0012	ru=	3P.RS=	=lv	=lv				
+nafsan	kori	0012	pam-i	eat-TS	v:pred	v		pred		
+nafsan	kori	0012	ZERO	ZERO	0:p	0		p		
+nafsan	kori	0012	p̃ulp̃og	morning	np:other	np		other		
+nafsan	kori	0012	#	#	##	##				
+nafsan	kori	0012	ZERO	ZERO	0.h:a	0	h	a	113	
+nafsan	kori	0012	pam-i	eat-TS	v:pred	v		pred		
+nafsan	kori	0012	dina	dinner:BI	np:p	np		p		
+nafsan	kori	0012	#	#	##	##				
+nafsan	kori	0012	me	and	other	other				
+nafsan	kori	0012	ZERO	ZERO	0.h:a	0	h	a	113	
+nafsan	kori	0012	ra=	3D.RS=	=lv	=lv				
+nafsan	kori	0012	pam-i	eat-TS	v:pred	v		pred		
+nafsan	kori	0012	ZERO	ZERO	0:p	0		p		
+nafsan	kori	0012	kotfan	evening	np:other	np		other		
+nafsan	kori	0012	#	#	##	##				
+nafsan	kori	0012	me	and	other	other				
+nafsan	kori	0012	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0012	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0012	fo	PSP.IR	lv	lv				
+nafsan	kori	0012	mer	again	lv	lv				
+nafsan	kori	0012	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0012	p̃og	night	np:other	np		other	114	
+nafsan	kori	0012	reki	as_for	adp	adp				
+nafsan	kori	0012	matool	tomorrow	np:other	np		other		
+nafsan	kori	0013	#	#	##	##				
+nafsan	kori	0013	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0013	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0013	na	say	v:pred	v		pred		
+nafsan	kori	0013	#	#	#ds	#ds				
+nafsan	kori	0013	iku	why	np:other	np		other		
+nafsan	kori	0013	kin	SUB	other	other				
+nafsan	kori	0013	komam	1P.ex	pro.1:a	pro	1	a		
+nafsan	kori	0013	u=	1P.exRS=	=lv	=lv				
+nafsan	kori	0013	to	HABIT	lv	lv				
+nafsan	kori	0013	pam	eat	v:pred	v		pred		
+nafsan	kori	0013	nafnag	food	np:p	np		p		
+nafsan	kori	0013	mlaanr	cold	rn	rn				
+nafsan	kori	0013	#	#	##	##				
+nafsan	kori	0013	go	and	other	other				
+nafsan	kori	0013	mama	mother:BI	np.h:s_ds	np	h	s_ds	104	
+nafsan	kori	0013	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	112	
+nafsan	kori	0013	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0013	na	say	v:pred	v		pred		
+nafsan	kori	0013	#	#	#ds.neg	#ds.neg				
+nafsan	kori	0013	nlaken	because	other	other				
+nafsan	kori	0013	ZERO	ZERO	0.1:s	0	1	s	104	
+nafsan	kori	0013	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0013	kano	unable	lv	lv				
+nafsan	kori	0013	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0013	aliat	day	np:other	np		other	115	
+nafsan	kori	0013	#	#	#ds_ac	#ds_ac				
+nafsan	kori	0013	nlaken	because	other	other				
+nafsan	kori	0013	kin	SUB	other	other				
+nafsan	kori	0013	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0013	piatlak	have	v:predex	v		predex		
+nafsan	kori	0013	ntwam	devil	np.d:s	np	d	s	102	
+nafsan	kori	0013	i=	3S.RS=	=rn	=rn				
+nafsan	kori	0013	skei	one	rn_np	rn_np				
+nafsan	kori	0013	#	#	#ds_rc_rn	#ds_rc_rn				
+nafsan	kori	0013	kin	REL	other	other				
+nafsan	kori	0013	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0013	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0013	to	HABIT	lv	lv				
+nafsan	kori	0013	pam	eat	v:pred	v		pred		
+nafsan	kori	0013	akit	1P.O	pro.1:p	pro	1	p	113	
+nafsan	kori	0013	nanre	side	np:l	np		l		
+nafsan	kori	0013	ni	of	rn	rn				
+nafsan	kori	0013	naur	island	rn_np:poss	rn_np		poss	101	
+nafsan	kori	0013	Egun	p.name	rn_np	rn_np			101	
+nafsan	kori	0014	#	#	##ds	##ds				
+nafsan	kori	0014	ZERO	ZERO	0.1:s	0	1	s	104	
+nafsan	kori	0014	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0014	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0014	aliat	day	np:other	np		other	115	
+nafsan	kori	0014	#	#	##ds	##ds				
+nafsan	kori	0014	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0014	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0014	lek	look	v:pred	v		pred		
+nafsan	kori	0014	nuasog	smoke	np:p	np		p	116	new
+nafsan	kori	0014	#	#	##ds	##ds				
+nafsan	kori	0014	ZERO	ZERO	0:s	0		s	116	
+nafsan	kori	0014	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0014	fak	go_to	v:pred	v		pred		
+nafsan	kori	0014	elag	high	other:g	other		g		
+nafsan	kori	0014	#	#	##ds	##ds				
+nafsan	kori	0014	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0014	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0014	fo	PSP:IR	lv	lv				
+nafsan	kori	0014	mai	come	v:pred	v		pred		
+nafsan	kori	0014	#	#	##ds	##ds				
+nafsan	kori	0014	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0014	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0014	fo	PSP:IR	lv	lv				
+nafsan	kori	0014	fareki	go_towards:IR	v:pred	v		pred		
+nafsan	kori	0014	#	#	##	##				
+nafsan	kori	0014	me	and	other	other				
+nafsan	kori	0014	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0014	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0014	na	say	v:pred	v		pred		
+nafsan	kori	0014	#	#	#ds.neg	#ds.neg				
+nafsan	kori	0014	a	ah	other	other				
+nafsan	kori	0014	me	but	other	other				
+nafsan	kori	0014	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0014	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0014	kano	unable	lv	lv				
+nafsan	kori	0014	mai	come	v:pred	v		pred		
+nafsan	kori	0014	#	#	##	##				
+nafsan	kori	0014	teesa	child	np.h:s_ds	np	h	s_ds	112	
+nafsan	kori	0014	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0014	nen	that	rn	rn				
+nafsan	kori	0014	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0014	til-i	say-TS	v:pred	v		pred		
+nafsan	kori	0014	#	#	#ds	#ds				
+nafsan	kori	0014	na	SUB	other	other				
+nafsan	kori	0014	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0014	tik	no	other:pred	other		pred		
+nafsan	kori	0014	#	#	##ds.neg	##ds.neg				
+nafsan	kori	0014	ga	3S.	pro.d:s	pro	d	s	102	
+nafsan	kori	0014	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0014	kano	unable	lv	lv				
+nafsan	kori	0014	mai	come	v:pred	v		pred		
+nafsan	kori	0015	#	#	##ds	##ds				
+nafsan	kori	0015	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0015	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0015	fo	PSP:IR	lv	lv				
+nafsan	kori	0015	mai	come	v:pred	v		pred		
+nafsan	kori	0015	tfale	how	np:other	np		other		
+nafsan	kori	0015	#	#	##	##				
+nafsan	kori	0015	go	and	other	other				
+nafsan	kori	0015	ZERO	ZERO	0.h:s_ds	0	h	s_ds	104	
+nafsan	kori	0015	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0015	na	say	v:pred	v		pred		
+nafsan	kori	0015	#	#	#ds	#ds				
+nafsan	kori	0015	ZERO	ZERO	0.2:a	0	2	a	112	
+nafsan	kori	0015	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0015	fo	PSP:IR	lv	lv				
+nafsan	kori	0015	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0015	ZERO	ZERO	0:p	0		p		
+nafsan	kori	0015	#	#	##ds	##ds				
+nafsan	kori	0015	ZERO	ZERO	0.1:s	0	1	s	104	
+nafsan	kori	0015	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0015	mer	again	lv	lv				
+nafsan	kori	0015	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0015	aliat	day	np:other	np		other	115	
+nafsan	kori	0015	#	#	##ds	##ds				
+nafsan	kori	0015	me	but	other	other				
+nafsan	kori	0015	ZERO	ZERO	0.1:s_ds	0	1	s_ds	104	
+nafsan	kori	0015	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0015	til-i	say-TS	v:pred	v		pred		
+nafsan	kori	0015	#	#	#ds	#ds				
+nafsan	kori	0015	na	SUB	other	other				
+nafsan	kori	0015	ZERO	ZERO	0.1:s_ds	0	1	s_ds	104	
+nafsan	kori	0015	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0015	fo	PSP:IR	lv	lv				
+nafsan	kori	0015	til-i	say-TS	v:pred	v		pred		
+nafsan	kori	0015	#	#	#ds.neg	#ds.neg				
+nafsan	kori	0015	na	SUB	other	other				
+nafsan	kori	0015	ZERO	ZERO	0.1:s	0	1	s	104	
+nafsan	kori	0015	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0015	kano	unable	lv	lv				
+nafsan	kori	0015	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0015	#	#	##	##				
+nafsan	kori	0015	go	and	other	other				
+nafsan	kori	0015	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0015	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0015	nrik	tell	v:pred	v		pred		
+nafsan	kori	0015	teesa	child	np.h:p	np	h	p	112	
+nafsan	kori	0015	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0015	#	#	##	##				
+nafsan	kori	0015	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0015	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0015	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	kori	0015	-n	-3S.O	-pro.h:p	-pro	h	p	112	
+nafsan	kori	0015	ki	PREP	adp	adp				
+nafsan	kori	0015	#	#	#ds	#ds				
+nafsan	kori	0015	na	SUB	other	other				
+nafsan	kori	0015	okay	okay:BI	other	other				
+nafsan	kori	0015	ZERO	ZERO	0.h:s	0	h	s	112	
+nafsan	kori	0015	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0015	f	CND	lv	lv				
+nafsan	kori	0015	wel	like	v:pred	v		pred		
+nafsan	kori	0015	#	#	##ds.neg	##ds.neg				
+nafsan	kori	0015	ZERO	ZERO	0.2:s	0	2	s	104	
+nafsan	kori	0015	ku=	2S.RS=	=lv	=lv				
+nafsan	kori	0015	kano	unable	lv	lv				
+nafsan	kori	0015	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0015	aliat	day	np:other	np		other	115	
+nafsan	kori	0015	#	#	##ds	##ds				
+nafsan	kori	0015	ZERO	ZERO	0.1:s	0	1	s	113	
+nafsan	kori	0015	u=	1P.exRS=	=lv	=lv				
+nafsan	kori	0015	pan	go	v:pred	v		pred		
+nafsan	kori	0015	#	#	##ds	##ds				
+nafsan	kori	0015	ZERO	ZERO	0.1:a	0	1	a	113	
+nafsan	kori	0015	u=	1P.exRS=	=lv	=lv				
+nafsan	kori	0015	preg	make	v:pred	v		pred		
+nafsan	kori	0015	nas	bow	np:p	np		p	117	new
+nafsan	kori	0015	ke=	3S.IRS=	=rn	=rn				
+nafsan	kori	0015	skei	one	rn_np	rn_np				
+nafsan	kori	0016	#	#	##	##				
+nafsan	kori	0016	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0016	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0016	na	say	v:pred	v		pred		
+nafsan	kori	0016	#	#	#ds	#ds				
+nafsan	kori	0016	ZERO	ZERO	0.1:a	0	1	a	112	
+nafsan	kori	0016	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0016	gaag	2S.BEN	lv_pro.2:obl	lv_pro	2	obl	104	
+nafsan	kori	0016	preg	make	v:pred	v		pred		
+nafsan	kori	0016	nas	bow	np:p	np		p	117	
+nafsan	kori	0016	#	#	##ds	##ds				
+nafsan	kori	0016	ZERO	ZERO	0.1:a	0	1	a	112	
+nafsan	kori	0016	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0016	fo	PSP:IR	lv	lv				
+nafsan	kori	0016	gaag	2S.BEN	lv_pro.2:obl	lv_pro	2	obl	104	
+nafsan	kori	0016	preg	make	v:pred	v		pred		
+nafsan	kori	0016	nas	bow	np:p	np		p	117	
+nafsan	kori	0016	#	#	##	##				
+nafsan	kori	0016	ZERO	ZERO	0.h:s_ds	0	h	s_ds	104	
+nafsan	kori	0016	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0016	na	say	v:pred	v		pred		
+nafsan	kori	0016	#	#	#ds	#ds				
+nafsan	kori	0016	ZERO	ZERO	0.2:a	0	2	a	112	
+nafsan	kori	0016	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0016	freg-si	make:IR-TS	v:pred	v		pred		
+nafsan	kori	0016	nas	bow	np:p	np		p	117	
+nafsan	kori	0016	#	#	##ds	##ds				
+nafsan	kori	0016	ZERO	ZERO	0.2:a	0	2	a	112	
+nafsan	kori	0016	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0016	neu	1S.BEN	lv_pro.1:obl	lv_pro	1	obl	104	
+nafsan	kori	0016	tu-a	give-TS	v:pred	v		pred		
+nafsan	kori	0016	ZERO	ZERO	0.1:p	0	1	p		
+nafsan	kori	0016	ki	PREP	adp	adp				
+nafsan	kori	0016	timen	arrow	np:obl	np		obl		
+nafsan	kori	0016	ke=	3S.IRS=	rn	rn				
+nafsan	kori	0016	lim	five	rn	rn				
+nafsan	kori	0016	aro	arrow:BI	nc	nc				
+nafsan	kori	0016	timen	arrow	nc_np	nc_np			118	new
+nafsan	kori	0016	ke=	3S.IRS=	nc	nc				
+nafsan	kori	0016	lim	five	nc	nc				
+nafsan	kori	0017	#	#	##	##				
+nafsan	kori	0017	ale	okay	other	other				
+nafsan	kori	0017	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0017	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0017	preg	make	v:pred	v		pred		
+nafsan	kori	0017	nas	bow	np:p	np		p	117	
+nafsan	kori	0017	#	#	#nc	#nc				
+nafsan	kori	0017	ZERO	ZERO	nc	nc				
+nafsan	kori	0017	ki=	3S.PS=	nc	nc				
+nafsan	kori	0017	na	say	nc	nc				
+nafsan	kori	0017	#	#	##	##				
+nafsan	kori	0017	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0017	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0017	nom	finish	v:pred	v		pred		
+nafsan	kori	0017	bow	bow:BI	np:p	np		p	117	
+nafsan	kori	0017	#	#	##	##				
+nafsan	kori	0017	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0017	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0017	nom	finish	v:pred	v		pred		
+nafsan	kori	0017	aro	arrow:BI	np:p	np		p	118	
+nafsan	kori	0017	#	#	##	##				
+nafsan	kori	0017	ZERO	ZERO	0.h:s	0	h	s	112	
+nafsan	kori	0017	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0017	pa	go	v:pred	v		pred		
+nafsan	kori	0017	#	#	##	##				
+nafsan	kori	0017	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0017	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0017	mer	again	lv	lv				
+nafsan	kori	0017	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	104	
+nafsan	kori	0017	preg	make	v:pred	v		pred		
+nafsan	kori	0017	timen	arrow	np:p	np		p	118	
+nafsan	kori	0017	i=	3S.RS=	=rn	=rn				
+nafsan	kori	0017	lim	five	rn_np	rn_np				
+nafsan	kori	0017	#	#	##	##				
+nafsan	kori	0017	i=	3S.RS=	nc	nc				
+nafsan	kori	0017	na	say	nc	nc				
+nafsan	kori	0017	mama	mother:BI	nc	nc				
+nafsan	kori	0017	malfane	now	nc	nc				
+nafsan	kori	0017	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0017	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0017	na	say	v:pred	v		pred		
+nafsan	kori	0017	#	#	#ds	#ds				
+nafsan	kori	0017	malfane	now	np:other	np		other		
+nafsan	kori	0017	ZERO	ZERO	0.1:s	0	1	s	112	
+nafsan	kori	0017	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0017	preg	make	v:pred	v		pred		
+nafsan	kori	0017	#	#	##ds	##ds				
+nafsan	kori	0017	ZERO	ZERO	0.2:s	0	2	s	104	
+nafsan	kori	0017	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0017	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0018	#	#	##ds	##ds				
+nafsan	kori	0018	ZERO	ZERO	0.2:s	0	2	s	104	
+nafsan	kori	0018	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0018	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0018	aliat	day	np:other	np		other	115	
+nafsan	kori	0018	#	#	##ds	##ds				
+nafsan	kori	0018	me	and	other	other				
+nafsan	kori	0018	ZERO	ZERO	0.1:a	0	1	a	113	
+nafsan	kori	0018	tu=	1P.inRS=	=lv	=lv				
+nafsan	kori	0018	fo	PSP:IR	lv	lv				
+nafsan	kori	0018	nrog-o	hear-TS	v:pred	v		pred		
+nafsan	kori	0018	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0018	#	#	##	##				
+nafsan	kori	0018	malnen	then	other	other				
+nafsan	kori	0018	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0018	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0018	to	stay	v:pred	v		pred		
+nafsan	kori	0018	#	#	##	##				
+nafsan	kori	0018	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0018	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0018	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0018	#	#	##	##				
+nafsan	kori	0018	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0018	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0018	na	say	v:pred	v		pred		
+nafsan	kori	0018	#	#	#ds	#ds				
+nafsan	kori	0018	ZERO	ZERO	0.2:a	0	2	a	104	
+nafsan	kori	0018	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0018	fo	PSP:IR	lv	lv				
+nafsan	kori	0018	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0018	ZERO	ZERO	0:p	0		p		
+nafsan	kori	0018	#	#	##ds	##ds				
+nafsan	kori	0018	ZERO	ZERO	0.2:s	0	2	s	104	
+nafsan	kori	0018	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0018	mer	again	lv	lv				
+nafsan	kori	0018	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0018	aliat	day	np:other	np		other	115	
+nafsan	kori	0018	#	#	##ds	##ds				
+nafsan	kori	0018	ZERO	ZERO	0.2:a	0	2	a	104	
+nafsan	kori	0018	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0018	fo	PSP:IR	lv	lv				
+nafsan	kori	0018	nrog	hear	v:pred	v		pred		
+nafsan	kori	0018	ntwam	devil	np.d:p	np	d	p	102	
+nafsan	kori	0018	#	#	##ds	##ds				
+nafsan	kori	0018	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0018	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0018	fo	PSP:IR	lv	lv				
+nafsan	kori	0018	pes	talk	v:pred	v		pred		
+nafsan	kori	0019	#	#	##	##				
+nafsan	kori	0019	me	but	other	other				
+nafsan	kori	0019	malnen	as	other	other				
+nafsan	kori	0019	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0019	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0019	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0019	panpan	until	other	other				
+nafsan	kori	0019	#	#	##	##				
+nafsan	kori	0019	nuasog	smoke	np:s	np		s	116	
+nafsan	kori	0019	ki=	3S.PS=	=lv	=lv				
+nafsan	kori	0019	pe	PF	lv	lv				
+nafsan	kori	0019	pak	go_to	v:pred	v		pred		
+nafsan	kori	0019	elag	high	np:g	np		g		
+nafsan	kori	0019	#	#	##	##				
+nafsan	kori	0019	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0019	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0019	nrog-o	smell-TS	v:pred	v		pred		
+nafsan	kori	0019	ZERO	ZERO	0:p	0		p	119	new
+nafsan	kori	0019	#	#	##	##				
+nafsan	kori	0019	ZERO	ZERO	0.d:s_ds	0	d	s_ds	102	
+nafsan	kori	0019	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0019	na	say	v:pred	v		pred		
+nafsan	kori	0019	#	#	#ds	#ds				
+nafsan	kori	0019	o	O	other	other				
+nafsan	kori	0019	ey	eh	other	other				
+nafsan	kori	0019	nap̃kas	meat	np:s	np		s	119	
+nafsan	kori	0019	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0019	nom	finish	v:pred	v		pred		
+nafsan	kori	0019	#	#	##ds	##ds				
+nafsan	kori	0019	mees	today	np:other	np		other		
+nafsan	kori	0019	ZERO	ZERO	0.1:s	0	1	s	102	
+nafsan	kori	0019	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0019	fo	PSP:IR	lv	lv				
+nafsan	kori	0019	pam	eat	v:pred	v		pred		
+nafsan	kori	0019	-wes	-3S.OBL	-pro:obl	-pro		obl		
+nafsan	kori	0019	#	#	##ds	##ds				
+nafsan	kori	0019	ZERO	ZERO	0.2:s	0	2	s		
+nafsan	kori	0019	ku=	2S.RS=	=lv	=lv				
+nafsan	kori	0019	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0020	#	#	##	##				
+nafsan	kori	0020	ntwam	devil	np.d:s	np	d	s	102	
+nafsan	kori	0020	nen	that	rn	rn				
+nafsan	kori	0020	#	#	#rc_rn:pred	#rc_rn		pred		
+nafsan	kori	0020	kin	REL	other	other				
+nafsan	kori	0020	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0020	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0020	pios	call_out	v:pred	v		pred		
+nafsan	kori	0020	#	#	##	##				
+nafsan	kori	0020	malnen	as	other	other				
+nafsan	kori	0020	mama	mother:BI	np.h:s_ds	np	h	s_ds	104	
+nafsan	kori	0020	ni	of	rn	rn				
+nafsan	kori	0020	teesa	child	rn_np.h:poss	rn_np	h	poss	112	
+nafsan	kori	0020	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0020	na	say	v:pred	v		pred		
+nafsan	kori	0020	#	#	#ds	#ds				
+nafsan	kori	0020	ZERO	ZERO	0.2:a	0	2	a	112	
+nafsan	kori	0020	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0020	nrog-o	hear-TS	v:pred	v		pred		
+nafsan	kori	0020	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0020	#	#	##ds	##ds				
+nafsan	kori	0020	ZERO	ZERO	0.2:a	0	2	a	112	
+nafsan	kori	0020	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0020	nrog	hear	v:pred	v		pred		
+nafsan	kori	0020	nale	voice	np:p	np		p		
+nafsan	kori	0020	-n	-3S.DP	-rn_pro.d:poss	-rn_pro	d	poss	102	
+nafsan	kori	0020	#	#	##	##				
+nafsan	kori	0020	ZERO	ZERO	0.d:s_ds	0	d	s_ds	102	
+nafsan	kori	0020	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0020	til-i	say-TS	v:pred	v		pred		
+nafsan	kori	0020	#	#	#ds	#ds				
+nafsan	kori	0020	na	SUB	other	other				
+nafsan	kori	0020	mees	today	np:other	np		other		
+nafsan	kori	0020	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0020	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0020	fo	PSP:IR	lv	lv				
+nafsan	kori	0020	pam	eat	v:pred	v		pred		
+nafsan	kori	0020	kit	1P.O	pro.1:p	pro	1	p	113	
+nafsan	kori	0021	#	#	##	##				
+nafsan	kori	0021	go	and	other	other				
+nafsan	kori	0021	teesa	child	np.h:s_ds	np	h	s_ds	112	
+nafsan	kori	0021	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	104	
+nafsan	kori	0021	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0021	na	say	v:pred	v		pred		
+nafsan	kori	0021	#	#	#ds.neg	#ds.neg				
+nafsan	kori	0021	ZERO	ZERO	0.2:s	0	2	s	104	
+nafsan	kori	0021	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0021	ta	not	lv	lv				
+nafsan	kori	0021	mtak	fear	v:pred	v		pred		
+nafsan	kori	0021	mau	NEG2	other	other				
+nafsan	kori	0021	#	#	##	##				
+nafsan	kori	0021	me	but	other	other				
+nafsan	kori	0021	ZERO	ZERO	0.h:s	0	h	s	112	
+nafsan	kori	0021	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0021	nrik	tell	v:pred	v		pred		
+nafsan	kori	0021	kori	dog	np:p	np		p	107	
+nafsan	kori	0021	sees	small	rn	rn				
+nafsan	kori	0021	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	112	
+nafsan	kori	0021	nen	that	rn	rn				
+nafsan	kori	0021	#	#	#ds	#ds				
+nafsan	kori	0021	kin	SUB	other	other				
+nafsan	kori	0021	na	SUB	other	other				
+nafsan	kori	0021	ZERO	ZERO	0.1:s	0	1	s	120	bridging
+nafsan	kori	0021	tak=	1D.incIRS=	=lv	=lv				
+nafsan	kori	0021	fak	go_to:IR	v:pred	v		pred		
+nafsan	kori	0021	sanpe	there	np:g	np		g		
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	me	and	other	other				
+nafsan	kori	0021	ZERO	ZERO	0.1:s	0	1	s	120	
+nafsan	kori	0021	tak=	1D.incIRS=	=lv	=lv				
+nafsan	kori	0021	pan	go	v:pred	v		pred		
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	ZERO	ZERO	0.2:a	0	2	a	107	
+nafsan	kori	0021	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0021	welu	help	v:pred	v		pred		
+nafsan	kori	0021	wou	1S.O	pro.1:p	pro	1	p	112	
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	me	and	other	other				
+nafsan	kori	0021	ZERO	ZERO	0.1:a	0	1	a	120	
+nafsan	kori	0021	u=	1P.exRS=	=lv	=lv				
+nafsan	kori	0021	ta	still	lv	lv				
+nafsan	kori	0021	preg	make	v:pred	v		pred		
+nafsan	kori	0021	tp̃er	fence	np:p	np		p	121	new
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	ZERO	ZERO	0.1:a	0	1	a	120	
+nafsan	kori	0021	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0021	freg	make:IR	v:pred	v		pred		
+nafsan	kori	0021	fanis	fence:BI	nc	nc				
+nafsan	kori	0021	ke=	3S.IRS=	nc	nc				
+nafsan	kori	0021	skei	one	nc	nc				
+nafsan	kori	0021	tp̃er	fence	np:p	np		p	121	
+nafsan	kori	0021	ke=	3S.IRS=	=rn	=rn				
+nafsan	kori	0021	skei	one	rn_np	rn_np				
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	me	and	other	other				
+nafsan	kori	0021	ZERO	ZERO	0.1:a	0	1	a	120	
+nafsan	kori	0021	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0021	preg	make	v:pred	v		pred		
+nafsan	kori	0021	nana	HESIT	nc	nc				
+nafsan	kori	0021	namet	door	np:p	np		p	122	new
+nafsan	kori	0021	-wes	-3S.OBL	-rn_pro:poss	-rn_pro		poss	121	
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	ZERO	ZERO	0.1:a	0	1	a	120	
+nafsan	kori	0021	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0021	preg	make	v:pred	v		pred		
+nafsan	kori	0021	namet	door	np:p	np		p	122	
+nafsan	kori	0021	-wes	-3S.OBL	-rn_pro:poss	-rn_pro		poss	121	
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	me	and	other	other				
+nafsan	kori	0021	ZERO	ZERO	0.1:s	0	1	s	120	
+nafsan	kori	0021	tak=	1D.incIRS=	=lv	=lv				
+nafsan	kori	0021	fo	PSP:IR	lv	lv				
+nafsan	kori	0021	pan	go	lv	lv				
+nafsan	kori	0021	kus	hide	v:pred	v		pred		
+nafsan	kori	0021	#	#	##ds	##ds				
+nafsan	kori	0021	ZERO	ZERO	0.1:s	0	1	s	120	
+nafsan	kori	0021	tok	stay	v:pred	v		pred		
+nafsan	kori	0021	-wes	-3S.OBL	-pro:l	-pro		l		
+nafsan	kori	0021	to	stay	rv	rv				
+nafsan	kori	0022	#	#	##ds	##ds				
+nafsan	kori	0022	ag	2S.	pro.2:s	pro	2	s	107	
+nafsan	kori	0022	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0022	fo	PSP:IR	lv	lv				
+nafsan	kori	0022	to	stay	v:pred	v		pred		
+nafsan	kori	0022	etan	down	adp	adp				
+nafsan	kori	0022	na	HESIT	nc	nc				
+nafsan	kori	0022	ket	gate:BI	np:l	np		l		
+nafsan	kori	0022	#	#	##ds	##ds				
+nafsan	kori	0022	me	and	other	other				
+nafsan	kori	0022	kineu	1S.	pro.1:s	pro	1	s	112	
+nafsan	kori	0022	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0022	fo	PSP:IR	lv	lv				
+nafsan	kori	0022	tu	stand	v:pred	v		pred		
+nafsan	kori	0022	elag	above	other:l	other		l		
+nafsan	kori	0022	#	#	##ds	##ds				
+nafsan	kori	0022	ZERO	ZERO	0.1:a	0	1	a	112	
+nafsan	kori	0022	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0022	fo	PSP:IR	lv	lv				
+nafsan	kori	0022	tup̃-a	shoot-TS	v:pred	v		pred		
+nafsan	kori	0022	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0022	ki	PREP	adp	adp				
+nafsan	kori	0022	nas	bow	np:obl	np		obl	117	
+nafsan	kori	0023	#	#	##	##				
+nafsan	kori	0023	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0023	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0023	na	say	v:pred	v		pred		
+nafsan	kori	0023	#	#	#ds	#ds				
+nafsan	kori	0023	ZERO	ZERO	0.2:s	0	2	s	104	
+nafsan	kori	0023	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0023	mer	again	lv	lv				
+nafsan	kori	0023	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0023	#	#	##	##				
+nafsan	kori	0023	mama	mother:BI	np.h:s	np	h	s	104	
+nafsan	kori	0023	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	112	
+nafsan	kori	0023	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0023	kuk	cook:BI	v:pred	v		pred		
+nafsan	kori	0023	#	#	##	##				
+nafsan	kori	0023	go	and	other	other				
+nafsan	kori	0023	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0023	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0023	mer	again	lv	lv				
+nafsan	kori	0023	pios	call_out	v:pred	v		pred		
+nafsan	kori	0023	#	#	#ds	#ds				
+nafsan	kori	0023	o	O	other	other				
+nafsan	kori	0023	ai	EXCL	other	other				
+nafsan	kori	0023	#	#	##	##				
+nafsan	kori	0023	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0023	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0023	mer	again	lv	lv				
+nafsan	kori	0023	ler	return	v:pred	v		pred		
+nafsan	kori	0023	#	#	##	##				
+nafsan	kori	0023	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0023	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0023	pakelag	ascend	v:pred	v		pred		
+nafsan	kori	0023	pan	go	rv	rv				
+nafsan	kori	0023	mees	today	np:other	np		other		
+nafsan	kori	0023	#	#	##ds	##ds				
+nafsan	kori	0023	ZERO	ZERO	0.1:s	0	1	s	102	
+nafsan	kori	0023	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0023	fo	PSP:IR	lv	lv				
+nafsan	kori	0023	pam	eat	v:pred	v		pred		
+nafsan	kori	0023	-wes	-3S.OBL	-pro:l	-pro		l		
+nafsan	kori	0023	#	#	##ds	##ds				
+nafsan	kori	0023	ZERO	ZERO	0.1:a	0	1	a	102	
+nafsan	kori	0023	a=	1S.RS=	=lv	=lv				
+nafsan	kori	0023	pam̃or	find	v:pred	v		pred		
+nafsan	kori	0023	nap̃kas	meat	np:p	np		p	119	
+nafsan	kori	0023	i=	3S.RS=	=rn	=rn				
+nafsan	kori	0023	skei	one	rn_np	rn_np				
+nafsan	kori	0024	#	#	##	##				
+nafsan	kori	0024	me	and	other	other				
+nafsan	kori	0024	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0024	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0024	to	PROG	lv	lv				
+nafsan	kori	0024	pes	talk	v:pred	v		pred		
+nafsan	kori	0024	#	#	##	##				
+nafsan	kori	0024	me	and	other	other				
+nafsan	kori	0024	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0024	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0024	to	PROG	lv	lv				
+nafsan	kori	0024	palus	paddle	v:pred	v		pred		
+nafsan	kori	0024	#	#	##	##				
+nafsan	kori	0024	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0024	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0024	mai	come	v:pred	v		pred		
+nafsan	kori	0024	mai	come	nc	nc				
+nafsan	kori	0024	mai	come	nc	nc				
+nafsan	kori	0024	#	#	#ac	#ac				
+nafsan	kori	0024	na	PURP	other	other				
+nafsan	kori	0024	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0024	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0024	sak	land	v:pred	v		pred		
+nafsan	kori	0024	elau	sea	np:g	np		g	124	
+nafsan	kori	0024	Krikai	p.name	rn_np	rn_np			109	
+nafsan	kori	0025	#	#	##	##				
+nafsan	kori	0025	go	and	other	other				
+nafsan	kori	0025	ZERO	ZERO	0.h:a	0	h	a	104	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	nrog-o	hear-TS	v:pred	v		pred		
+nafsan	kori	0025	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0025	#	#	##	##				
+nafsan	kori	0025	go	and	other	other				
+nafsan	kori	0025	ntwam	devil	np.d:s	np	d	s	102	
+nafsan	kori	0025	nen	that	rn	rn				
+nafsan	kori	0025	ZERO	ZERO	0.h:s	0	h	s	104	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	mer	again	lv	lv				
+nafsan	kori	0025	m̃la	growl	v:pred	v		pred		
+nafsan	kori	0025	#	#	##	##				
+nafsan	kori	0025	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	m̃la	growl	v:pred	v		pred		
+nafsan	kori	0025	pak	to	adp	adp				
+nafsan	kori	0025	elag	high	np:l	np		l		
+nafsan	kori	0025	#	#	##	##				
+nafsan	kori	0025	ZERO	ZERO	0.d:s_ds	0	d	s_ds	102	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	nag	say	v:pred	v		pred		
+nafsan	kori	0025	#	#	##	##				
+nafsan	kori	0025	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	m̃la	growl	v:pred	v		pred		
+nafsan	kori	0025	#	#	#ds	#ds				
+nafsan	kori	0025	a	confirm	other	other				
+nafsan	kori	0025	o	O	other	other				
+nafsan	kori	0025	ai	EXCL	other	other				
+nafsan	kori	0025	#	#	##	##				
+nafsan	kori	0025	ZERO	ZERO	0.d:s_ds	0	d	s_ds	102	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	na	say	v:pred	v		pred		
+nafsan	kori	0025	#	#	#ds	#ds				
+nafsan	kori	0025	ZERO	ZERO	0.2:a	0	2	a	112	
+nafsan	kori	0025	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0025	nrog	hear	v:pred	v		pred		
+nafsan	kori	0025	#	#	#ds.cc:p	#ds.cc		p		
+nafsan	kori	0025	kin	COMP	other	other				
+nafsan	kori	0025	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	mer	again	lv	lv				
+nafsan	kori	0025	m̃la	growl	v:pred	v		pred		
+nafsan	kori	0025	nale	voice	np:obl	np		obl	123	bridging
+nafsan	kori	0025	-n	-3S.DP	-rn_pro.d:poss	-rn_pro	d	poss	102	
+nafsan	kori	0025	#	#	#rc_rn	#rc_rn				
+nafsan	kori	0025	kin	REL	other	other				
+nafsan	kori	0025	ZERO	ZERO	0:s	0		s	123	
+nafsan	kori	0025	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0025	pak	go_to	v:pred	v		pred		
+nafsan	kori	0025	elag	high	other:g	other		g		
+nafsan	kori	0026	#	#	##	##				
+nafsan	kori	0026	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0026	ki=	3S.PS=	=lv	=lv				
+nafsan	kori	0026	til-i	say-TS	v:pred	v		pred		
+nafsan	kori	0026	#	#	#cc:p	#cc		p		
+nafsan	kori	0026	na	COMP	other	other				
+nafsan	kori	0026	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0026	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0026	fo	PSP:IR	lv	lv				
+nafsan	kori	0026	sak	land	v:pred	v		pred		
+nafsan	kori	0026	mai	come	rv	rv				
+nafsan	kori	0026	#	#	#ac.neg	#ac.neg				
+nafsan	kori	0026	malnen	as	other	other				
+nafsan	kori	0026	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0026	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0026	ta	not	lv	lv				
+nafsan	kori	0026	pi	be	cop	cop				
+nafsan	kori	0026	twei	long_time	np:pred	np		pred		
+nafsan	kori	0026	mau	NEG2	other	other				
+nafsan	kori	0026	#	#	##	##				
+nafsan	kori	0026	go	and	other	other				
+nafsan	kori	0026	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0026	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0026	paakor	arrive	v:pred	v		pred		
+nafsan	kori	0026	ntaf	hill	np:l	np		l	111	
+nafsan	kori	0027	#	#	##	##				
+nafsan	kori	0027	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0027	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0027	paakor	arrive	v:pred	v		pred		
+nafsan	kori	0027	ntaf	hill	np:g	np		g	111	
+nafsan	kori	0027	tefla	similar	other	other				
+nafsan	kori	0027	#	#	##	##				
+nafsan	kori	0027	me	and	other	other				
+nafsan	kori	0027	ga	3S.	pro.h:a	pro	h	a	112	
+nafsan	kori	0027	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0027	tafnau	teach	v:pred	v		pred		
+nafsan	kori	0027	kori	dog	np:p	np		p	107	
+nafsan	kori	0027	#	#	##	##				
+nafsan	kori	0027	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0027	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0027	na	say	v:pred	v		pred		
+nafsan	kori	0027	#	#	#ds	#ds				
+nafsan	kori	0027	malnen	as	other	other				
+nafsan	kori	0027	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0027	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0027	mai	come	v:pred	v		pred		
+nafsan	kori	0027	#	#	##ds	##ds				
+nafsan	kori	0027	ag	2S.	pro.2:a	pro	2	a	107	
+nafsan	kori	0027	kin	REL	nc	nc				
+nafsan	kori	0027	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0027	kat-i	bite-TS	v:pred	v		pred		
+nafsan	kori	0027	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0027	#	#	##ds	##ds				
+nafsan	kori	0027	ZERO	ZERO	0.2:a	0	2	a	107	
+nafsan	kori	0027	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0027	kat-i	bite-TS	v:pred	v		pred		
+nafsan	kori	0027	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0027	#	#	##	##				
+nafsan	kori	0027	me	and	other	other				
+nafsan	kori	0027	ZERO	ZERO	0.h:s_ds	0	h	s_ds	112	
+nafsan	kori	0027	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0027	til-i	say-TS	v:pred	v		pred		
+nafsan	kori	0027	#	#	#ds.neg	#ds.neg				
+nafsan	kori	0027	a	ah	nc	nc				
+nafsan	kori	0027	i=	3S.RS=	nc	nc				
+nafsan	kori	0027	tik	no	nc	nc				
+nafsan	kori	0027	ZERO	ZERO	0.2:a	0	2	a	107	
+nafsan	kori	0027	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0027	ta	not	lv	lv				
+nafsan	kori	0027	kat-i	bite-TS	v:pred	v		pred		
+nafsan	kori	0027	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0027	mau	NEG2	other	other				
+nafsan	kori	0027	#	#	##ds	##ds				
+nafsan	kori	0027	me	but	other	other				
+nafsan	kori	0027	ZERO	ZERO	0.2:a	0	2	a	107	
+nafsan	kori	0027	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	kori	0027	neu	1S.BEN	lv_pro.1:obl	lv_pro	1	obl	112	
+nafsan	kori	0027	tao	give.me	v:pred	v		pred		
+nafsan	kori	0027	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0027	#	#	##ds	##ds				
+nafsan	kori	0027	me	and	other	other				
+nafsan	kori	0027	ZERO	ZERO	0.1:a	0	1	a	112	
+nafsan	kori	0027	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0027	fo	PSP:IR	lv	lv				
+nafsan	kori	0027	tup̃-a	shoot-TS	v:pred	v		pred		
+nafsan	kori	0027	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0028	#	#	##ds	##ds				
+nafsan	kori	0028	ZERO	ZERO	0.1:a	0	1	a	112	
+nafsan	kori	0028	ka=	1S.IRS=	=lv	=lv				
+nafsan	kori	0028	fo	PSP:IR	lv	lv				
+nafsan	kori	0028	tup̃-a	shoot-TS	v:pred	v		pred		
+nafsan	kori	0028	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0028	#	#	#ac	#ac				
+nafsan	kori	0028	malnen	as	other	other				
+nafsan	kori	0028	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0028	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0028	na	want	v:pred	v		pred		
+nafsan	kori	0028	#	#	#cc:p	#cc		p		
+nafsan	kori	0028	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0028	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0028	tup̃-a	shoot-TS	v:pred	v		pred		
+nafsan	kori	0028	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0028	ki	PREP	adp	adp				
+nafsan	kori	0028	timen	arrow	np:obl	np		obl	118	
+nafsan	kori	0028	pei	first	rn	rn				
+nafsan	kori	0028	#	#	##	##				
+nafsan	kori	0028	ntwam	devil	np.d:a	np	d	a	102	
+nafsan	kori	0028	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0028	tnol-i	swallow-TS	v:pred	v		pred		
+nafsan	kori	0028	ZERO	ZERO	0:p	0		p	118	
+nafsan	kori	0028	#	#	##	##				
+nafsan	kori	0028	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0028	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0028	tup̃-a	shoot-TS	v:pred	v		pred		
+nafsan	kori	0028	ZERO	3S.O	0.d:p	0	d	p	102	
+nafsan	kori	0028	ki	PREP	adp	adp				
+nafsan	kori	0028	timen	arrow	np:obl	np		obl	118	
+nafsan	kori	0028	kaaru	next	rn	rn				
+nafsan	kori	0028	#	#	##	##				
+nafsan	kori	0028	ntwam	devil	np.d:a	np	d	a	102	
+nafsan	kori	0028	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0028	tnol-i	swallow-TS	v:pred	v		pred		
+nafsan	kori	0029	kaatol	third	ln	ln				
+nafsan	kori	0029	kaafat	fourth	ln	ln				
+nafsan	kori	0029	kalim	fifth	np:p	np		p	118	
+nafsan	kori	0029	#	#	##	##				
+nafsan	kori	0029	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0029	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0029	tnol	swallow	v:pred	v		pred		
+nafsan	kori	0029	silua	every	np:p	np		p	118	
+nafsan	kori	0029	#	#	##	##				
+nafsan	kori	0029	go	and	other	other				
+nafsan	kori	0029	ZERO	ZERO	0.h:a	0	h	a	112	
+nafsan	kori	0029	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0029	nrik	tell	v:pred	v		pred		
+nafsan	kori	0029	kori	dog	np:p	np		p	107	
+nafsan	kori	0029	#	#	#cc	#cc				
+nafsan	kori	0029	kin	SUB	other	other				
+nafsan	kori	0029	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0029	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0029	kat-i	bite-TS	v:pred	v		pred		
+nafsan	kori	0029	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0029	#	#	##	##				
+nafsan	kori	0029	kori	dog	np:a	np		a	107	
+nafsan	kori	0029	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0029	kat-i	bite-TS	v:pred	v		pred		
+nafsan	kori	0029	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0029	#	#	##	##				
+nafsan	kori	0029	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0029	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0029	kat-i	bite-TS	v:pred	v		pred		
+nafsan	kori	0029	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0029	pan	until	other	other				
+nafsan	kori	0029	#	#	##	##				
+nafsan	kori	0029	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0029	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0029	nrog.sa-ki	feel.bad-TS	v:pred	v		pred		
+nafsan	kori	0029	ZERO	ZERO	0:p	0		p		
+nafsan	kori	0030	#	#	##	##				
+nafsan	kori	0030	leg	devil	np.d:s	np	d	s	102	
+nafsan	kori	0030	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0030	skasok	jump_around	nc	nc				
+nafsan	kori	0030	skasok	jump_around	v:pred	v		pred		
+nafsan	kori	0030	pan	until	other	other				
+nafsan	kori	0030	#	#	##	##				
+nafsan	kori	0030	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0030	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0030	nrog.sa-ki	feel.bad-TR	v:pred	v		pred		
+nafsan	kori	0030	natu	foot	np:p	np		p		
+nafsan	kori	0030	#	#	##	##				
+nafsan	kori	0030	kori	dog	np:s	np		s	107	
+nafsan	kori	0030	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0030	sef	escape	v:pred	v		pred		
+nafsan	kori	0030	pak	to	adp	adp				
+nafsan	kori	0030	elau	sea	np:g	np		g	124	
+nafsan	kori	0030	#	#	##	##				
+nafsan	kori	0030	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0030	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0030	pa	go	v:pred	v		pred		
+nafsan	kori	0030	raru	canoe	np:p	np		p	125	new
+nafsan	kori	0031	#	#	##	##				
+nafsan	kori	0031	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0031	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0031	sef	escape	v:pred	v		pred		
+nafsan	kori	0031	pak	to	adp	adp				
+nafsan	kori	0031	elau	sea	np:g	np		g	124	
+nafsan	kori	0031	#	#	##	##				
+nafsan	kori	0031	me	and	other	other				
+nafsan	kori	0031	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0031	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0031	totan	sit	v:pred	v		pred		
+nafsan	kori	0031	to	at	adp	adp				
+nafsan	kori	0031	raru	canoe	np:l	np		l	125	
+nafsan	kori	0031	to	at	nc	nc				
+nafsan	kori	0031	#	#	##	##				
+nafsan	kori	0031	me	and	other	other				
+nafsan	kori	0031	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0031	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0031	to	PROG	lv	lv				
+nafsan	kori	0031	maag	stare	v:pred	v		pred		
+nafsan	kori	0031	#	#	##	##				
+nafsan	kori	0031	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0031	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0031	to	PROG	lv	lv				
+nafsan	kori	0031	lek	look	v:pred	v		pred		
+nafsan	kori	0031	napu	road	np:p	np		p	126	new
+nafsan	kori	0031	#	#	##	##				
+nafsan	kori	0031	tefla	similar	other	other				
+nafsan	kori	0031	=n	=DST	=other	=other				
+nafsan	kori	0031	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0031	po	PSP	lv	lv				
+nafsan	kori	0031	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0031	ZERO	ZERO	0:p	0		p	126	
+nafsan	kori	0031	mau	all	rv	rv				
+nafsan	kori	0031	#	#	##	##				
+nafsan	kori	0031	kori	dog	np:s	np		s	107	
+nafsan	kori	0031	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0031	fit	run	v:pred	v		pred		
+nafsan	kori	0031	paakor	arrive	rv	rv				
+nafsan	kori	0032	#	#	##	##				
+nafsan	kori	0032	kori	dog	pro:s	pro		s	107	
+nafsan	kori	0032	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0032	fit	run	v:pred	v		pred		
+nafsan	kori	0032	paakor	arrive	rv	rv				
+nafsan	kori	0032	#	#	##	##				
+nafsan	kori	0032	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0032	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0032	mtak-ki	fear-TR	v:pred	v		pred		
+nafsan	kori	0032	kori	dog	np:p	np		p	107	
+nafsan	kori	0032	#	#	##	##				
+nafsan	kori	0032	me	and	other	other				
+nafsan	kori	0032	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0032	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0032	sai-ki	push-TR	v:pred	v		pred		
+nafsan	kori	0032	raru	canoe	np:p	np		p	125	
+nafsan	kori	0032	#	#	##	##				
+nafsan	kori	0032	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0032	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0032	palus	paddle	v:pred	v		pred		
+nafsan	kori	0032	panpan	until	other	other				
+nafsan	kori	0032	#	#	##	##				
+nafsan	kori	0032	ga	3S.	pro.d:s	pro	d	s	102	
+nafsan	kori	0032	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0032	to	stay	v:pred	v		pred		
+nafsan	kori	0032	namos	ocean	np:l	np		l	124	
+nafsan	kori	0032	#	#	##	##				
+nafsan	kori	0032	me	and	other	other				
+nafsan	kori	0032	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0032	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0032	maos	tired	v:pred	v		pred		
+nafsan	kori	0032	#	#	##	##				
+nafsan	kori	0032	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0032	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0032	nep-a	throw-TS	v:pred	v		pred		
+nafsan	kori	0032	ki	PREP	rv	rv				
+nafsan	kori	0032	nawes	paddle	np:p	np		p		
+nafsan	kori	0032	elag	high	adp	adp				
+nafsan	kori	0032	na	DET	ln	ln				
+nafsan	kori	0032	nakiat	cross-member	np:g	np		g		
+nafsan	kori	0033	#	#	##	##				
+nafsan	kori	0033	me	and	other	other				
+nafsan	kori	0033	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0033	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0033	to	PROG	lv	lv				
+nafsan	kori	0033	marmar	rest	v:pred	v		pred		
+nafsan	kori	0033	pan	until	other	other				
+nafsan	kori	0033	pan	until	other	other				
+nafsan	kori	0033	pan	until	other	other				
+nafsan	kori	0033	#	#	##	##				
+nafsan	kori	0033	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0033	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0033	krokur	fright	v:pred	v		pred		
+nafsan	kori	0033	kori	dog	np:p	np		p	107	
+nafsan	kori	0033	#	#	#rc_rn	#rc_rn				
+nafsan	kori	0033	kin	REL	other	other				
+nafsan	kori	0033	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0033	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0033	wat	hit	v:pred	v		pred		
+nafsan	kori	0033	nrookot	cross	np:p	np		p		
+nafsan	kori	0033	pan	until	other	other				
+nafsan	kori	0033	#	#	##	##				
+nafsan	kori	0033	ZERO	ZERO	0:s	0		s	107	
+nafsan	kori	0033	pa	go	lv	lv				
+nafsan	kori	0033	pak	go_to	v:pred	v		pred		
+nafsan	kori	0033	natk	edge	adp	adp				
+nafsan	kori	0033	raru	canoe	np:g	np		g	125	
+nafsan	kori	0033	#	#	##	##				
+nafsan	kori	0033	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0033	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0033	na	say	v:pred	v		pred		
+nafsan	kori	0033	#	#	#cc	#cc				
+nafsan	kori	0033	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0033	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0033	mtak-ki	fear-TR	v:pred	v		pred		
+nafsan	kori	0033	kori	dog	np:p	np		p	107	
+nafsan	kori	0033	#	#	##	##				
+nafsan	kori	0033	me	and	other	other				
+nafsan	kori	0033	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0033	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0033	mer	again	lv	lv				
+nafsan	kori	0033	ser	float	v:pred	v		pred		
+nafsan	kori	0033	#	#	##	##				
+nafsan	kori	0033	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0033	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0033	mer	again	lv	lv				
+nafsan	kori	0033	palus	paddle	v:pred	v		pred		
+nafsan	kori	0034	#	#	##	##				
+nafsan	kori	0034	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0034	pan	go	v:pred	v		pred		
+nafsan	kori	0034	pan	until	other	other				
+nafsan	kori	0034	#	#	#ac	#ac				
+nafsan	kori	0034	na	PURP	other	other				
+nafsan	kori	0034	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0034	sak	land	v:pred	v		pred		
+nafsan	kori	0034	natokon	village	np:g	np		g	127	new
+nafsan	kori	0034	Taalo	p.name	rn_np	rn_np			128	new
+nafsan	kori	0034	san	there	rn	rn				
+nafsan	kori	0034	#	#	#rc_rn	#rc_rn				
+nafsan	kori	0034	kin	REL	other	other				
+nafsan	kori	0034	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0034	si	shoot	v:pred	v		pred		
+nafsan	kori	0034	pak	to	adp	adp				
+nafsan	kori	0034	-wes	-3S.OBL	-pro:l	-pro		l	127	
+nafsan	kori	0034	#	#	##	##				
+nafsan	kori	0034	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0034	na	want	v:pred	v		pred		
+nafsan	kori	0034	#	#	#cc:p	#cc		p		
+nafsan	kori	0034	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0034	sal	drift	v:pred	v		pred		
+nafsan	kori	0034	#	#	#	#				
+nafsan	kori	0034	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0034	sak	land	v:pred	v		pred		
+nafsan	kori	0034	-wes	-3S.OBL	-pro:l	-pro		l	127	
+nafsan	kori	0034	#	#	##	##				
+nafsan	kori	0034	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0034	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0034	to	PROG	lv	lv				
+nafsan	kori	0034	marmar	rest	v:pred	v		pred		
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	to	PROG	lv	lv				
+nafsan	kori	0035	marmar	rest	v:pred	v		pred		
+nafsan	kori	0035	tefla	similar	other	other				
+nafsan	kori	0035	=n	=DST	=other	=other				
+nafsan	kori	0035	panpan	until	other	other				
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	go	and	other	other				
+nafsan	kori	0035	ZERO	ZERO	0.h:a	0	h	a	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0035	#	#	#cc:p	#cc		p		
+nafsan	kori	0035	go	and	other	other				
+nafsan	kori	0035	kori	dog	np:s	np		s	107	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	paakor	appear	v:pred	v		pred		
+nafsan	kori	0035	m̃eltig	close	other	other				
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	mtak-ki	fear-TR	v:pred	v		pred		
+nafsan	kori	0035	kori	dog	np:p	np		p	107	
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	fit	run	v:pred	v		pred		
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	fit	run	v:pred	v		pred		
+nafsan	kori	0035	pak	to	adp	adp				
+nafsan	kori	0035	sum̃	house	np:g	np		g	129	new
+nafsan	kori	0035	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	102	
+nafsan	kori	0035	#	#	#nc	#nc				
+nafsan	kori	0035	me	and	nc	nc				
+nafsan	kori	0035	ZERO	ZERO	nc	nc				
+nafsan	kori	0035	ku=	2S.RS=	nc	nc				
+nafsan	kori	0035	tae	know	nc	nc				
+nafsan	kori	0035	kros	cross_beam:BI	nc	nc				
+nafsan	kori	0035	ni	of	nc	nc				
+nafsan	kori	0035	namet	door	nc	nc				
+nafsan	kori	0035	ne	this	nc	nc				
+nafsan	kori	0035	kros	cross_beam:BI	nc	nc				
+nafsan	kori	0035	ne	this	nc	nc				
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	fit	run	v:pred	v		pred		
+nafsan	kori	0035	pak	to	adp	adp				
+nafsan	kori	0035	namet	door	np:g	np		g	130	bridging
+nafsan	kori	0035	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	102	
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	go	and	other	other				
+nafsan	kori	0035	kros	cross_beam:BI	np:s	np		s		
+nafsan	kori	0035	kaaru	next	rn	rn				
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	tan	down	v:pred	v		pred		
+nafsan	kori	0035	#	#	##	##				
+nafsan	kori	0035	me	and	other	other				
+nafsan	kori	0035	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	na	want	v:pred	v		pred		
+nafsan	kori	0035	#	#	#cc:p	#cc		p		
+nafsan	kori	0035	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0035	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0035	top	big	v:pred	v		pred		
+nafsan	kori	0035	po	PSP	rv	rv				
+nafsan	kori	0035	mer	again	rv	rv				
+nafsan	kori	0036	#	#	##	##				
+nafsan	kori	0036	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0036	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0036	to	stay	v:pred	v		pred		
+nafsan	kori	0036	etan	down	rv	rv				
+nafsan	kori	0036	tefla	similar	other	other				
+nafsan	kori	0036	#	#	##	##				
+nafsan	kori	0036	me	and	other	other				
+nafsan	kori	0036	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0036	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0036	to	stay	lv	lv				
+nafsan	kori	0036	tolu-ki	turn_back-TR	v:pred	v		pred		
+nafsan	kori	0036	e-sum̃	LOC-house	np:p	np		p	129	
+nafsan	kori	0036	ki	PREP	adp	adp				
+nafsan	kori	0036	em̃rom	inside	np:l	np		l		
+nafsan	kori	0036	#	#	##	##				
+nafsan	kori	0036	me	and	other	other				
+nafsan	kori	0036	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0036	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0036	to	PROG	lv	lv				
+nafsan	kori	0036	ler	return	v:pred	v		pred		
+nafsan	kori	0036	pak	to	adp	adp				
+nafsan	kori	0036	ektem	outside	np:g	np		g		
+nafsan	kori	0036	#	#	##	##				
+nafsan	kori	0036	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0036	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0036	to	PROG	lv	lv				
+nafsan	kori	0036	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0036	ZERO	ZERO	0:p	0		p		
+nafsan	kori	0036	tefla	similar	other	other				
+nafsan	kori	0036	=n	=DST	=other	=other				
+nafsan	kori	0036	panpan	until	other	other				
+nafsan	kori	0036	#	#	##	##				
+nafsan	kori	0036	me	and	other	other				
+nafsan	kori	0036	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0036	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0036	lelkau	look	v:pred	v		pred		
+nafsan	kori	0036	kori	dog	np:p	np		p	107	
+nafsan	kori	0036	#	#	##neg	##neg				
+nafsan	kori	0036	me	but	other	other				
+nafsan	kori	0036	kori	dog	np:s	np		s	107	
+nafsan	kori	0036	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0036	tap	not	lv	lv				
+nafsan	kori	0036	leg	straight	v:pred	v		pred		
+nafsan	kori	0036	ki	PREP	adp	adp				
+nafsan	kori	0036	napu	road	np:l	np		l		
+nafsan	kori	0036	mau	NEG2	other	other				
+nafsan	kori	0036	#	#	##	##				
+nafsan	kori	0036	me	but	other	other				
+nafsan	kori	0036	kori	dog	np:s	np		s	107	
+nafsan	kori	0036	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0036	ur	go_along	v:pred	v		pred		
+nafsan	kori	0036	naor	place	np:g	np		g		
+nafsan	kori	0036	p̃tae	different	rn	rn				
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	ZERO	ZERO	0:s	0		s	107	
+nafsan	kori	0037	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0037	lefek	spin	v:pred	v		pred		
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	ZERO	ZERO	0:s	0		s	107	
+nafsan	kori	0037	mai	come	nc	nc				
+nafsan	kori	0037	mai	come	nc	nc				
+nafsan	kori	0037	mai	come	v:pred	v		pred		
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	ZERO	ZERO	0:s	0		s	107	
+nafsan	kori	0037	trau	just	lv	lv				
+nafsan	kori	0037	paakor	arrive	v:pred	v		pred		
+nafsan	kori	0037	natkin	edge	ln	ln				
+nafsan	kori	0037	namten	door	np:g	np		g	130	
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	ZERO	ZERO	0:s	0		s	107	
+nafsan	kori	0037	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0037	paakor	arrive	v:pred	v		pred		
+nafsan	kori	0037	natik	edge	np:g	np		g		
+nafsan	kori	0037	ne	this	rn	rn				
+nafsan	kori	0037	tefla	similar	other	other				
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	me	but	other	other				
+nafsan	kori	0037	ntwam	devil	np.d:a	np	d	a	102	
+nafsan	kori	0037	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0037	lek-a	look-TS	v:pred	v		pred		
+nafsan	kori	0037	ZERO	ZERO	0:p	0		p	107	
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	me	and	other	other				
+nafsan	kori	0037	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0037	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0037	na	want	v:pred	v		pred		
+nafsan	kori	0037	#	#	#cc:p	#cc		p		
+nafsan	kori	0037	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0037	ke=	3S.IRS=	=lv	=lv				
+nafsan	kori	0037	sok	jump	v:pred	v		pred		
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	me	and	other	other				
+nafsan	kori	0037	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0037	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0037	sok	jump	v:pred	v		pred		
+nafsan	kori	0037	#	#	##	##				
+nafsan	kori	0037	me	and	other	other				
+nafsan	kori	0037	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0037	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0037	frak	slow	v:pred	v		pred		
+nafsan	kori	0038	#	#	##	##				
+nafsan	kori	0038	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0038	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0038	sok	jump	v:pred	v		pred		
+nafsan	kori	0038	#	#	##	##				
+nafsan	kori	0038	me	and	other	other				
+nafsan	kori	0038	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0038	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0038	krel	hold	v:pred	v		pred		
+nafsan	kori	0038	na	HESIT	nc	nc				
+nafsan	kori	0038	nkas	tree	np:p	np		p		
+nafsan	kori	0038	ni	of	rn	rn				
+nafsan	kori	0038	kros	cross_beam:BI	rn_np:poss	rn_np		poss		
+nafsan	kori	0038	#	#	##	##				
+nafsan	kori	0038	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0038	trau	just	lv	lv				
+nafsan	kori	0038	tau	stay	lv	lv				
+nafsan	kori	0038	sal	swing	v:pred	v		pred		
+nafsan	kori	0038	tefla	similar	other	other				
+nafsan	kori	0039	#	#	##	##				
+nafsan	kori	0039	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0039	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0039	trau	just	lv	lv				
+nafsan	kori	0039	sal	swing	v:pred	v		pred		
+nafsan	kori	0039	#	#	##	##				
+nafsan	kori	0039	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0039	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0039	trau	just	lv	lv				
+nafsan	kori	0039	sal	swing	v:pred	v		pred		
+nafsan	kori	0039	#	#	##	##				
+nafsan	kori	0039	me	and	other	other				
+nafsan	kori	0039	kori	dog	np:a	np		a	107	
+nafsan	kori	0039	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0039	wokim	work:BI	lv	lv				
+nafsan	kori	0039	kat-i	bite-TS	v:pred	v		pred		
+nafsan	kori	0039	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0039	panpan	until	other	other				
+nafsan	kori	0039	#	#	##	##				
+nafsan	kori	0039	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0039	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0039	tarp̃ek	fall	v:pred	v		pred		
+nafsan	kori	0039	#	#	##	##				
+nafsan	kori	0039	ZERO	ZERO	0.d:a	0	d	a	102	
+nafsan	kori	0039	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0039	na	want	v:pred	v		pred		
+nafsan	kori	0039	#	#	#cc:p	#cc		p		
+nafsan	kori	0039	ZERO	ZERO	0.d:s	0	d	s	102	
+nafsan	kori	0039	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0039	tarp̃ek	fall	v:pred	v		pred		
+nafsan	kori	0039	pak	to	adp	adp				
+nafsan	kori	0039	etan	down	np:g	np		g		
+nafsan	kori	0039	#	#	#nc	#nc				
+nafsan	kori	0039	go	and	nc	nc				
+nafsan	kori	0039	ZERO	ZERO	nc_0	nc_0			107	
+nafsan	kori	0039	i=	3S.RS=	nc	nc				
+nafsan	kori	0039	kat.ktof	bite.push	nc	nc				
+nafsan	kori	0039	na	DET	nc	nc				
+nafsan	kori	0040	#	#	#nc	#nc				
+nafsan	kori	0040	ZERO	ZERO	nc_0	nc_0			107	
+nafsan	kori	0040	i=	3S.RS=	nc	nc				
+nafsan	kori	0040	kat.ktof	bite.push	nc	nc				
+nafsan	kori	0040	nana	HESIT	nc	nc				
+nafsan	kori	0040	#	#	##	##				
+nafsan	kori	0040	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0040	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0040	kat.ktof	bite.push	v:pred	v		pred		
+nafsan	kori	0040	nana	HESIT	other	other				
+nafsan	kori	0041	pol	ball:BI	np:p	np		p	131	bridging
+nafsan	kori	0041	na	DET	ln	ln				
+nafsan	kori	0041	p̃ura	testicles	np:appos	np		appos	131	
+nafsan	kori	0041	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	102	
+nafsan	kori	0041	#	#	##	##				
+nafsan	kori	0041	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0041	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0041	kat.ktof	bite.push	v:pred	v		pred		
+nafsan	kori	0041	p̃ura	testicles	np:p	np		p	131	
+nafsan	kori	0041	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	102	
+nafsan	kori	0041	#	#	##	##				
+nafsan	kori	0041	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0041	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0041	po	3S.RS=PSP	lv	lv				
+nafsan	kori	0041	komkom-ki	suck-TR	v:pred	v		pred		
+nafsan	kori	0041	ZERO	ZERO	0:p	0		p	131	
+nafsan	kori	0041	#	#	##	##				
+nafsan	kori	0041	ntwam	devil	np.d:s	np	d	s	102	
+nafsan	kori	0041	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0041	tarp̃ek	fall	v:pred	v		pred		
+nafsan	kori	0041	#	#	##	##				
+nafsan	kori	0041	ZERO	ZERO	es_f0.d:s	es_f0	d	s	102	
+nafsan	kori	0041	kai=	ES=	=lv	=lv				
+nafsan	kori	0041	mat	die	v:pred	v		pred		
+nafsan	kori	0041	pe	die.PF	rv	rv				
+nafsan	kori	0042	#	#	##	##				
+nafsan	kori	0042	me	and	other	other				
+nafsan	kori	0042	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0042	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0042	ni	of	nc	nc				
+nafsan	kori	0042	ntwam	devil	nc_np.d	nc_np	d		102	
+nafsan	kori	0042	komkom-ki	suck-TR	v:pred	v		pred		
+nafsan	kori	0042	na	DET	ln	ln				
+nafsan	kori	0042	p̃ura	testicle	np:p	np		p	131	
+nafsan	kori	0042	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	102	
+nafsan	kori	0042	pa	go	other	other				
+nafsan	kori	0042	#	#	##	##				
+nafsan	kori	0042	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0042	i=	3S.RS=	=nc	=nc				
+nafsan	kori	0042	olwe	always:BI	other	other				
+nafsan	kori	0042	me	and	other	other				
+nafsan	kori	0042	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0042	pan	go	lv	lv				
+nafsan	kori	0042	los	swim	v:pred	v		pred		
+nafsan	kori	0042	nrookot	cross	np:p	np		p		
+nafsan	kori	0042	#	#	##	##				
+nafsan	kori	0042	ZERO	ZERO	0:s	0		s	107	
+nafsan	kori	0042	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0042	pan	go	v:pred	v		pred		
+nafsan	kori	0042	panpan	until	other	other				
+nafsan	kori	0042	pak	to	adp	adp				
+nafsan	kori	0042	elag	high	ln	ln				
+nafsan	kori	0042	Krikai	p.name	np:g	np		g	110	
+nafsan	kori	0043	#	#	##	##				
+nafsan	kori	0043	ZERO	ZERO	0:s	0		s	107	
+nafsan	kori	0043	pan	go	lv	lv				
+nafsan	kori	0043	lek	look	v:pred	v		pred		
+nafsan	kori	0043	kano	man	np.h:p	np	h	p	112	
+nafsan	kori	0043	sees	small	rn	rn				
+nafsan	kori	0043	ne	this	rn	rn				
+nafsan	kori	0043	plak	with	rn	rn				
+nafsan	kori	0043	mama	mother:BI	rn_np.h	rn_np	h		104	
+nafsan	kori	0043	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	112	
+nafsan	kori	0043	#	#	##	##				
+nafsan	kori	0043	me	and	other	other				
+nafsan	kori	0043	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0043	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0043	pak	go_to	v:pred	v		pred		
+nafsan	kori	0043	natik-i	edge-V	np:p	np		p	132	bridging
+nafsan	kori	0043	-n	-3S.DP	-pro.h:poss	-pro	h	poss	112	
+nafsan	kori	0043	tefla	similar	other	other				
+nafsan	kori	0043	=n	=DST	=other	=other				
+nafsan	kori	0043	#	#	##	##				
+nafsan	kori	0043	me	and	other	other				
+nafsan	kori	0043	ZERO	ZERO	0:a	0		a	107	
+nafsan	kori	0043	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0043	lai	spit_out	v:pred	v		pred		
+nafsan	kori	0043	ZERO	ZERO	0:p	0		p	131	
+nafsan	kori	0044	#	#	##	##				
+nafsan	kori	0044	0	0	0:a	0		a	107	
+nafsan	kori	0044	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0044	lai	spit_out	v:pred	v		pred		
+nafsan	kori	0044	na	DET	ln	ln				
+nafsan	kori	0044	p̃ura	testicles	np:p	np		p	131	
+nafsan	kori	0044	ni	of	rn	rn				
+nafsan	kori	0044	na	DET	rn	rn				
+nafsan	kori	0044	ntwam	devil	rn_np.d	rn_np	d		102	
+nafsan	kori	0044	ne	this	rn	rn				
+nafsan	kori	0044	#	#	##	##				
+nafsan	kori	0044	me	and	other	other				
+nafsan	kori	0044	ZERO	ZERO	0.d:s_ds	0	d	s_ds	107	
+nafsan	kori	0044	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0044	na	say	v:pred	v		pred		
+nafsan	kori	0044	#	#	#nc	#nc				
+nafsan	kori	0044	ga	3S.	nc	nc				
+nafsan	kori	0044	ki	PREP	nc	nc				
+nafsan	kori	0044	#	#	##ds	##ds				
+nafsan	kori	0044	ZERO	ZERO	es_f0:a	es_f0		a	107	
+nafsan	kori	0044	kai=	ES=	=lv	=lv				
+nafsan	kori	0044	pe	PF	lv	lv				
+nafsan	kori	0044	katpun-i	bite.dead-TS	v:pred	v		pred		
+nafsan	kori	0044	ZERO	ZERO	0.d:p	0	d	p	102	
+nafsan	kori	0045	#	#	##ds	##ds				
+nafsan	kori	0045	malfane	now	other	other				
+nafsan	kori	0045	ZERO	ZERO	0.h:s	0	h	s	113	
+nafsan	kori	0045	tu=	1P.inRS=	=lv	=lv				
+nafsan	kori	0045	po	PSP	lv	lv				
+nafsan	kori	0045	ler	return	v:pred	v		pred		
+nafsan	kori	0045	#	#	#nc	#nc				
+nafsan	kori	0045	kin	REL	nc	nc				
+nafsan	kori	0045	ru=	3P.RS=	nc	nc				
+nafsan	kori	0045	ler	return	nc	nc				
+nafsan	kori	0045	#	#	##	##				
+nafsan	kori	0045	gar	3P.POS	pro.h:a	pro	h	a	113	
+nafsan	kori	0045	ru=	3P.RS=	=lv	=lv				
+nafsan	kori	0045	pak	go_to	v:pred	v		pred		
+nafsan	kori	0045	Egun	p.name	np:p	np		p		
+nafsan	kori	0045	pan	go	nc	nc				
+nafsan	kori	0045	kin	REL	nc	nc				
+nafsan	kori	0045	#	#	##	##				
+nafsan	kori	0045	go	and	other	other				
+nafsan	kori	0045	ZERO	ZERO	0.h:s	0	h	s		
+nafsan	kori	0045	i=	3S.RS=	=lv	=lv				
+nafsan	kori	0045	m̃ol	live	v:pred	v		pred		
+nafsan	kori	0045	i=	3S.RS=	nc	nc				
+nafsan	kori	0045	m̃ol	live	nc	nc				
+nafsan	kori	0045	i=	NC	nc	nc				
+nafsan	kori	0045	po	3S.RS=	nc	nc				
+nafsan	kori	0045	mer	PSP	nc	nc				
+nafsan	kori	0045	ftom	again.grow:IR	nc	nc				
+nafsan	kori	0045	-ki	-TR	nc	nc				
+nafsan	kori	0045	natam̃ol	person	nc	nc				
+nafsan	kori	0046	kin	REL	nc	nc				
+nafsan	kori	0046	panpan	until	nc	nc				
+nafsan	kori	0046	kin	REL	nc	nc				
+nafsan	kori	0046	mees	play	nc	nc				
+nafsan	kori	0046	nen	that	nc	nc				
+nafsan	kori	0046	kin	REL	nc	nc				
+nafsan	kori	0046	natam̃ol	person	nc	nc				
+nafsan	kori	0046	ru=	3P.RS=	nc	nc				
+nafsan	kori	0046	po	PSP	nc	nc				
+nafsan	kori	0046	laap	many	nc	nc				
+nafsan	kori	0046	naur	island	nc	nc				
+nafsan	kori	0046	Egun	p.name	nc	nc				
+nafsan	kori	0046	te-	DET-	nc	nc				
+nafsan	kori	0046	nen	that	nc	nc				
+nafsan	kori	0046	ga	3S.	nc	nc				
+nafsan	kori	0046	i=	3S.RS=	nc	nc				
+nafsan	kori	0046	pi	be	nc	nc				
+nafsan	kori	0046	natrauswen	story	nc	nc				
+nafsan	kori	0046	tilm̃ori	tell.truth	nc	nc				
+nafsan	kori	0046	a=	1S.RS=	nc	nc				
+nafsan	kori	0046	nig	BEN	nc	nc				
+nafsan	kori	0046	teesa	child	nc	nc				
+nafsan	kori	0046	nen	that	nc	nc				
+nafsan	kori	0046	ru=	3P.RS=	nc	nc				
+nafsan	kori	0046	tu	stay	nc	nc				
+nafsan	kori	0046	traus	tell	nc	nc				
+nafsan	kori	0046	-i	-TS	nc	nc				
+nafsan	kori	0046	-ø	-3S.O	nc	nc				

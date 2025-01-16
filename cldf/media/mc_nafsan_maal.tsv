@@ -1,0 +1,365 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	maal	0001	#	#	##	##				
+nafsan	maal	0001	naliati	day	np:other	np		other		
+nafsan	maal	0001	i=	3S.RS=	=rn	=rn				
+nafsan	maal	0001	skei	one	rn	rn				
+nafsan	maal	0001	maal	hawk	np.d:s	np	d	s	501	new
+nafsan	maal	0001	ru=	3P.RS=	nc	nc				
+nafsan	maal	0001	to	PROG	nc	nc				
+nafsan	maal	0001	ru=	3P.RS=	=lv	=lv				
+nafsan	maal	0001	to	PROG	lv	lv				
+nafsan	maal	0001	puserek	talk	v:pred	v		pred		
+nafsan	maal	0002	panpan	until	other	other				
+nafsan	maal	0002	#	#	##	##				
+nafsan	maal	0002	go	and	other	other				
+nafsan	maal	0002	ZERO	ZERO	0.d:a	0	d	a	501	
+nafsan	maal	0002	ru=	3P.RS=	=lv	=lv				
+nafsan	maal	0002	tm	REFL	lv	lv				
+nafsan	maal	0002	-r	-3P.DP	-rn_pro:poss	-rn_pro		poss	501	
+nafsan	maal	0002	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	maal	0002	-r	-3P.O	-pro:p	-pro		p	501	
+nafsan	maal	0002	ki	PREP	other	other				
+nafsan	maal	0002	na	say	other	other				
+nafsan	maal	0002	#	#	##	##				
+nafsan	maal	0002	maal	hawk	np.d:s_ds	np	d	s_ds	502	bridging
+nafsan	maal	0002	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0002	til-i	say-TS	v:pred	v		pred		
+nafsan	maal	0002	#	#	#ds	#ds				
+nafsan	maal	0002	na	SUB	other	other				
+nafsan	maal	0002	neu	1S.	pro.1:a	pro	1	a	502	
+nafsan	maal	0002	a=	1S.RS=	=lv	=lv				
+nafsan	maal	0002	piatlak	have	v:predex	v		predex		
+nafsan	maal	0002	nalkis	herbs	np:p	np		p	503	new
+nafsan	maal	0002	i=	3S.RS=	=rn	=rn				
+nafsan	maal	0002	skei	one	rn	rn				
+nafsan	maal	0002	#	#	##	##				
+nafsan	maal	0002	ZERO	ZERO	0.1:a	0	1	a	502	
+nafsan	maal	0002	a=	1S.RS=	=lv	=lv				
+nafsan	maal	0002	min-gi	drink-TR	v:pred	v		pred		
+nafsan	maal	0002	ZERO	ZERO	0:p	0		p	503	
+nafsan	maal	0002	#	#	##	##				
+nafsan	maal	0002	go	and	other	other				
+nafsan	maal	0002	ZERO	ZERO	0.1:s	0	1	s	502	
+nafsan	maal	0002	a=	1S.RS=	=lv	=lv				
+nafsan	maal	0002	tae	know	v:pred	v		pred		
+nafsan	maal	0002	nrir	fly	rv	rv				
+nafsan	maal	0002	pak	to	adp	adp				
+nafsan	maal	0002	elag	high	np:g	np		g	504	new
+nafsan	maal	0003	#	#	##	##				
+nafsan	maal	0003	go	and	other	other				
+nafsan	maal	0003	sokfal	owl	np.d:a	np	d	a	505	new
+nafsan	maal	0003	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0003	nrik	tell	v:pred	v		pred		
+nafsan	maal	0003	maal	hawk	np:p	np		p	502	
+nafsan	maal	0003	ki	PREP	adp	adp				
+nafsan	maal	0003	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	maal	0003	#	#	#ds	#ds				
+nafsan	maal	0003	na	SUB	other	other				
+nafsan	maal	0003	ZERO	ZERO	0.2:a	0	2	a	502	
+nafsan	maal	0003	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	maal	0003	fo	PSP:IR	lv	lv				
+nafsan	maal	0003	neu	1S.BEN	lv_pro.1:obl	lv_pro	1	obl		
+nafsan	maal	0003	preg	make	v:pred	v		pred		
+nafsan	maal	0003	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0003	#	#	##	##				
+nafsan	maal	0003	go	and	other	other				
+nafsan	maal	0003	ZERO	ZERO	0.d:s	0	d	s	506	bridging
+nafsan	maal	0003	rui=	3P.PS=	=lv	=lv				
+nafsan	maal	0003	nep-a	throw-TS	v:pred	v		pred		
+nafsan	maal	0003	ZERO	ZERO	0:p	0		p		
+nafsan	maal	0003	ki	PREP	adp	adp				
+nafsan	maal	0003	natut	appointment	np:other	np		other	507	new
+nafsan	maal	0003	#	#	##ds	##ds				
+nafsan	maal	0003	maal	hawk	np.d:voc	np	d	voc	502	
+nafsan	maal	0003	tefla	similar	np:other	np		other		
+nafsan	maal	0003	=n	=DST	=rn	=rn				
+nafsan	maal	0003	ZERO	ZERO	0.2:s	0	2	s	502	
+nafsan	maal	0003	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	maal	0003	fo	PSP:IR	lv	lv				
+nafsan	maal	0003	mai	come	v:pred	v		pred		
+nafsan	maal	0004	#	#	##ds	##ds				
+nafsan	maal	0004	ZERO	ZERO	0.1:a	0	1	a	502	
+nafsan	maal	0004	ka=	1S.IRS=	=lv	=lv				
+nafsan	maal	0004	fo	PSP:IR	lv	lv				
+nafsan	maal	0004	tu-o	give-TS	v:pred	v		pred		
+nafsan	maal	0004	-k	-2S.O	-pro.2:p	-pro	2	p	505	
+nafsan	maal	0004	nalkis	herbs	np:p2	np		p2	503	
+nafsan	maal	0004	#	#	##ds	##ds				
+nafsan	maal	0004	ZERO	ZERO	0.2:a	0	2	a	505	
+nafsan	maal	0004	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	maal	0004	fo	PSP:IR	lv	lv				
+nafsan	maal	0004	min-gi	drink-TR	v:pred	v		pred		
+nafsan	maal	0004	ZERO	ZERO	0:p	0		p	503	
+nafsan	maal	0004	#	#	##	##				
+nafsan	maal	0004	ZERO	ZERO	0.d:s	0	d	s	506	
+nafsan	maal	0004	ru=	3P.RS=	=lv	=lv				
+nafsan	maal	0004	to	stay	v:pred	v		pred		
+nafsan	maal	0004	panpan	until	adp	adp				
+nafsan	maal	0004	mal	time	np:obl	np		obl	508	new
+nafsan	maal	0004	natut	date	rn_np	rn_np				
+nafsan	maal	0004	#	#	##	##				
+nafsan	maal	0004	ZERO	ZERO	0.d:s	0	d	s	506	
+nafsan	maal	0004	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0004	paakor	arrive	v:pred	v		pred		
+nafsan	maal	0004	#	#	##	##				
+nafsan	maal	0004	go	and	other	other				
+nafsan	maal	0004	maal	hawk	np.d:a	np	d	a	502	
+nafsan	maal	0004	ki=	3S.PS=	=lv	=lv				
+nafsan	maal	0004	wes	take	v:pred	v		pred		
+nafsan	maal	0004	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0004	mai	come	other	other				
+nafsan	maal	0005	#	#	##	##				
+nafsan	maal	0005	sokfal	owl	np.d:s	np	d	s	505	
+nafsan	maal	0005	me	and	other	other				
+nafsan	maal	0005	ki=	3S.PS=	=lv	=lv				
+nafsan	maal	0005	mai	come	v:pred	v		pred		
+nafsan	maal	0005	#	#	##	##				
+nafsan	maal	0005	me	and	other	other				
+nafsan	maal	0005	ZERO	ZERO	0.d:a	0	d	a	505	
+nafsan	maal	0005	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0005	nrik	tell	v:pred	v		pred		
+nafsan	maal	0005	maal	hawk	np:p	np		p	502	
+nafsan	maal	0005	ki	PREP	adp	adp				
+nafsan	maal	0005	ZERO	ZERO	0:obl	0		obl		
+nafsan	maal	0005	na	REL	nc	nc				
+nafsan	maal	0005	mlapuas	owl	nc	nc				
+nafsan	maal	0005	ki	PREP	nc	nc				
+nafsan	maal	0005	#	#	#ds	#ds				
+nafsan	maal	0005	na	SUB	other	other				
+nafsan	maal	0005	ag	2S.	pro.2:dt_a	pro	2	dt_a	502	
+nafsan	maal	0005	#	#	#rc_rn	#rc_rn				
+nafsan	maal	0005	kin	REL	other	other				
+nafsan	maal	0005	p̃a=	2S.IRS=	nc	nc				
+nafsan	maal	0005	fo	PSP:IR	nc	nc				
+nafsan	maal	0005	na	PURP	nc	nc				
+nafsan	maal	0005	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	maal	0005	fo	PSP:IR	lv	lv				
+nafsan	maal	0005	ga	3S.BEN	lv_pro:obl	lv_pro		obl		
+nafsan	maal	0005	wis	take	v:pred	v		pred		
+nafsan	maal	0005	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0005	%	%	%	%				
+nafsan	maal	0005	ZERO	ZERO	0.2:a	0	2	a	502	
+nafsan	maal	0005	tu-a	give-TS	v:pred	v		pred		
+nafsan	maal	0005	ZERO	ZERO	0:p	0		p	503	
+nafsan	maal	0005	ki	PREP	adp	adp				
+nafsan	maal	0005	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	maal	0005	#	#	##	##				
+nafsan	maal	0005	ZERO	ZERO	0.d:a	0	d	a	502	
+nafsan	maal	0005	ke=	3S.IRS=	=lv	=lv				
+nafsan	maal	0005	min-gi	drink-TR	v:pred	v		pred		
+nafsan	maal	0005	ZERO	ZERO	0:p	0		p	503	
+nafsan	maal	0006	#	#	##	##				
+nafsan	maal	0006	me	and	other	other				
+nafsan	maal	0006	mlapuas	owl	np.d:a	np	d	a	509	new
+nafsan	maal	0006	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0006	na	want	v:pred	v		pred		
+nafsan	maal	0006	#	#	#cc:p	#cc		p		
+nafsan	maal	0006	ZERO	ZERO	0.d:s	0	d	s	509	
+nafsan	maal	0006	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0006	to	stay	v:pred	v		pred		
+nafsan	maal	0006	#	#	##	##				
+nafsan	maal	0006	ZERO	ZERO	es_f0.d:a	es_f0	d	a	509	
+nafsan	maal	0006	kai=	ES=	=lv	=lv				
+nafsan	maal	0006	min	drink	v:pred	v		pred		
+nafsan	maal	0006	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0006	ni	of	rn	rn				
+nafsan	maal	0006	sokfal	owl	rn_np:poss	rn_np		poss	505	
+nafsan	maal	0006	#	#	##	##				
+nafsan	maal	0006	me	and	other	other				
+nafsan	maal	0006	ZERO	ZERO	0.d:s	0	d	s	509	
+nafsan	maal	0006	ki=	3S.PS=	=lv	=lv				
+nafsan	maal	0006	ni	of	lv_adp	lv_adp				
+nafsan	maal	0006	sokfal	owl	lv_np.d:obl	lv_np	d	obl	505	
+nafsan	maal	0006	uut	pour	v:pred	v		pred		
+nafsan	maal	0006	nai	water	np:p	np		p	510	new
+nafsan	maal	0007	#	#	##	##				
+nafsan	maal	0007	ZERO	ZERO	0.d:a	0	d	a	509	
+nafsan	maal	0007	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0007	pan	go	lv	lv				
+nafsan	maal	0007	min	drink	v:pred	v		pred		
+nafsan	maal	0007	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0007	nen	that	rn	rn				
+nafsan	maal	0007	#	#	#rc_rn	#rc_rn				
+nafsan	maal	0007	kin	REL	other	other				
+nafsan	maal	0007	ZERO	ZERO	0.d:a	0	d	a	511	bridging
+nafsan	maal	0007	ru=	3P.RS=	=lv	=lv				
+nafsan	maal	0007	ni	of	lv_adp	lv_adp				
+nafsan	maal	0007	sokfal	owl	lv_np.d:obl	lv_np	d	obl	505	
+nafsan	maal	0007	preg-i	make-TS	v:pred	v		pred		
+nafsan	maal	0007	ZERO	ZERO	f0:p	f0		p		
+nafsan	maal	0007	pan	until	other	other				
+nafsan	maal	0007	#	#	##	##				
+nafsan	maal	0007	ZERO	ZERO	0.d:a	0	d	a	505	
+nafsan	maal	0007	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0007	min	drink	v:pred	v		pred		
+nafsan	maal	0007	silua	every	np:p	np		p	510	
+nafsan	maal	0007	#	#	##	##				
+nafsan	maal	0007	me	and	other	other				
+nafsan	maal	0007	ZERO	ZERO	0.d:a	0	d	a	509	
+nafsan	maal	0007	ki=	3S.PS=	=lv	=lv				
+nafsan	maal	0007	ga	3S.BEN	lv_pro:obl	lv_pro		obl		
+nafsan	maal	0007	uut	pour	v:pred	v		pred		
+nafsan	maal	0007	nai	water	np:p	np		p	510	
+nafsan	maal	0007	#	#	##	##				
+nafsan	maal	0007	ZERO	ZERO	0.d:a	0	d	a	509	
+nafsan	maal	0007	pan	go	lv	lv				
+nafsan	maal	0007	tu-a	give-TS	v:pred	v		pred		
+nafsan	maal	0007	#	#	#cc:p	#cc		p		
+nafsan	maal	0007	kin	COMP	other	other				
+nafsan	maal	0007	ZERO	ZERO	0.d:a	0	d	a	505	
+nafsan	maal	0007	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0007	min-gi	drink-TR	v:pred	v		pred		
+nafsan	maal	0007	ZERO	ZERO	0:p	0		p	510	
+nafsan	maal	0008	#	#	##	##				
+nafsan	maal	0008	#	#	#ac	#ac				
+nafsan	maal	0008	selwan	while	other	other				
+nafsan	maal	0008	ZERO	ZERO	0.d:a	0	d	a	505	
+nafsan	maal	0008	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0008	min	drink	v:pred	v		pred		
+nafsan	maal	0008	silu	every	np:p	np		p	510	
+nafsan	maal	0008	#	#	%	%				
+nafsan	maal	0008	go	and	other	other				
+nafsan	maal	0008	ZERO	ZERO	0.d:s	0	d	s	512	bridging
+nafsan	maal	0008	ru=	3P.RS=	=lv	=lv				
+nafsan	maal	0008	pan	go	lv	lv				
+nafsan	maal	0008	saisei	meet	v:pred	v		pred		
+nafsan	maal	0008	#	#	##	##				
+nafsan	maal	0008	go	and	other	other				
+nafsan	maal	0008	ZERO	ZERO	0.d:s_ds	0	d	s_ds	512	
+nafsan	maal	0008	ru=	3P.RS=	=lv	=lv				
+nafsan	maal	0008	til-i	say-TS	v:pred	v		pred		
+nafsan	maal	0008	#	#	#ds	#ds				
+nafsan	maal	0008	malfane	now	other	other				
+nafsan	maal	0008	mal	time	np:s	np		s	508	
+nafsan	maal	0008	natut	appointment	rn_np	rn_np			507	
+nafsan	maal	0008	ke=	3S.IRS=	=lv	=lv				
+nafsan	maal	0008	mai	come	v:pred	v		pred		
+nafsan	maal	0008	#	#	##ds	##ds				
+nafsan	maal	0008	go	and	other	other				
+nafsan	maal	0008	ZERO	ZERO	0.1:a	0	1	a	512	
+nafsan	maal	0008	tuk=	1P.incIRS=	=lv	=lv				
+nafsan	maal	0008	fo	PSP:IR	lv	lv				
+nafsan	maal	0008	pregnrog-o	try-TS	v:pred	v		pred		
+nafsan	maal	0008	nrir	fly	np:p	np		p	513	new
+nafsan	maal	0009	#	#	##	##				
+nafsan	maal	0009	panpan	until	other	other				
+nafsan	maal	0009	mal	time	np:s	np		s	508	
+nafsan	maal	0009	natut	appointment	rn_np	rn_np			507	
+nafsan	maal	0009	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0009	mai	come	v:pred	v		pred		
+nafsan	maal	0009	#	#	##	##				
+nafsan	maal	0009	go	and	other	other				
+nafsan	maal	0009	ZERO	ZERO	0.d:s	0	d	s	512	
+nafsan	maal	0009	rui=	3P.PS=	=lv	=lv				
+nafsan	maal	0009	pan	go	lv	lv				
+nafsan	maal	0009	saisei	meet	v:pred	v		pred		
+nafsan	maal	0009	#	#	#ds	#ds				
+nafsan	maal	0009	malfane	now	other	other				
+nafsan	maal	0009	ZERO	ZERO	0.1:s	0	1	s	512	
+nafsan	maal	0009	tu=	1P.inRS=	=lv	=lv				
+nafsan	maal	0009	fo	PSP:IR	lv	lv				
+nafsan	maal	0009	nrir	fly	v:pred	v		pred		
+nafsan	maal	0010	#	#	##	##				
+nafsan	maal	0010	#	#	#ac	#ac				
+nafsan	maal	0010	malnen	as	other	other				
+nafsan	maal	0010	ZERO	ZERO	0.d:s	0	d	s	512	
+nafsan	maal	0010	ru=	3P.RS=	=lv	=lv				
+nafsan	maal	0010	nrir	fly	v:pred	v		pred		
+nafsan	maal	0010	#	#	##	##				
+nafsan	maal	0010	sokfal	owl	np.d:s	np	d	s	505	
+nafsan	maal	0010	#	#	#rc_rn	#rc_rn				
+nafsan	maal	0010	kin	REL	other	other				
+nafsan	maal	0010	ZERO	ZERO	f0.d:s	f0	d	s	505	
+nafsan	maal	0010	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0010	nrir	fly	v:pred	v		pred		
+nafsan	maal	0010	ur	along	rv	rv				
+nafsan	maal	0010	etan	down	np:l	np		l	514	new
+nafsan	maal	0010	%	%	%	%				
+nafsan	maal	0010	ZERO	ZERO	0.d:s	0	d	s	505	
+nafsan	maal	0010	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0010	to	PROG	lv_aux	lv_aux				
+nafsan	maal	0010	ur	go_along	v:pred	v		pred		
+nafsan	maal	0010	etan	down	np:l	np		l	514	
+nafsan	maal	0010	m̃as	only	rv	rv				
+nafsan	maal	0010	#	#	##	##				
+nafsan	maal	0010	me	but	other	other				
+nafsan	maal	0010	maal	hawk	ln_np	ln_np			502	
+nafsan	maal	0010	go	and	ln	ln				
+nafsan	maal	0010	mlapuas	owl	np.d:s	np	d	s	509	
+nafsan	maal	0010	ra=	3D.RS=	=lv	=lv				
+nafsan	maal	0010	nrik	tell	v:pred	v		pred		
+nafsan	maal	0010	panpan	until	other	other				
+nafsan	maal	0010	#	#	##	##				
+nafsan	maal	0010	maal	hawk	nc	nc				
+nafsan	maal	0010	mlapuas	owl	np.d:a	np	d	a	509	
+nafsan	maal	0010	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0010	tol	pass	v:pred	v		pred		
+nafsan	maal	0010	maal	hawk	np:p	np		p	502	
+nafsan	maal	0010	pak	to	adp	adp				
+nafsan	maal	0010	elag	high	np:g	np		g	504	
+nafsan	maal	0010	#	#	#nc	#nc				
+nafsan	maal	0010	ZERO	ZERO	nc	nc				
+nafsan	maal	0010	i=	3S.RS=	nc	nc				
+nafsan	maal	0010	pi	be	nc	nc				
+nafsan	maal	0010	stori	story	nc	nc				
+nafsan	maal	0010	m̃it	short	nc	nc				
+nafsan	maal	0010	m̃as	only	nc	nc				
+nafsan	maal	0011	#	#	##	##				
+nafsan	maal	0011	sokfal	owl	np.d:s	np	d	s	505	
+nafsan	maal	0011	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0011	kano	unable	lv	lv				
+nafsan	maal	0011	nrir	fly	v:pred	v		pred		
+nafsan	maal	0011	#	#	#ac.neg	#ac.neg				
+nafsan	maal	0011	nlaken	because	other	other				
+nafsan	maal	0011	ZERO	ZERO	0.d:a	0	d	a	505	
+nafsan	maal	0011	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0011	tap	not	lv	lv				
+nafsan	maal	0011	min	drink	v:pred	v		pred		
+nafsan	maal	0011	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0011	mau	NEG2	other	other				
+nafsan	maal	0011	#	#	##	##				
+nafsan	maal	0011	me	but	other	other				
+nafsan	maal	0011	mlapuas	owl	np.d:s	np	d	s	509	
+nafsan	maal	0011	#	#	#rc:pred	#rc		pred		
+nafsan	maal	0011	kin	REL	other	other				
+nafsan	maal	0011	ZERO	ZERO	f0.d:a	f0	d	a	509	
+nafsan	maal	0011	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0011	min	drink	v:pred	v		pred		
+nafsan	maal	0011	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0011	ni	of	rn	rn				
+nafsan	maal	0011	sokfal	owl	rn_np:poss	rn_np		poss	505	
+nafsan	maal	0012	#	#	#ac	#ac				
+nafsan	maal	0012	nlaken	because	other	other				
+nafsan	maal	0012	sokfal	owl	np.d:s	np	d	s	505	
+nafsan	maal	0012	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0012	kano	unable	lv	lv				
+nafsan	maal	0012	nrir	fly	v:pred	v		pred		
+nafsan	maal	0012	pak	to	adp	adp				
+nafsan	maal	0012	elag	high	np:g	np		g	504	
+nafsan	maal	0012	#	#	#ac.neg	#ac.neg				
+nafsan	maal	0012	nlaken	because	other	other				
+nafsan	maal	0012	ZERO	ZERO	0.d:a	0	d	a	505	
+nafsan	maal	0012	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0012	ta	not	lv	lv				
+nafsan	maal	0012	min	drink	v:pred	v		pred		
+nafsan	maal	0012	nalkis	herbs	np:p	np		p	503	
+nafsan	maal	0012	#	#	##	##				
+nafsan	maal	0012	ga	3S	pro.d:s	pro	d	s	505	
+nafsan	maal	0012	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0012	ur	go_along	v:pred	v		pred		
+nafsan	maal	0012	etan	down	np:l	np		l	514	
+nafsan	maal	0012	#	#	##	##				
+nafsan	maal	0012	me	but	other	other				
+nafsan	maal	0013	mlapuas	owl	np.d:a	np	d	a	509	
+nafsan	maal	0013	i=	3S.RS=	=lv	=lv				
+nafsan	maal	0013	tol	pass	v:pred	v		pred		
+nafsan	maal	0013	maal	hawk	np.d:p	np	d	p	505	
+nafsan	maal	0013	pak	to	adp	adp				
+nafsan	maal	0013	elag	high	np:g	np		g	504	
+nafsan	maal	0013	#	#	#nc	#nc				
+nafsan	maal	0013	ZERO	ZERO	nc	nc				
+nafsan	maal	0013	i=	3S.RS=	nc	nc				
+nafsan	maal	0013	pi	be	nc	nc				
+nafsan	maal	0013	stori	story	nc	nc				
+nafsan	maal	0013	m̃it	short	nc	nc				
+nafsan	maal	0013	m̃as	only	nc	nc				

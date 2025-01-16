@@ -1,0 +1,429 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	tafra	0001	#	#	##	##				
+nafsan	tafra	0001	#	#	#ac	#ac				
+nafsan	tafra	0001	selwan	while	other	other				
+nafsan	tafra	0001	ZERO	ZERO	0.1:a	0	1	a	901	new
+nafsan	tafra	0001	tu=	1P.inRS=	=lv	=lv				
+nafsan	tafra	0001	paakor	arrive	v:pred	v		pred		
+nafsan	tafra	0001	nametp̃ag	end	np:p	np		p	902	new
+nafsan	tafra	0001	ntau	year	rn_np	rn_np			903	new
+nafsan	tafra	0001	%	%	%	%				
+nafsan	tafra	0001	ZERO	ZERO	0.1:a	0	1	a	904	bridging
+nafsan	tafra	0001	ra=	1D.exRS=	=lv	=lv				
+nafsan	tafra	0001	to	HABIT	lv	lv				
+nafsan	tafra	0001	tu	give	v:pred	v		pred		
+nafsan	tafra	0001	teesa	child	np.h:p	np	h	p	905	new
+nafsan	tafra	0001	tete	some	ln	ln				
+nafsan	tafra	0001	nanromien	present	np:p2	np		p2	906	new
+nafsan	tafra	0001	#	#	##	##				
+nafsan	tafra	0001	ZERO	ZERO	0.h:s	0	h	s	905	
+nafsan	tafra	0001	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0001	to	stay	v:pred	v		pred		
+nafsan	tafra	0001	ni	with	adp	adp				
+nafsan	tafra	0001	apu	grandfather	ln_np.h	ln_np	h		907	new
+nafsan	tafra	0001	go	and	ln	ln				
+nafsan	tafra	0001	atien	grandmother	np.h:obl	np	h	obl	908	new
+nafsan	tafra	0001	negar	3P.POS	rn_pro.h:poss	rn_pro	h	poss	905	
+nafsan	tafra	0001	-wes	-3SG.OBL	-rn	-rn				
+nafsan	tafra	0001	#	#	##	##				
+nafsan	tafra	0001	nanromien	present	np:dt_p	np		dt_p	906	
+nafsan	tafra	0001	sees	small	rn	rn				
+nafsan	tafra	0001	ZERO	ZERO	0.h:a	0	h	a	905	
+nafsan	tafra	0001	pan	go	lv	lv				
+nafsan	tafra	0001	tu-e	give-TS	v:pred	v		pred		
+nafsan	tafra	0001	-r	-3P.O	-pro.h:p	-pro	h	p	909	bridging
+nafsan	tafra	0001	ki	PREP	adp	adp				
+nafsan	tafra	0001	-n	-DST	-pro:obl	-pro		obl		
+nafsan	tafra	0001	Ertap	Eratap	np:other	np		other	910	new
+nafsan	tafra	0002	#	#	##	##				
+nafsan	tafra	0002	ntau	year	np:other	np		other	903	
+nafsan	tafra	0002	1956	1956	rn_np	rn_np			912	new
+nafsan	tafra	0002	komam	1P.ex	pro.1:a	pro	1	a	904	
+nafsan	tafra	0002	ra=	1D.RS=	=lv	=lv				
+nafsan	tafra	0002	mer	again	lv	lv				
+nafsan	tafra	0002	tu-e	give-TR	v:pred	v		pred		
+nafsan	tafra	0002	-r	-3P.O	-pro.h:p	-pro	h	p	905	
+nafsan	tafra	0002	tete	some	ln	ln				
+nafsan	tafra	0002	nanromien	present	np:p2	np		p2	906	
+nafsan	tafra	0002	sees	small	rn	rn				
+nafsan	tafra	0002	#	#	##	##				
+nafsan	tafra	0002	ZERO	ZERO	0.h:a	0	h	a	905	
+nafsan	tafra	0002	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0002	mer	again	lv	lv				
+nafsan	tafra	0002	negar	3P.BEN	lv_pro.h:g	lv_pro	h	g	909	
+nafsan	tafra	0002	wes-i	take-TS	v:pred	v		pred		
+nafsan	tafra	0002	ZERO	ZERO	0:p	0		p	906	
+nafsan	tafra	0002	#	#	##	##				
+nafsan	tafra	0002	ZERO	ZERO	0.h:a	0	h	a	905	
+nafsan	tafra	0002	pan	go	lv	lv				
+nafsan	tafra	0002	tu-e	give-TS	v:pred	v		pred		
+nafsan	tafra	0002	-r	-3P.O	-pro.h:p	-pro	h	p	909	
+nafsan	tafra	0002	ki	PREP	adp	adp				
+nafsan	tafra	0002	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	tafra	0003	#	#	##	##				
+nafsan	tafra	0003	apu	grandfather	ln_np.h	ln_np	h		913	new
+nafsan	tafra	0003	ni	of	ln	ln				
+nafsan	tafra	0003	Elaknar	p.name	ln_np:poss	ln_np		poss	914	new
+nafsan	tafra	0003	go	and	ln	ln				
+nafsan	tafra	0003	apu	grandfather	np.h:a	np	h	a	915	new
+nafsan	tafra	0003	nig	of	rn	rn				
+nafsan	tafra	0003	Elaau	p.name	rn_np:poss	rn_np		poss	916	new
+nafsan	tafra	0003	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0003	pan	go	lv	lv				
+nafsan	tafra	0003	tu-e	give-TS	v:pred	v		pred		
+nafsan	tafra	0003	-r	-3P.O	-pro.h:p	-pro	h	p	905	
+nafsan	tafra	0003	ki	PREP	adp	adp				
+nafsan	tafra	0003	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	tafra	0003	#	#	##	##				
+nafsan	tafra	0003	kai=	ES=	=lv	=lv				
+nafsan	tafra	0003	ler	return	lv	lv				
+nafsan	tafra	0003	mai	come	v:pred	v		pred		
+nafsan	tafra	0003	#	#	#nc	#nc				
+nafsan	tafra	0003	ZERO	ZERO	nc	nc				
+nafsan	tafra	0003	u=	2P.RS=	nc	nc				
+nafsan	tafra	0003	tu	stay	nc	nc				
+nafsan	tafra	0004	#	#	##	##				
+nafsan	tafra	0004	me	and	other	other				
+nafsan	tafra	0004	ZERO	ZERO	0.2:a	0	2	a		
+nafsan	tafra	0004	u=	2P.RS=	=lv	=lv				
+nafsan	tafra	0004	tol	pass	v:pred	v		pred		
+nafsan	tafra	0004	Janweri	p.name	np:p	np		p	917	new
+nafsan	tafra	0004	#	#	##	##				
+nafsan	tafra	0004	go	and	other	other				
+nafsan	tafra	0004	komam	1P.ex	pro.1:a	pro	1	a	904	
+nafsan	tafra	0004	Limaas	p.name	rn_np.h	rn_np	h		918	new
+nafsan	tafra	0004	ra=	1D.exRS=	=lv	=lv				
+nafsan	tafra	0004	mer	again	lv	lv				
+nafsan	tafra	0004	na	want	v:pred	v		pred		
+nafsan	tafra	0004	#	#	#cc:p	#cc		p		
+nafsan	tafra	0004	ZERO	ZERO	0.1:a	0	1	a	919	bridging
+nafsan	tafra	0004	rak=	1D.IRS=	=lv	=lv				
+nafsan	tafra	0004	fan	go:IR	lv	lv				
+nafsan	tafra	0004	saof-i	visit-TS	v:pred	v		pred		
+nafsan	tafra	0004	-r	-3P.O	-pro.h:p	-pro	h	p	920	bridging
+nafsan	tafra	0005	#	#	##	##				
+nafsan	tafra	0005	Pastor	pastor	np.h:a	np	h	a	921	new
+nafsan	tafra	0005	Kalagis	p.name	rn_np	rn_np			922	new
+nafsan	tafra	0005	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0005	mur-i	want-TS	v:pred	v		pred		
+nafsan	tafra	0005	-n	-3S.O	-pro:p	-pro		p		
+nafsan	tafra	0005	#	#	#cc	#cc				
+nafsan	tafra	0005	na	COMP	other	other				
+nafsan	tafra	0005	komam	1P.ex	pro.1:a	pro	1	a	904	
+nafsan	tafra	0005	ko=	1P.exIRS=	=lv	=lv				
+nafsan	tafra	0005	mau	all	lv	lv				
+nafsan	tafra	0005	pak	go_to	v:pred	v		pred		
+nafsan	tafra	0005	Ertap	Eratap	np:p	np		p	910	
+nafsan	tafra	0006	#	#	##	##				
+nafsan	tafra	0006	ZERO	ZERO	0.1:a	0	1	a	904	
+nafsan	tafra	0006	u=	1P.exRS=	=lv	=lv				
+nafsan	tafra	0006	pan	go	lv	lv				
+nafsan	tafra	0006	paakor	arrive	v:pred	v		pred		
+nafsan	tafra	0006	Elaknar	p.name	np:p	np		p	914	
+nafsan	tafra	0006	#	#	##	##				
+nafsan	tafra	0006	go	and	other	other				
+nafsan	tafra	0006	tata	father	np.h:s	np	h	s	923	new
+nafsan	tafra	0006	Sailas	p.name	rn_np	rn_np			924	new
+nafsan	tafra	0006	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0006	to	stay	v:pred	v		pred		
+nafsan	tafra	0006	e-sum̃	LOC-house	np:l	np		l	925	new
+nafsan	tafra	0006	nega	3S.POS	rn_pro.h:poss	rn_pro	h	poss	923	
+nafsan	tafra	0006	to	at	rn	rn				
+nafsan	tafra	0006	#	#	#ac	#ac				
+nafsan	tafra	0006	selwan	while	other	other				
+nafsan	tafra	0006	ZERO	ZERO	0.h:a	0	h	a	923	
+nafsan	tafra	0006	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0006	lek	look	v:pred	v		pred		
+nafsan	tafra	0006	mam	1pl	pro.1:p	pro	1	p		
+nafsan	tafra	0007	#	#	##	##				
+nafsan	tafra	0007	go	and	other	other				
+nafsan	tafra	0007	ZERO	ZERO	0.h:s_ds	0	h	s_ds	923	
+nafsan	tafra	0007	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0007	na	say	v:pred	v		pred		
+nafsan	tafra	0007	#	#	#ds	#ds				
+nafsan	tafra	0007	Webe	p.name	np.h:other	np	h	other	926	new
+nafsan	tafra	0007	naik	fish	np:s	np		s	927	new
+nafsan	tafra	0007	seserik	small	rn	rn				
+nafsan	tafra	0007	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0007	mai	come	v:pred	v		pred		
+nafsan	tafra	0007	#	#	##	##				
+nafsan	tafra	0007	kai=	ES=	=lv	=lv				
+nafsan	tafra	0007	fam-lu	eat-fully	v:pred	v		pred		
+nafsan	tafra	0007	nafnag	food	np:p	np		p	928	new
+nafsan	tafra	0007	wi	good	rn	rn				
+nafsan	tafra	0007	pan	go	other	other				
+nafsan	tafra	0008	#	#	##	##				
+nafsan	tafra	0008	me	and	other	other				
+nafsan	tafra	0008	tafra	whale	np:s	np		s	929	new
+nafsan	tafra	0008	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0008	po	PSP	lv	lv				
+nafsan	tafra	0008	inrok	behind	lv	lv				
+nafsan	tafra	0008	mai	come	v:pred	v		pred		
+nafsan	tafra	0009	#	#	##	##				
+nafsan	tafra	0009	tafra	whale	np:a	np		a	929	
+nafsan	tafra	0009	ruk=	3P.IRS=	=lv	=lv				
+nafsan	tafra	0009	fam	eat:IR	v:pred	v		pred		
+nafsan	tafra	0009	faat	stone	np:p	np		p	930	new
+nafsan	tafra	0009	nen	that	rn	rn				
+nafsan	tafra	0009	#	#	##	##				
+nafsan	tafra	0009	ZERO	ZERO	0:s	0		s	929	
+nafsan	tafra	0009	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0009	to	stay	v:pred	v		pred		
+nafsan	tafra	0009	#	#	##	##				
+nafsan	tafra	0009	me	and	other	other				
+nafsan	tafra	0009	ZERO	ZERO	0:s	0		s	929	
+nafsan	tafra	0009	ruk=	3P.IRS=	=lv	=lv				
+nafsan	tafra	0009	mer	again	lv	lv				
+nafsan	tafra	0009	ler	return	v:pred	v		pred		
+nafsan	tafra	0009	pan	go	other	other				
+nafsan	tafra	0010	#	#	##	##				
+nafsan	tafra	0010	selwan	while	other	other				
+nafsan	tafra	0010	Paster	pastor	np.h:a	np	h	a	921	
+nafsan	tafra	0010	Kalagis	p.name	rn	rn			922	
+nafsan	tafra	0010	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0010	nrog	hear	v:pred	v		pred		
+nafsan	tafra	0010	nafsan	story	np:p	np		p	931	new
+nafsan	tafra	0010	ni	of	rn	rn				
+nafsan	tafra	0010	Sailas	Sailas	rn_np.h:poss	rn_np	h	poss	923	
+nafsan	tafra	0010	#	#	##	##				
+nafsan	tafra	0010	ZERO	ZERO	0.h:s	0	h	s	921	
+nafsan	tafra	0010	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0010	nrogteesa	feel.bad	v:pred	v		pred		
+nafsan	tafra	0010	-wes	-3PL.OBL	-pro.h:obl	-pro	h	obl		
+nafsan	tafra	0010	#	#	##neg	##neg				
+nafsan	tafra	0010	me	but	other	other				
+nafsan	tafra	0010	kineu	1S.	pro.1:s	pro	1	s	932	bridging
+nafsan	tafra	0010	a=	1S.RS=	=lv	=lv				
+nafsan	tafra	0010	tap	NEG	other	other				
+nafsan	tafra	0010	nrogteesa	feel.bad	v:pred	v		pred		
+nafsan	tafra	0010	-wes	-3PL.OBL	-pro.h:obl	-pro	h	obl	923	
+nafsan	tafra	0010	mau	NEG2	other	other				
+nafsan	tafra	0011	#	#	##	##				
+nafsan	tafra	0011	ZERO	ZERO	0.1:s	0	1	s	932	
+nafsan	tafra	0011	a=	1S.RS=	=lv	=lv				
+nafsan	tafra	0011	tae	know	v:pred	v		pred		
+nafsan	tafra	0011	#	#	#cc	#cc				
+nafsan	tafra	0011	nag	say	other	other				
+nafsan	tafra	0011	ZERO	ZERO	pro.h:a	pro	h	a	923	
+nafsan	tafra	0011	ke=	3S.IRS=	=lv	=lv				
+nafsan	tafra	0011	fo	PSP:IR	lv	lv				
+nafsan	tafra	0011	nrik	tell	v:pred	v		pred		
+nafsan	tafra	0011	-mam	-1PL	-pro.1:p	-pro	1	p	904	
+nafsan	tafra	0011	ki	PREP	adp	adp				
+nafsan	tafra	0011	nap̃et	meaning	np:obl	np		obl	933	bridging
+nafsan	tafra	0011	nafsan	story	rn	rn			931	
+nafsan	tafra	0011	#	#	#rc	#rc				
+nafsan	tafra	0011	ZERO	ZERO	0.1:g	0	1	g		
+nafsan	tafra	0011	nag	REL	other	other				
+nafsan	tafra	0011	ZERO	ZERO	0.h:a	0	h	a	923	
+nafsan	tafra	0011	i=	3sRS=	=lv	=lv				
+nafsan	tafra	0011	til-i	say-TS	v:pred	v		pred		
+nafsan	tafra	0011	ZERO	3SG.O	0:p	0		p	933	
+nafsan	tafra	0011	#	#	##	##				
+nafsan	tafra	0011	go	and	other	other				
+nafsan	tafra	0011	ZERO	ZERO	0.h:a	0	h	a	923	
+nafsan	tafra	0011	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0011	po	PSP	lv	lv				
+nafsan	tafra	0011	nrik	tell	v:pred	v		pred		
+nafsan	tafra	0011	-mam	-1PL	-pro.1:p	-pro	1	p	904	
+nafsan	tafra	0011	ki	PREP	adp	adp				
+nafsan	tafra	0011	-n	-3SG	-pro:obl	-pro		obl		
+nafsan	tafra	0012	#	#	##	##				
+nafsan	tafra	0012	ZERO	ZERO	0.h:s	0	h	s	923	
+nafsan	tafra	0012	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0012	til-i	say-TS	v:pred	v		pred		
+nafsan	tafra	0012	#	#	#cc	#cc				
+nafsan	tafra	0012	nag	COMP	other	other				
+nafsan	tafra	0012	naliati	day	np:other	np		other		
+nafsan	tafra	0012	i=	3S.RS=	=rn	=rn				
+nafsan	tafra	0012	skei	one	rn_np	rn_np				
+nafsan	tafra	0012	naik	fish	np:s	np		s	927	
+nafsan	tafra	0012	seserik	small	rn	rn				
+nafsan	tafra	0012	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0012	to	HABIT	lv_aux	lv_aux				
+nafsan	tafra	0012	fam	eat:IR	v:pred	v		pred		
+nafsan	tafra	0013	#	#	##	##				
+nafsan	tafra	0013	me	but	other	other				
+nafsan	tafra	0013	tafra	whale	np:a	np		a	936	bridging
+nafsan	tafra	0013	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0013	to	PROG	lv_aux	lv_aux				
+nafsan	tafra	0013	wat	hit	v:pred	v		pred		
+nafsan	tafra	0013	ur	along	rv	rv				
+nafsan	tafra	0013	elau	sea	np:p	np		p	934	
+nafsan	tafra	0014	#	#	##	##				
+nafsan	tafra	0014	me	but	other	other				
+nafsan	tafra	0014	naik	fish	np.d:s	np	d	s	927	
+nafsan	tafra	0014	seserik	small	rn	rn				
+nafsan	tafra	0014	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0014	nag	say	v:pred	v		pred		
+nafsan	tafra	0014	#	#	#cc	#cc				
+nafsan	tafra	0014	malfane	now	other	other				
+nafsan	tafra	0014	elau	sea	np:s	np		s	934	
+nafsan	tafra	0014	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0014	mu	high_tide	v:pred	v		pred		
+nafsan	tafra	0015	#	#	##	##				
+nafsan	tafra	0015	tete	some	np.d:s_ds	np	d	s_ds	935	new
+nafsan	tafra	0015	ruk=	3P.IRS=	=lv	=lv				
+nafsan	tafra	0015	fan	go:IR	lv	lv				
+nafsan	tafra	0015	til-i	say-TS	v:pred	v		pred		
+nafsan	tafra	0015	#	#	#ds	#ds				
+nafsan	tafra	0015	nag	SUB	other	other				
+nafsan	tafra	0015	ZERO	ZERO	0.d:s	0	d	s	936	
+nafsan	tafra	0015	ke=	3S.IRS=	=lv	=lv				
+nafsan	tafra	0015	mai	come	v:pred	v		pred		
+nafsan	tafra	0015	#	#	##ds	##ds				
+nafsan	tafra	0015	ZERO	ZERO	0.1:s	0	1	s	901	
+nafsan	tafra	0015	tuk=	1P.incRS=	=lv	=lv				
+nafsan	tafra	0015	mau	all	lv	lv				
+nafsan	tafra	0015	en	keep_on	lv	lv				
+nafsan	tafra	0015	nasusu	rising_tide	lv	lv				
+nafsan	tafra	0015	fam	eat:IR	v:pred	v		pred		
+nafsan	tafra	0016	#	#	##	##				
+nafsan	tafra	0016	#	#	#ac	#ac				
+nafsan	tafra	0016	selwan	while	other	other				
+nafsan	tafra	0016	elau	sea	np:s	np		s	934	
+nafsan	tafra	0016	ke=	3S.IRS=	=lv	=lv				
+nafsan	tafra	0016	mat	low_tide	v:pred	v		pred		
+nafsan	tafra	0016	%	%	%	%				
+nafsan	tafra	0016	go	and	other	other				
+nafsan	tafra	0016	ZERO	ZERO	0.d:s	0	d	s	936	
+nafsan	tafra	0016	ke=	3S.IRS=	=lv	=lv				
+nafsan	tafra	0016	fo	PSP:IR	lv_aux	lv_aux				
+nafsan	tafra	0016	mer	again	lv	lv				
+nafsan	tafra	0016	ler	return	v:pred	v		pred		
+nafsan	tafra	0017	#	#	##	##				
+nafsan	tafra	0017	go	and	other	other				
+nafsan	tafra	0017	tafra	whale	np.d:s_ds	np	d	s_ds	936	
+nafsan	tafra	0017	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0017	nag	say	v:pred	v		pred		
+nafsan	tafra	0017	#	#	#ds	#ds				
+nafsan	tafra	0017	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0017	wi	good	v:pred	v		pred		
+nafsan	tafra	0017	#	#	##ds	##ds				
+nafsan	tafra	0017	akam	2PL	pro.2:s	pro	2	s	927	
+nafsan	tafra	0017	ko=	2PL.IRS=	=lv	=lv				
+nafsan	tafra	0017	en	keep_on	lv	lv				
+nafsan	tafra	0017	nasusu	rising_tide	lv	lv				
+nafsan	tafra	0017	fam	eat	v:pred	v		pred		
+nafsan	tafra	0018	#	#	##ds	##ds				
+nafsan	tafra	0018	me	but	other	other				
+nafsan	tafra	0018	kineu	1S.	pro.1:s	pro	1	s	936	
+nafsan	tafra	0018	ka=	1S.IRS=	=lv	=lv				
+nafsan	tafra	0018	fo	PSP:IR	lv_aux	lv_aux				
+nafsan	tafra	0018	mailum	slow	v:pred	v		pred		
+nafsan	tafra	0018	net	meet	rv	rv				
+nafsan	tafra	0018	#	#	##	##				
+nafsan	tafra	0018	naik	fish	np.d:s	np	d	s	927	
+nafsan	tafra	0018	seserik	small	rn	rn				
+nafsan	tafra	0018	ru=	3P.RS=	=lv	=lv				
+nafsan	tafra	0018	en	keep_on	lv	lv				
+nafsan	tafra	0018	fam	eat:IR	v:pred	v		pred		
+nafsan	tafra	0018	panpan	until	other	other				
+nafsan	tafra	0018	#	#	##	##				
+nafsan	tafra	0018	go	and	other	other				
+nafsan	tafra	0018	elau	sea	np:s	np		s	934	
+nafsan	tafra	0018	ki=	3S.PS=	=lv	=lv				
+nafsan	tafra	0018	mat	low_tide	v:pred	v		pred		
+nafsan	tafra	0018	#	#	##	##				
+nafsan	tafra	0018	ZERO	ZERO	0:s	0		s	927	
+nafsan	tafra	0018	rukoi=	3P.PS=	=lv	=lv				
+nafsan	tafra	0018	ler	return	v:pred	v		pred		
+nafsan	tafra	0019	#	#	##	##				
+nafsan	tafra	0019	tafra	whale	np.d:s	np	d	s	936	
+nafsan	tafra	0019	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0019	pato	be_at	v:pred	v		pred		
+nafsan	tafra	0019	elau	sea	np:l	np		l	934	
+nafsan	tafra	0019	to	at	rn	rn				
+nafsan	tafra	0019	#	#	##	##				
+nafsan	tafra	0019	ZERO	ZERO	0.d:a	0	d	a	936	
+nafsan	tafra	0019	pul-ki	twirl-TR	v:pred	v		pred		
+nafsan	tafra	0019	nam̃el-e	tail_of_fish-V	np:p	np		p	937	
+nafsan	tafra	0019	-n	-3S.DP	-rn_pro:poss	-rn_pro		poss	936	
+nafsan	tafra	0020	#	#	##	##				
+nafsan	tafra	0020	me	and	other	other				
+nafsan	tafra	0020	ZERO	ZERO	0.d:s	0	d	s	936	
+nafsan	tafra	0020	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0020	sok	jump	v:pred	v		pred		
+nafsan	tafra	0020	#	#	##	##				
+nafsan	tafra	0020	ZERO	ZERO	0.d:a	0	d	a	936	
+nafsan	tafra	0020	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0020	ptur-ki	squirt-TR	v:pred	v		pred		
+nafsan	tafra	0020	ntas	saltwater	np:p	np		p	938	bridging
+nafsan	tafra	0020	panpan	until	other	other				
+nafsan	tafra	0020	#	#	#	#				
+nafsan	tafra	0020	ZERO	ZERO	f0.d:s	f0	d	s	936	
+nafsan	tafra	0020	kai=	ES=	=lv	=lv				
+nafsan	tafra	0020	ptol	hungry	vother:pred	vother		pred		
+nafsan	tafra	0020	#	#	##	##				
+nafsan	tafra	0020	go	and	other	other				
+nafsan	tafra	0020	ZERO	ZERO	0.d:s	0	d	s	936	
+nafsan	tafra	0020	ki=	3S.PS=	=lv	=lv				
+nafsan	tafra	0020	mro	think	v:pred	v		pred		
+nafsan	tafra	0020	#	#	#cc	#cc				
+nafsan	tafra	0020	kin	COMP	other	other				
+nafsan	tafra	0020	nag	COMP	other	other				
+nafsan	tafra	0020	ZERO	ZERO	0.d:s	0	d	s	936	
+nafsan	tafra	0020	ke=	3S.IRS=	=lv	=lv				
+nafsan	tafra	0020	fo	PSP:IR	lv_aux	lv_aux				
+nafsan	tafra	0020	mer	again	lv	lv				
+nafsan	tafra	0020	mai	come	lv	lv				
+nafsan	tafra	0020	fam	eat:IR	v:pred	v		pred		
+nafsan	tafra	0021	#	#	##	##				
+nafsan	tafra	0021	#	#	#ac	#ac				
+nafsan	tafra	0021	selwan	while	other	other				
+nafsan	tafra	0021	ZERO	ZERO	0.d:s	0	d	s	936	
+nafsan	tafra	0021	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0021	mai	come	v:pred	v		pred		
+nafsan	tafra	0021	#	#	#	#				
+nafsan	tafra	0021	me	and	other	other				
+nafsan	tafra	0021	elau	sea	np:s	np		s	934	
+nafsan	tafra	0021	ki=	3S.PS=	=lv	=lv				
+nafsan	tafra	0021	pe	PF	lv	lv				
+nafsan	tafra	0021	mat	low_tide	v:pred	v		pred		
+nafsan	tafra	0021	%	%	%	%				
+nafsan	tafra	0021	ZERO	ZERO	0.d:s	0	d	s	936	
+nafsan	tafra	0021	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0021	kon	stuck	v:pred	v		pred		
+nafsan	tafra	0021	#	#	##	##				
+nafsan	tafra	0021	ZERO	ZERO	f0.d:s	f0	d	s	936	
+nafsan	tafra	0021	kai=	ES=	=lv	=lv				
+nafsan	tafra	0021	ler	return	v:pred	v		pred		
+nafsan	tafra	0022	#	#	##	##				
+nafsan	tafra	0022	#	#	#ac	#ac				
+nafsan	tafra	0022	ore	yes	other	other				
+nafsan	tafra	0022	selwan	while	other	other				
+nafsan	tafra	0022	ZERO	ZERO	0.2:a	0	2	a	940	bridging
+nafsan	tafra	0022	ku=	2S.RS=	=lv	=lv				
+nafsan	tafra	0022	lefek-ki	around-TR	v:pred	v		pred		
+nafsan	tafra	0022	Efat	Efate	np:p	np		p	939	new
+nafsan	tafra	0022	negakit	1P.inPOS	rn_pro.1:poss	rn_pro	1	poss	901	
+nafsan	tafra	0022	%	%	%	%				
+nafsan	tafra	0022	ZERO	ZERO	0.2:a	0	2	a	940	
+nafsan	tafra	0022	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	tafra	0022	fo	PSP:IR	lv	lv				
+nafsan	tafra	0022	lek	look	v:pred	v		pred		
+nafsan	tafra	0022	nasi	shit	np:p	np		p	941	bridging
+nafsan	tafra	0022	tafra	whale	rn_np	rn_np			929	
+nafsan	tafra	0022	#	#	##	##				
+nafsan	tafra	0022	ZERO	ZERO	0:a	0		a	941	
+nafsan	tafra	0022	i=	3S.RS=	=lv	=lv				
+nafsan	tafra	0022	userek-ki	go_around-TR	v:pred	v		pred		
+nafsan	tafra	0022	nagis	point	np:p	np		p	942	bridging
+nafsan	tafra	0022	negakit	1P.inPOS	rn_pro.1:poss	rn_pro	1	poss	901	
+nafsan	tafra	0022	nig	of	rn	rn				
+nafsan	tafra	0022	Efat	p.name	rn_np:poss	rn_np		poss	939	
+nafsan	tafra	0023	#	#	#nc	#nc				
+nafsan	tafra	0023	go	and	nc	nc				
+nafsan	tafra	0023	akit	1P.inc.S	nc_pro.1	nc_pro	1		901	
+nafsan	tafra	0023	tu=	1P.inRS=	nc	nc				
+nafsan	tafra	0023	sos-o	call-V	nc	nc				
+nafsan	tafra	0023	ZERO	ZERO	nc_0	nc_0			941	
+nafsan	tafra	0023	ki	PREP	nc	nc				
+nafsan	tafra	0023	nasin	shit	nc_np	nc_np			941	
+nafsan	tafra	0023	tafra	whale	nc_np	nc_np			929	
+nafsan	tafra	0023	natrauswen	story	nc_np	nc_np			943	new
+nafsan	tafra	0023	ni	of	nc	nc				
+nafsan	tafra	0023	tiawi	ancestors	nc_np.h	nc_np	h		944	new
+nafsan	tafra	0023	negakit	1P.inPOS	nc_pro.1	nc_pro	1		901	
+nafsan	tafra	0023	ni	of	nc	nc				
+nafsan	tafra	0023	teetwei	before	nc	nc				

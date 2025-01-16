@@ -1,0 +1,603 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	litog	0001	#	#	#nc	#nc				
+nafsan	litog	0001	ore	yes	nc	nc				
+nafsan	litog	0001	ZERO	ZERO	nc	nc				
+nafsan	litog	0001	i=	3S.RS=	nc	nc				
+nafsan	litog	0001	piatlak	have	nc	nc				
+nafsan	litog	0001	natopu	spirit	nc	nc				
+nafsan	litog	0001	nigmam	1P.POS	nc	nc				
+nafsan	litog	0001	ni	of	nc	nc				
+nafsan	litog	0001	e-sa	LOC-here	nc	nc				
+nafsan	litog	0001	#	#	#nc	#nc				
+nafsan	litog	0001	naat	someone	nc	nc				
+nafsan	litog	0001	ki=	3S.PS=	nc	nc				
+nafsan	litog	0001	pe	PF	nc	nc				
+nafsan	litog	0001	gaag	2S.BEN	nc	nc				
+nafsan	litog	0001	traus-i	tell-TR	nc	nc				
+nafsan	litog	0002	#	#	#nc	#nc				
+nafsan	litog	0002	ZERO	ZERO	nc	nc				
+nafsan	litog	0002	sees	small	nc	nc				
+nafsan	litog	0002	m̃as	only	nc	nc				
+nafsan	litog	0003	#	#	##	##				
+nafsan	litog	0003	nigmam	HES	nc	nc				
+nafsan	litog	0003	natopu	spirit	np.d:s	np	d	s	401	new
+nafsan	litog	0003	nigmam	1P.POS	rn_pro.1:poss	rn_pro	1	poss	402	new
+nafsan	litog	0003	ni	of	rn	rn				
+nafsan	litog	0003	esa	here	rn_np:poss	rn_np		poss	403	new
+nafsan	litog	0003	ga	3S.	pro.d:s	pro	d	s	401	
+nafsan	litog	0003	#	#	#rc_rn	#rc_rn				
+nafsan	litog	0003	kin	REL	other	other				
+nafsan	litog	0003	ZERO	ZERO	f0.d:s	f0	d	s	401	
+nafsan	litog	0003	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0003	to	stay	v:pred	v		pred		
+nafsan	litog	0003	%	%	%	%				
+nafsan	litog	0003	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0003	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0003	to	stay	v:pred	v		pred		
+nafsan	litog	0003	#	#	##	##				
+nafsan	litog	0003	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0003	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0003	to	HAB	lv	lv				
+nafsan	litog	0003	pan	go	v:pred	v		pred		
+nafsan	litog	0003	#	#	##	##				
+nafsan	litog	0003	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0003	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0003	to	stay	v:pred	v		pred		
+nafsan	litog	0003	teetwei	before	np:other	np		other		
+nafsan	litog	0003	paakor	arrive	rn	rn				
+nafsan	litog	0003	mees	today	rn_np	rn_np				
+nafsan	litog	0004	#	#	##	##				
+nafsan	litog	0004	me	but	other	other				
+nafsan	litog	0004	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0004	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0004	to	stay	v:pred	v		pred		
+nafsan	litog	0004	mal	time	np:other	np		other	404	new
+nafsan	litog	0004	ni	of	rn	rn				
+nafsan	litog	0004	tiawi	ancestors	rn_np.h:poss	rn_np	h	poss	405	new
+nafsan	litog	0004	ni	of	rn	rn				
+nafsan	litog	0004	teetwei	before	rn_np:poss	rn_np		poss		
+nafsan	litog	0004	#	#	#ac	#ac				
+nafsan	litog	0004	malnen	as	other	other				
+nafsan	litog	0004	natopu	spirit	np.d:s	np	d	s	401	
+nafsan	litog	0004	nigmam	1P.POS	rn_pro.1:poss	rn_pro	1	poss	402	
+nafsan	litog	0004	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0004	to	stay	v:pred	v		pred		
+nafsan	litog	0005	#	#	##	##				
+nafsan	litog	0005	go	and	other	other				
+nafsan	litog	0005	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0005	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0005	ptal	ask	v:pred	v		pred		
+nafsan	litog	0005	#	#	##	##				
+nafsan	litog	0005	ZERO	ZERO	0.d:a	0	d	a	401	
+nafsan	litog	0005	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0005	ptal	ask	v:pred	v		pred		
+nafsan	litog	0005	nmatu	woman	np.h:p	np	h	p	406	new
+nafsan	litog	0005	#	#	##	##				
+nafsan	litog	0005	ZERO	ZERO	0.d:a	0	d	a	401	
+nafsan	litog	0005	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0005	ptal	ask	v:pred	v		pred		
+nafsan	litog	0005	teesa	child	np.h:p	np	h	p	407	new
+nafsan	litog	0005	nmatu	female	rn_np	rn_np			408	new
+nafsan	litog	0005	#	#	#ac	#ac				
+nafsan	litog	0005	na	PURP	other	other				
+nafsan	litog	0005	ZERO	ZERO	0.h:a	0	h	a	405	
+nafsan	litog	0005	ruk=	3P.IRS=	=lv	=lv				
+nafsan	litog	0005	tu-a	give-TS	v:pred	v		pred		
+nafsan	litog	0005	ZERO	ZERO	0.h:p	0	h	p	401	
+nafsan	litog	0005	teesa	child	np.h:p2	np	h	p2	407	
+nafsan	litog	0005	nmatu	female	rn_np	rn_np			408	
+nafsan	litog	0005	ke=	3S.IRS=	=rn	=rn				
+nafsan	litog	0005	skei	one	rn_np	rn_np				
+nafsan	litog	0006	#	#	##	##				
+nafsan	litog	0006	go	and	other	other				
+nafsan	litog	0006	ZERO	ZERO	0.h:a	0	h	a	405	
+nafsan	litog	0006	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0006	po	PSP	lv	lv				
+nafsan	litog	0006	tu-a	give-TS	v:pred	v		pred		
+nafsan	litog	0006	teesa	child	np.h:p	np	h	p	407	
+nafsan	litog	0006	nmatu	female	rn_np	rn_np			408	
+nafsan	litog	0006	i=	3S.RS=	=rn	=rn				
+nafsan	litog	0006	skei	one	rn_np	rn_np				
+nafsan	litog	0006	#	#	##	##				
+nafsan	litog	0006	malnen	as	other	other				
+nafsan	litog	0006	ZERO	ZERO	0.d:a	0	d	a	401	
+nafsan	litog	0006	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0006	mur	want	v:pred	v		pred		
+nafsan	litog	0006	na	DET	ln	ln				
+nafsan	litog	0006	teesa	child	np.h:p	np	h	p	407	
+nafsan	litog	0006	nmatu	female	rn_np	rn_np			408	
+nafsan	litog	0006	ne	this	rn	rn				
+nafsan	litog	0007	#	#	##	##				
+nafsan	litog	0007	teesa	child	np.h:dt_poss	np	h	dt_poss	407	
+nafsan	litog	0007	nmatu	female	rn_np	rn_np			408	
+nafsan	litog	0007	ne	this	rn	rn				
+nafsan	litog	0007	nagi-e	name-V	np:s	np		s	409	new
+nafsan	litog	0007	-n	-3S.DP	-rn_pro:poss	-rn_pro		poss	407	
+nafsan	litog	0007	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0007	pi	be	cop	cop				
+nafsan	litog	0007	Litog	p.name	np:pred	np		pred	409	
+nafsan	litog	0008	#	#	##	##				
+nafsan	litog	0008	me	but	other	other				
+nafsan	litog	0008	ZERO	ZERO	0.d:a	0	d	a	401	
+nafsan	litog	0008	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0008	mur	want	v:pred	v		pred		
+nafsan	litog	0008	teesa	child	np.h:p	np	h	p	407	
+nafsan	litog	0008	nmatu	female	rn_np	rn_np			408	
+nafsan	litog	0008	ne	this	rn	rn				
+nafsan	litog	0008	#	#	##	##				
+nafsan	litog	0008	go	and	other	other				
+nafsan	litog	0008	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0008	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0008	to	HABIT	lv	lv				
+nafsan	litog	0008	tp̃olu	send_message	v:pred	v		pred		
+nafsan	litog	0008	#	#	#cc	#cc				
+nafsan	litog	0008	na	PURP	other	other				
+nafsan	litog	0009	te-nen	DET-that	other	other				
+nafsan	litog	0009	ZERO	ZERO	0.h:a	0	h	a	410	new
+nafsan	litog	0009	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0009	slat	carry	v:pred	v		pred		
+nafsan	litog	0009	nafsan	story	np:p	np		p	411	new
+nafsan	litog	0009	ga	3S.	rn_pro.d:poss	rn_pro	d	poss	401	
+nafsan	litog	0009	ki	PREP	adp	adp				
+nafsan	litog	0009	taosi	like	other	other				
+nafsan	litog	0009	kin	COMP	nc	nc				
+nafsan	litog	0009	#	#	##	##				
+nafsan	litog	0009	ZERO	ZERO	0.d:a	0	d	a	401	
+nafsan	litog	0009	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0009	tp̃olu	send_message	v:pred	v		pred		
+nafsan	litog	0009	polis	police:BI	np.d:p	np	d	p	410	
+nafsan	litog	0009	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	401	
+nafsan	litog	0010	#	#	#nc	#nc				
+nafsan	litog	0010	Olsem	Olsem	nc	nc				
+nafsan	litog	0010	hemi	hemi	nc	nc				
+nafsan	litog	0010	sendem	sendem	nc	nc				
+nafsan	litog	0010	polis	police:BI	nc	nc				
+nafsan	litog	0010	blong	blong	nc	nc				
+nafsan	litog	0010	hem	hem	nc	nc				
+nafsan	litog	0010	a	ah	nc	nc				
+nafsan	litog	0010	#	#	##	##				
+nafsan	litog	0010	ZERO	ZERO	0.d:a	0	d	a	401	
+nafsan	litog	0010	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0010	tp̃olu	send_message	v:pred	v		pred		
+nafsan	litog	0010	polis	police:BI	np.d:p	np	d	p	410	
+nafsan	litog	0010	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	401	
+nafsan	litog	0010	#	#	#nc	#nc				
+nafsan	litog	0010	olsem	like:BI	nc	nc				
+nafsan	litog	0010	ol	all:BI	nc	nc				
+nafsan	litog	0010	smol	small:BI	nc	nc				
+nafsan	litog	0010	smol	small:BI	nc	nc				
+nafsan	litog	0010	samting	something:BI	nc	nc				
+nafsan	litog	0010	we	where:BI	nc	nc				
+nafsan	litog	0010	oli	all:BI	nc	nc				
+nafsan	litog	0010	stap	CONT:BI	nc	nc				
+nafsan	litog	0010	long	at:BI	nc	nc				
+nafsan	litog	0010	sol	salt:BI	nc	nc				
+nafsan	litog	0010	wota	water:BI	nc	nc				
+nafsan	litog	0010	a	ah	nc	nc				
+nafsan	litog	0011	#	#	#nc	#nc				
+nafsan	litog	0011	ZERO	ZERO	nc	nc				
+nafsan	litog	0011	i=	3S.RS=	nc	nc				
+nafsan	litog	0011	piatlak	have	nc	nc				
+nafsan	litog	0011	na	DET	nc	nc				
+nafsan	litog	0011	pislama	bêche-de-mer:BI	nc	nc				
+nafsan	litog	0011	kufa	shellfish	nc	nc				
+nafsan	litog	0012	[AUD]	[AUD]	[AUD]	[AUD]				
+nafsan	litog	0012	#	#	#nc	#nc				
+nafsan	litog	0012	litot	bêche-de-mer	nc	nc				
+nafsan	litog	0013	#nc	#nc	#nc	#nc				
+nafsan	litog	0013	a	confirm	nc	nc				
+nafsan	litog	0014	#	#	##	##				
+nafsan	litog	0014	malnen	as	other	other				
+nafsan	litog	0014	tiawi	ancestors	np.h:a	np	h	a	405	
+nafsan	litog	0014	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0014	lemis-i	look_at-TS	v:pred	v		pred		
+nafsan	litog	0014	ZERO	ZERO	0:p	0		p		
+nafsan	litog	0014	#	#	##	##				
+nafsan	litog	0014	ZERO	ZERO	0.h:a	0	h	a	405	
+nafsan	litog	0014	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0014	tae	know	v:pred	v		pred		
+nafsan	litog	0014	na	DET	ln	ln				
+nafsan	litog	0014	polis	police:BI	np.h:p	np	h	p	410	
+nafsan	litog	0014	#	#	##	##				
+nafsan	litog	0014	ZERO	ZERO	0.h:a	0	h	a	410	
+nafsan	litog	0014	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0014	pa	drive	v:pred	v		pred		
+nafsan	litog	0014	raru	canoe	rv	rv				
+nafsan	litog	0014	teesa	child	np.h:p	np	h	p	407	
+nafsan	litog	0014	nmatu	female	rn_np	rn_np			408	
+nafsan	litog	0014	ne	this	rn	rn				
+nafsan	litog	0014	#	#	##	##				
+nafsan	litog	0014	ZERO	ZERO	0.h:s	0	h	s	410	
+nafsan	litog	0014	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0014	mai	come	v:pred	v		pred		
+nafsan	litog	0014	#	#	##	##				
+nafsan	litog	0014	ZERO	ZERO	0.h:s	0	h	s	410	
+nafsan	litog	0014	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0014	ler	return	v:pred	v		pred		
+nafsan	litog	0014	pa	go	rv	rv				
+nafsan	litog	0015	#	#	##	##				
+nafsan	litog	0015	tete	some	ln	ln				
+nafsan	litog	0015	nrak	time	np:other	np		other		
+nafsan	litog	0015	tam̃ra	starfish	np.d:s	np	d	s	412	new
+nafsan	litog	0015	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0015	mai	come	v:pred	v		pred		
+nafsan	litog	0015	#	#	##	##				
+nafsan	litog	0015	tiawi	ancestors	np.h:s	np	h	s	405	
+nafsan	litog	0015	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0015	tae	know	v:pred	v		pred		
+nafsan	litog	0016	#	#	##	##				
+nafsan	litog	0016	ZERO	ZERO	0.d:s	0	d	s	412	
+nafsan	litog	0016	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0016	pi	be	cop	cop				
+nafsan	litog	0016	polis	police:BI	np.h:pred	np	h	pred	410	
+nafsan	litog	0016	ga	3S.POS	rn_pro:poss	rn_pro		poss	401	
+nafsan	litog	0016	#	#	##	##				
+nafsan	litog	0016	ZERO	ZERO	0.d:s	0	d	s	412	
+nafsan	litog	0016	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0016	pa	go	v:pred	v		pred		
+nafsan	litog	0016	reki	as_for	adp	adp				
+nafsan	litog	0016	nmatu	woman	np.h:g	np	h	g	407	
+nafsan	litog	0016	#	#	##	##				
+nafsan	litog	0016	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0016	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0016	preg-i	make-TS	v:pred	v		pred		
+nafsan	litog	0016	ZERO	ZERO	0:p	0		p		
+nafsan	litog	0016	panpan	until	adp	adp				
+nafsan	litog	0016	naliati	day	np:other	np		other		
+nafsan	litog	0016	i=	3S.RS=	=rn	=rn				
+nafsan	litog	0016	skei	one	rn_np	rn_np				
+nafsan	litog	0017	#	#	##	##				
+nafsan	litog	0017	go	and	other	other				
+nafsan	litog	0017	ZERO	ZERO	0.d:s_ds	0	d	s_ds	412	
+nafsan	litog	0017	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0017	na	say	v:pred	v		pred		
+nafsan	litog	0017	#	#	#ds	#ds				
+nafsan	litog	0017	ZERO	ZERO	0.1:s	0	1	s	412	
+nafsan	litog	0017	tuk=	1P.incRS=	=lv	=lv				
+nafsan	litog	0017	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	407	
+nafsan	litog	0017	kraksoksok	prepare	v:pred	v		pred		
+nafsan	litog	0017	#	#	##	##				
+nafsan	litog	0017	me	and	other	other				
+nafsan	litog	0017	ZERO	ZERO	0.1:a	0	1	a	412	
+nafsan	litog	0017	tuk=	1P.incIRS=	=lv	=lv				
+nafsan	litog	0017	fan	go:IR	lv	lv				
+nafsan	litog	0017	pus-i	put-TS	v:pred	v		pred		
+nafsan	litog	0017	ZERO	ZERO	0:p	0		p	422	bridging
+nafsan	litog	0017	#	#	##	##				
+nafsan	litog	0017	go	and	other	other				
+nafsan	litog	0017	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0017	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0017	po	PSP	lv	lv				
+nafsan	litog	0017	pan	go	lv	lv				
+nafsan	litog	0017	ga	3S.BEN	lv_pro.d:obl	lv_pro	d	obl		
+nafsan	litog	0017	pus-i	put-TS	v:pred	v		pred		
+nafsan	litog	0017	ZERO	ZERO	0.h:p	0	h	p	407	
+nafsan	litog	0017	#	#	##	##				
+nafsan	litog	0017	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0017	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0017	m̃ol	live	v:pred	v		pred		
+nafsan	litog	0018	#	#	#ac	#ac				
+nafsan	litog	0018	malnen	then	other	other				
+nafsan	litog	0018	kin	SUB	other	other				
+nafsan	litog	0018	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0018	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0018	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	407	
+nafsan	litog	0018	pregpta-ki	make.good-TR	v:pred	v		pred		
+nafsan	litog	0018	m̃it	mat	np:p	np		p	413	new
+nafsan	litog	0018	#	#	##	##				
+nafsan	litog	0018	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0018	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0018	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	407	
+nafsan	litog	0018	pregpta-ki	make.good-TR	v:pred	v		pred		
+nafsan	litog	0018	nkal	cloth	np:p	np		p	414	new
+nafsan	litog	0018	panpan	until	other	other				
+nafsan	litog	0018	#	#	##	##				
+nafsan	litog	0018	ZERO	ZERO	0.d:s	0	d	s	412	
+nafsan	litog	0018	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0018	nom	finish	v:pred	v		pred		
+nafsan	litog	0018	#	#	##	##				
+nafsan	litog	0018	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0018	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0018	tatwe-ki	load-TR	v:pred	v		pred		
+nafsan	litog	0018	raru	canoe	np:p	np		p	415	new
+nafsan	litog	0018	#	#	##	##				
+nafsan	litog	0018	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0018	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0018	msag-i	fetch-TS	v:pred	v		pred		
+nafsan	litog	0018	raru	canoe	np:p	np		p	415	
+nafsan	litog	0018	#	#	##	##				
+nafsan	litog	0018	me	and	other	other				
+nafsan	litog	0018	ZERO	ZERO	0.d:s	0	d	s	412	
+nafsan	litog	0018	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0018	pa	go	v:pred	v		pred		
+nafsan	litog	0019	#	#	##	##				
+nafsan	litog	0019	nlaken	because	other	other				
+nafsan	litog	0019	e-sum̃	LOC-house	np:s	np		s	416	new
+nafsan	litog	0019	ga	3S.	rn_pro.h:poss	rn_pro	h	poss	407	
+nafsan	litog	0019	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0019	pato	be_at	v:pred	v		pred		
+nafsan	litog	0019	elag	high	adp	adp				
+nafsan	litog	0019	e-sanpe	LOC-there	np:l	np		l		
+nafsan	litog	0019	#	#	##	##				
+nafsan	litog	0019	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0019	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0019	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	407	
+nafsan	litog	0019	msag	fetch	v:pred	v		pred		
+nafsan	litog	0019	sernale	everything	np:p	np		p	423	bridging
+nafsan	litog	0019	nen	that	rn	rn				
+nafsan	litog	0019	#	#	##	##				
+nafsan	litog	0019	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0019	plak-e	with-TR	v:pred	v		pred		
+nafsan	litog	0019	ZERO	ZERO	0.h:p	0	h	p	407	
+nafsan	litog	0019	#	#	##	##				
+nafsan	litog	0019	ZERO	ZERO	0.d:s	0	d	s	412	
+nafsan	litog	0019	pa	go	v:pred	v		pred		
+nafsan	litog	0019	#	#	##	##				
+nafsan	litog	0019	me	and	other	other				
+nafsan	litog	0019	ZERO	ZERO	0.d:s	0	d	s	412	
+nafsan	litog	0019	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0019	pan	go	v:pred	v		pred		
+nafsan	litog	0019	#	#	##	##				
+nafsan	litog	0019	me	and	other	other				
+nafsan	litog	0019	ga	3S.	pro:s	pro		s	407	
+nafsan	litog	0019	ki=	3S.PS=	=lv	=lv				
+nafsan	litog	0019	pe	PF	lv	lv				
+nafsan	litog	0019	pi	be	cop	cop				
+nafsan	litog	0019	nskau	reef	np:pred	np		pred	417	new
+nafsan	litog	0019	p̃ur	big	rn	rn				
+nafsan	litog	0019	i=	3S.RS=	=rn	=rn				
+nafsan	litog	0019	skei	one	rn_np	rn_np				
+nafsan	litog	0019	a	ah	nc	nc				
+nafsan	litog	0020	#	#	##	##				
+nafsan	litog	0020	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0020	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0020	paakor	arrive	v:pred	v		pred		
+nafsan	litog	0020	to	stay	rv	rv				
+nafsan	litog	0020	#	#	##	##				
+nafsan	litog	0020	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0020	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0020	to	stay	v:pred	v		pred		
+nafsan	litog	0020	elag	above	adp	adp				
+nafsan	litog	0020	nam̃oru	deep_sea	np:l	np		l	418	new
+nafsan	litog	0020	#	#	##	##				
+nafsan	litog	0020	ZERO	ZERO	0.h:s	0	h	s	412	
+nafsan	litog	0020	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0020	pa	go	v:pred	v		pred		
+nafsan	litog	0020	#	#	##	##				
+nafsan	litog	0020	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0020	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0020	pam̃or	find	v:pred	v		pred		
+nafsan	litog	0020	nskau	reef	np:p	np		p	417	
+nafsan	litog	0020	nen	that	rn	rn				
+nafsan	litog	0020	#	#	##	##				
+nafsan	litog	0020	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0020	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0020	to	stay	v:pred	v		pred		
+nafsan	litog	0020	#	#	##	##				
+nafsan	litog	0020	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0020	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0020	tae	know	v:pred	v		pred		
+nafsan	litog	0020	#	#	#cc:p	#cc		p		
+nafsan	litog	0020	na	COMP	other	other				
+nafsan	litog	0020	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0020	ruk=	3P.IRS=	=lv	=lv				
+nafsan	litog	0020	fo	PSP:IR	lv	lv				
+nafsan	litog	0020	pus-i	put-TS	v:pred	v		pred		
+nafsan	litog	0020	ZERO	ZERO	0:p	0		p		
+nafsan	litog	0020	esa	place	np:g	np		g	417	
+nafsan	litog	0021	#	#	##	##				
+nafsan	litog	0021	go	and	other	other				
+nafsan	litog	0021	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0021	rukoi=	3P.PS=	=lv	=lv				
+nafsan	litog	0021	pus-i	put-TS	v:pred	v		pred		
+nafsan	litog	0021	ZERO	ZERO	0:p	0		p	419	
+nafsan	litog	0021	#	#	##	##				
+nafsan	litog	0021	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0021	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0021	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	407	
+nafsan	litog	0021	slat	take	v:pred	v		pred		
+nafsan	litog	0021	sernale	everything	np:p	np		p	419	new
+nafsan	litog	0021	#	#	##	##				
+nafsan	litog	0021	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0021	pan	go	lv	lv				
+nafsan	litog	0021	pus-i	put-TS	v:pred	v		pred		
+nafsan	litog	0021	ZERO	ZERO	0:p	0		p	419	
+nafsan	litog	0021	panpan	until	other	other				
+nafsan	litog	0021	#	#	##	##				
+nafsan	litog	0021	ZERO	ZERO	0:s	0		s		
+nafsan	litog	0021	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0021	nom	finish	v:pred	v		pred		
+nafsan	litog	0021	#	#	##	##				
+nafsan	litog	0021	ale	okay:BI	nc	nc				
+nafsan	litog	0021	ZERO	ZERO	0.h:a	0	h	a	412	
+nafsan	litog	0021	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0021	lao-ki	stand-TR	v:pred	v		pred		
+nafsan	litog	0021	ZERO	ZERO	0:p	0		p	419	
+nafsan	litog	0022	#	#	##	##				
+nafsan	litog	0022	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0022	puet	take	v:pred	v		pred		
+nafsan	litog	0022	nmatu	female	np.h:p	np	h	p	407	
+nafsan	litog	0022	Litog	p.name	np.h:dt_p	np	h	dt_p	409	
+nafsan	litog	0022	#	#	##	##				
+nafsan	litog	0022	ZERO	ZERO	0.d:a	0	d	a	412	
+nafsan	litog	0022	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0022	pus-i	put-TS	v:pred	v		pred		
+nafsan	litog	0022	ZERO	ZERO	0.h:p	0	h	p	407	
+nafsan	litog	0022	#	#	##	##				
+nafsan	litog	0022	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0022	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0022	lao	stand	v:pred	v		pred		
+nafsan	litog	0022	skot	with	adp	adp				
+nafsan	litog	0022	sernale	everything	np:obl	np		obl	419	
+nafsan	litog	0022	#	#	##	##				
+nafsan	litog	0022	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0022	tu	stay	v:pred	v		pred		
+nafsan	litog	0022	#	#	##	##				
+nafsan	litog	0022	me	but	other	other				
+nafsan	litog	0022	ZERO	ZERO	0.h:s	0	h	s	412	
+nafsan	litog	0022	rukoi=	3P.PS=	=lv	=lv				
+nafsan	litog	0022	pak	go_to	v:pred	v		pred		
+nafsan	litog	0022	em̃ae	far	other:g	other		g		
+nafsan	litog	0023	#	#	##	##				
+nafsan	litog	0023	malnen	then	other	other				
+nafsan	litog	0023	ZERO	ZERO	0.h:s	0	h	s	412	
+nafsan	litog	0023	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0023	pak	go_to	v:pred	v		pred		
+nafsan	litog	0023	em̃ae	far	other:g	other		g		
+nafsan	litog	0023	#	#	##	##				
+nafsan	litog	0023	ZERO	ZERO	0:a	0		a		
+nafsan	litog	0023	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0023	taos	like	v:pred	v		pred		
+nafsan	litog	0023	nao	wave	np:p	np		p	420	new
+nafsan	litog	0023	i=	3S.RS=	=rn	=rn				
+nafsan	litog	0023	skei	one	rn_np	rn_np				
+nafsan	litog	0023	a	confirm	nc	nc				
+nafsan	litog	0024	#	#	##	##				
+nafsan	litog	0024	ZERO	ZERO	0:a	0		a	420	
+nafsan	litog	0024	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0024	mai	come	nc	nc				
+nafsan	litog	0024	mai	come	nc	nc				
+nafsan	litog	0024	mai	come	nc	nc				
+nafsan	litog	0024	mai	come	lv	lv				
+nafsan	litog	0024	p̃aakor	cover	v:pred	v		pred		
+nafsan	litog	0024	faat	stone	np:p	np		p		
+nafsan	litog	0024	ne	this	rn	rn				
+nafsan	litog	0024	#	#	##	##				
+nafsan	litog	0024	ZERO	ZERO	0:s	0		s	420	
+nafsan	litog	0024	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0024	nom	finish	v:pred	v		pred		
+nafsan	litog	0024	#	#	##	##				
+nafsan	litog	0024	ZERO	ZERO	0:a	0		a	420	
+nafsan	litog	0024	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0024	plak-e	accompany-TS	v:pred	v		pred		
+nafsan	litog	0024	ZERO	ZERO	0.h:p	0	h	p	407	
+nafsan	litog	0024	#	#	##	##				
+nafsan	litog	0024	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0024	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0024	m̃ol	live	v:pred	v		pred		
+nafsan	litog	0024	#	#	##	##				
+nafsan	litog	0024	ZERO	ZERO	0:s	0		s	420	
+nafsan	litog	0024	pa	go	v:pred	v		pred		
+nafsan	litog	0025	#	#	##	##				
+nafsan	litog	0025	go	and	other	other				
+nafsan	litog	0025	ZERO	ZERO	0:a	0		a	420	
+nafsan	litog	0025	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0025	plak-e	accompany-TS	v:pred	v		pred		
+nafsan	litog	0025	ZERO	ZERO	0.h:p	0	h	p	407	
+nafsan	litog	0025	#	#	##	##				
+nafsan	litog	0025	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0025	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0025	m̃ol	live	v:pred	v		pred		
+nafsan	litog	0025	to	stay	rv	rv				
+nafsan	litog	0025	#	#	##	##				
+nafsan	litog	0025	go	and	other	other				
+nafsan	litog	0025	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0025	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0025	m̃ol	live	v:pred	v		pred		
+nafsan	litog	0025	to	stay	rv	rv				
+nafsan	litog	0025	tup̃	until	adp	adp				
+nafsan	litog	0025	mees	today	np:obl	np		obl	421	new
+nafsan	litog	0026	#	#	##	##				
+nafsan	litog	0026	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0026	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0026	to	PROG	lv	lv				
+nafsan	litog	0026	paakor	appear	v:pred	v		pred		
+nafsan	litog	0026	tup̃	until	adp	adp				
+nafsan	litog	0026	mees	today	np:obl	np		obl	421	
+nafsan	litog	0027	[AUD]	[AUD]	[AUD]	[AUD]				
+nafsan	litog	0027	#	#	#nc	#nc				
+nafsan	litog	0027	Litog	p.name	nc	nc				
+nafsan	litog	0028	#	#	##	##				
+nafsan	litog	0028	Litog	p.name	nc_np.h	nc_np	h		407	
+nafsan	litog	0028	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0028	nlaken	because	other	other				
+nafsan	litog	0028	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0028	pi	be	cop	cop				
+nafsan	litog	0028	nmatu	wife	np.h:pred	np	h	pred	407	
+nafsan	litog	0028	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	401	
+nafsan	litog	0028	#	#	#nc	#nc				
+nafsan	litog	0028	i=	3S.RS=	nc	nc				
+nafsan	litog	0028	lakor	maybe	nc	nc				
+nafsan	litog	0028	pi	be	nc	nc				
+nafsan	litog	0028	#	#	##	##				
+nafsan	litog	0028	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0028	ke=	3S.IRR=	=lv	=lv				
+nafsan	litog	0028	fo	PSP:IRR	lv	lv				
+nafsan	litog	0028	to	go	v:pred	v		pred		
+nafsan	litog	0028	panpan	until	adp	adp				
+nafsan	litog	0028	emeromen	world	np:g	np		g		
+nafsan	litog	0028	#	#	##	##				
+nafsan	litog	0028	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0028	ke=	3S.IRS=	=lv	=lv				
+nafsan	litog	0028	fo	PSP:IR	lv	lv				
+nafsan	litog	0028	plak-e	accompany-V	lv	lv				
+nafsan	litog	0028	puel	absent	v:pred	v		pred		
+nafsan	litog	0028	tefla	similar	other	other				
+nafsan	litog	0029	#	#	##	##				
+nafsan	litog	0029	natopu	spirit	np.h:dt	np	h	dt	401	
+nafsan	litog	0029	nigmam	1P.POS	rn_pro.1:poss	rn_pro	1	poss	402	
+nafsan	litog	0029	ni	of	rn	rn				
+nafsan	litog	0029	e-sa	LOC-here	rn_np:poss	rn_np		poss	403	
+nafsan	litog	0029	ZERO	ZERO	0.h:a	0	h	a	410	
+nafsan	litog	0029	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0029	tu-a	give-TS	v:pred	v		pred		
+nafsan	litog	0029	nmatu	woman	np.h:p	np	h	p	406	
+nafsan	litog	0029	#	#	##	##				
+nafsan	litog	0029	me	and	other	other				
+nafsan	litog	0029	ZERO	ZERO	0.h:a	0	h	a	410	
+nafsan	litog	0029	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0029	tu-a	give-TS	v:pred	v		pred		
+nafsan	litog	0029	ZERO	ZERO	0.d:p	0	d	p	401	
+nafsan	litog	0029	ki	PREP	adp	adp				
+nafsan	litog	0029	-n	-3S.O	-pro.h:obl	-pro	h	obl	407	
+nafsan	litog	0029	#	#	##	##				
+nafsan	litog	0029	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0029	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0029	m̃ol	live	v:pred	v		pred		
+nafsan	litog	0030	#	#	##	##				
+nafsan	litog	0030	go	and	other	other				
+nafsan	litog	0030	ga	3S.	pro.d:s	pro	d	s	401	
+nafsan	litog	0030	#	#	#rc:pred	#rc		pred		
+nafsan	litog	0030	kin	REL	other	other				
+nafsan	litog	0030	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0030	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0030	to	stay	v:pred	v		pred		
+nafsan	litog	0030	#	#	##	##				
+nafsan	litog	0030	ZERO	ZERO	0.d:s	0	d	s	401	
+nafsan	litog	0030	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0030	to	stay	v:pred	v		pred		
+nafsan	litog	0030	tup̃	until	adp	adp				
+nafsan	litog	0030	mees	today	np:obl	np		obl	421	
+nafsan	litog	0030	#	#	#nc	#nc				
+nafsan	litog	0030	ale	okay:BI	nc	nc				
+nafsan	litog	0030	ZER	ZERO	nc	nc				
+nafsan	litog	0030	i=	3S.RS=	nc	nc				
+nafsan	litog	0030	tefla	similar	nc	nc				
+nafsan	litog	0031	taos	like	nc	nc				
+nafsan	litog	0031	ni	of	nc	nc				
+nafsan	litog	0031	natopu	spirit	nc	nc				
+nafsan	litog	0031	nigmam	1P.POS	nc	nc				
+nafsan	litog	0031	ni	of	nc	nc				
+nafsan	litog	0031	e-sa	LOC-here	nc	nc				
+nafsan	litog	0031	#	#	##	##				
+nafsan	litog	0031	ZERO	ZERO	0.h:s	0	h	s	410	
+nafsan	litog	0031	ra=	3D.RS=	=lv	=lv				
+nafsan	litog	0031	tu-a	give-TS	v:pred	v		pred		
+nafsan	litog	0031	ZERO	ZERO	0.h:p	0	h	p	407	
+nafsan	litog	0031	#	#	#ac	#ac				
+nafsan	litog	0031	malnen	as	other	other				
+nafsan	litog	0031	ZERO	ZERO	0.d:a	0	d	a	401	
+nafsan	litog	0031	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0031	mur	want	v:pred	v		pred		
+nafsan	litog	0031	nmatu	woman	np.h:p	np	h	p	406	
+nafsan	litog	0031	#	#	##	##				
+nafsan	litog	0031	ZERO	ZERO	0.h:a	0	h	a	410	
+nafsan	litog	0031	ru=	3P.RS=	=lv	=lv				
+nafsan	litog	0031	tu-a	give-TS	v:pred	v		pred		
+nafsan	litog	0031	ZERO	ZERO	0.d:p	0	d	p	401	
+nafsan	litog	0031	ki	PREP	adp	adp				
+nafsan	litog	0031	-n	-3S.O	-pro.h:obl	-pro	h	obl	407	
+nafsan	litog	0031	#	#	##	##				
+nafsan	litog	0031	ZERO	ZERO	0.h:s	0	h	s	407	
+nafsan	litog	0031	i=	3S.RS=	=lv	=lv				
+nafsan	litog	0031	m̃ol	live	v:pred	v		pred		

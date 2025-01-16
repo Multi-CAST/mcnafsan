@@ -1,0 +1,621 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	nmatu	0001	#	#	##	##				
+nafsan	nmatu	0001	ZERO	ZERO	0.1:a	0	1	a		
+nafsan	nmatu	0001	a=	1S.RS=	=lv	=lv				
+nafsan	nmatu	0001	mur-i	want-TS	v:pred	v		pred		
+nafsan	nmatu	0001	-n	-3S.O	-pro:p	-pro		p		
+nafsan	nmatu	0001	#	#	#cc	#cc				
+nafsan	nmatu	0001	na	COMP	other	other				
+nafsan	nmatu	0001	ZERO	ZERO	0.1:a	0	1	a		
+nafsan	nmatu	0001	ka=	1S.IRS=	=lv	=lv				
+nafsan	nmatu	0001	traus-i	tell-TS	v:pred	v		pred		
+nafsan	nmatu	0001	te-natrauswen	DET-story	np:p	np		p	601	new
+nafsan	nmatu	0001	ni	of	rn	rn				
+nafsan	nmatu	0001	maarik	mister	rn	rn				
+nafsan	nmatu	0001	Wili	PN	rn_np.h:poss	rn_np	h	poss	602	new
+nafsan	nmatu	0001	Santo	PN	rn_np	rn_np				
+nafsan	nmatu	0001	#	#	##	##				
+nafsan	nmatu	0001	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0001	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0001	neu	1S.BEN	lv_pro.1:g	lv_pro	1	g		
+nafsan	nmatu	0001	traus-i	tell-TS	v:pred	v		pred		
+nafsan	nmatu	0001	ZERO	ZERO	0:p	0		p	601	
+nafsan	nmatu	0001	teetwei	before	other	other				
+nafsan	nmatu	0002	#	#	##	##				
+nafsan	nmatu	0002	ZERO	ZERO	0:a	0		a	601	
+nafsan	nmatu	0002	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0002	til	say	v:pred	v		pred		
+nafsan	nmatu	0002	natam̃ol	person	np.h:p	np	h	p	603	bridging
+nafsan	nmatu	0002	ni	of	rn	rn				
+nafsan	nmatu	0002	Ermag	PN	rn_np:poss	rn_np		poss	604	new
+nafsan	nmatu	0002	i=	3S.RS=	=rn	=rn				
+nafsan	nmatu	0002	nru	two	rn_np	rn_np				
+nafsan	nmatu	0003	#	#	##	##				
+nafsan	nmatu	0003	kaaru	other	np.h:a	np	h	a	602	
+nafsan	nmatu	0003	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0003	piatlak	have	v:predex	v		predex		
+nafsan	nmatu	0003	nmatu	wife	np.h:p	np	h	p	606	new
+nafsan	nmatu	0003	#	#	#ac	#ac				
+nafsan	nmatu	0003	selwan	while	other	other				
+nafsan	nmatu	0003	ZERO	ZERO	0.h:s	0	h	s	607	bridging
+nafsan	nmatu	0003	ra=	3D.RS=	=lv	=lv				
+nafsan	nmatu	0003	lak	marry	v:pred	v		pred		
+nafsan	nmatu	0003	#	#	##neg	##neg				
+nafsan	nmatu	0003	ZERO	ZERO	0.h:s	0	h	s	607	
+nafsan	nmatu	0003	ra=	3D.RS=	=lv	=lv				
+nafsan	nmatu	0003	tap	not	lv	lv				
+nafsan	nmatu	0003	mer	again	aux	aux				
+nafsan	nmatu	0003	tao	leave	v:pred	v		pred		
+nafsan	nmatu	0003	mau	NEG2	rv	rv				
+nafsan	nmatu	0004	#	#	##	##				
+nafsan	nmatu	0004	ZERO	ZERO	0.h:s	0	h	s	607	
+nafsan	nmatu	0004	ra=	3D.RS=	=lv	=lv				
+nafsan	nmatu	0004	to	stay	v:pred	v		pred		
+nafsan	nmatu	0004	panpan	until	adp	adp				
+nafsan	nmatu	0004	go	AD	ln	ln				
+nafsan	nmatu	0004	naliati	day	np:other	np		other	608	new
+nafsan	nmatu	0004	i=	3S.RS=	=rn	=rn				
+nafsan	nmatu	0004	skei	one	rn_np	rn_np				
+nafsan	nmatu	0004	#	#	##	##				
+nafsan	nmatu	0004	te-nen	DET-that	dem_np.h:a	dem_np	h	a	602	
+nafsan	nmatu	0004	#	#	#rc	#rc				
+nafsan	nmatu	0004	ZERO	0	0.h:a	0	h	a	602	
+nafsan	nmatu	0004	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0004	piatlak	have	v:predex	v		predex		
+nafsan	nmatu	0004	nmatu	wife	np.h:p	np	h	p	606	
+nafsan	nmatu	0004	%	%	%	%				
+nafsan	nmatu	0004	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0004	piatlak	have	v:predex	v		predex		
+nafsan	nmatu	0004	nmatu	wife	np.h:p	np	h	p	606	
+nafsan	nmatu	0004	nega	3S.POS	rn_pro.h:poss	rn_pro	h	poss	602	
+nafsan	nmatu	0004	#	#	##	##				
+nafsan	nmatu	0004	ZERO	ZERO	0.h:s	0	h	s	602	
+nafsan	nmatu	0004	ra=	3D.RS=	=lv	=lv				
+nafsan	nmatu	0004	pan	go	v:pred	v		pred		
+nafsan	nmatu	0004	sari	wander	rv	rv				
+nafsan	nmatu	0005	#	#	##	##				
+nafsan	nmatu	0005	ZERO	ZERO	0.h:s	0	h	s	607	
+nafsan	nmatu	0005	ra=	3D.RS=	=lv	=lv				
+nafsan	nmatu	0005	pan	go	v:pred	v		pred		
+nafsan	nmatu	0005	#	#	##	##				
+nafsan	nmatu	0005	ZERO	ZERO	0.h:a	0	h	a	607	
+nafsan	nmatu	0005	ra=	3D.RS=	=lv	=lv				
+nafsan	nmatu	0005	sok-ki	jump-TR	v:pred	v		pred		
+nafsan	nmatu	0005	asel-e	friend-V	np.h:p	np	h	p	609	new
+nafsan	nmatu	0005	-r	-3P.DP	-rn_pro.h:poss	-rn_pro	h	poss	607	
+nafsan	nmatu	0006	#	#	##	##				
+nafsan	nmatu	0006	ZERO	ZERO	0.h:a	0	h	a	607	
+nafsan	nmatu	0006	rakai=	3D.PS=	=lv	=lv				
+nafsan	nmatu	0006	to	PROG	aux	aux				
+nafsan	nmatu	0006	puserek	talk	v:pred	v		pred		
+nafsan	nmatu	0006	asel-e	friend-V	np.h:p	np	h	p	609	
+nafsan	nmatu	0006	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss	602	
+nafsan	nmatu	0006	#	#	##	##				
+nafsan	nmatu	0006	ZERO	ZERO	0.h:a	0	h	a	609	
+nafsan	nmatu	0006	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0006	piatlak	have	v:predex	v		predex		
+nafsan	nmatu	0006	wak	pig	np:p	np		p	610	new
+nafsan	nmatu	0006	i=	3S.RS=	=rn	=rn				
+nafsan	nmatu	0006	skei	one	rn_np	rn_np				
+nafsan	nmatu	0007	#	#	##	##				
+nafsan	nmatu	0007	wak	pig	np:s	np		s	610	
+nafsan	nmatu	0007	nen	that	rn	rn				
+nafsan	nmatu	0007	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0007	pi	be	cop	cop				
+nafsan	nmatu	0007	wak	pig	np:pred	np		pred	610	
+nafsan	nmatu	0007	nmatu	woman	rn_np	rn_np			611	new
+nafsan	nmatu	0008	#	#	##	##				
+nafsan	nmatu	0008	te-nen	DET-that	dem_np.h:a	dem_np	h	a	602	
+nafsan	nmatu	0008	#	#	#rc_rn	#rc_rn				
+nafsan	nmatu	0008	ZERO	0	0.h:a	0	h	a	602	
+nafsan	nmatu	0008	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0008	piatlak	have	v:predex	v		predex		
+nafsan	nmatu	0008	nmatu	wife	np.h:p	np	h	p	606	
+nafsan	nmatu	0008	%	%	%	%				
+nafsan	nmatu	0008	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0008	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0008	to	PROG	aux	aux				
+nafsan	nmatu	0008	lek	look	v:pred	v		pred		
+nafsan	nmatu	0008	wak	pig	np:p	np		p	610	
+nafsan	nmatu	0008	#	#	#rc_rn	#rc_rn				
+nafsan	nmatu	0008	nen	REL	other	other				
+nafsan	nmatu	0008	ZERO	ZERO	0:s	0		s	610	
+nafsan	nmatu	0008	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0008	to	PROG	aux	aux				
+nafsan	nmatu	0008	su	dig	v:pred	v		pred		
+nafsan	nmatu	0008	e-ntan	LOC-ground	np:g	np		g	612	new
+nafsan	nmatu	0009	#	#	##	##				
+nafsan	nmatu	0009	go	and	other	other				
+nafsan	nmatu	0009	ZERO	ZERO	0.h:s	0	h	s	602	
+nafsan	nmatu	0009	ki=	3S.PS=	=lv	=lv				
+nafsan	nmatu	0009	nrik	tell	v:pred	v		pred		
+nafsan	nmatu	0009	kaaru	other	np.h:p	np	h	p	609	
+nafsan	nmatu	0009	ki	PREP	adp	adp				
+nafsan	nmatu	0009	-n	-3S.O	-pro:other	-pro		other		
+nafsan	nmatu	0009	#	#	##ds	##ds				
+nafsan	nmatu	0009	na	SUB	other	other				
+nafsan	nmatu	0009	ZERO	ZERO	0.1:a	0	1	a	602	
+nafsan	nmatu	0009	a=	1S.RS=	=lv	=lv				
+nafsan	nmatu	0009	lek	look	v:pred	v		pred		
+nafsan	nmatu	0009	nmatu	wife	np.h:p	np	h	p	610	
+nafsan	nmatu	0009	gaag	2S.POS	rn_pro.2:poss	rn_pro	2	poss	609	
+nafsan	nmatu	0009	#	#	##ds	##ds				
+nafsan	nmatu	0009	ZERO	ZERO	0.h:s	0	h	s	610	
+nafsan	nmatu	0009	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0009	tae	know	aux	aux				
+nafsan	nmatu	0009	weswes	work	v:pred	v		pred		
+nafsan	nmatu	0009	wi	good	rv	rv				
+nafsan	nmatu	0010	#	#	##ds.neg	##ds.neg				
+nafsan	nmatu	0010	me	but	other	other				
+nafsan	nmatu	0010	neu	HES	nc	nc				
+nafsan	nmatu	0010	nmatu	wife	np.h:s	np	h	s	606	
+nafsan	nmatu	0010	nigneu	1S.POS	rn_pro.1:poss	rn_pro	1	poss	602	
+nafsan	nmatu	0010	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0010	tap	NEG	lv	lv				
+nafsan	nmatu	0010	weswes	work	v:pred	v		pred		
+nafsan	nmatu	0010	mau	NEG2	rv	rv				
+nafsan	nmatu	0011	#	#	##ds	##ds				
+nafsan	nmatu	0011	tete	some	ln	ln				
+nafsan	nmatu	0011	nrak	time	np:other	np		other		
+nafsan	nmatu	0011	ZERO	ZERO	0.1:a	0	1	a	602	
+nafsan	nmatu	0011	a=	1S.RS=	=lv	=lv				
+nafsan	nmatu	0011	pestaf-i	talk_to-TS	v:pred	v		pred		
+nafsan	nmatu	0011	ZERO	ZERO	0.h:p	0	h	p	606	
+nafsan	nmatu	0011	#	#	##ds.neg	##ds.neg				
+nafsan	nmatu	0011	ZERO	ZERO	0.h:a	0	h	a	606	
+nafsan	nmatu	0011	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0011	tap	NEG	lv	lv				
+nafsan	nmatu	0011	nrog	hear	v:pred	v		pred		
+nafsan	nmatu	0011	wou	1S.O	pro.1:p	pro	1	p	602	
+nafsan	nmatu	0011	mau	NEG2	rv	rv				
+nafsan	nmatu	0011	#	#	##ds	##ds				
+nafsan	nmatu	0011	ZERO	ZERO	0.1:a	0	1	a	602	
+nafsan	nmatu	0011	a=	1S.RS=	=lv	=lv				
+nafsan	nmatu	0011	mur-i	want-TS	v:pred	v		pred		
+nafsan	nmatu	0011	-n	-3S.O	-pro:p	-pro		p		
+nafsan	nmatu	0011	#	#	#ds_cc	#ds_cc				
+nafsan	nmatu	0011	na	COMP	other	other				
+nafsan	nmatu	0011	ZERO	ZERO	0.h:a	0	h	a	606	
+nafsan	nmatu	0011	ke=	3S.IRS=	=lv	=lv				
+nafsan	nmatu	0011	freg	make:IR	v:pred	v		pred		
+nafsan	nmatu	0011	te-nen	DET-that	dem_np:p	dem_np		p	613	new
+nafsan	nmatu	0011	#	#	##ds	##ds				
+nafsan	nmatu	0011	ZERO	ZERO	0.1:a	0	1	a	602	
+nafsan	nmatu	0011	a=	1S.RS=	=lv	=lv				
+nafsan	nmatu	0011	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	nmatu	0011	-n	-3S.O	-pro.h:p	-pro	h	p	606	
+nafsan	nmatu	0011	#	#	#ac.neg	#ac.neg				
+nafsan	nmatu	0011	kin	SUB	other	other				
+nafsan	nmatu	0011	me	but	other	other				
+nafsan	nmatu	0011	ZERO	ZERO	0.h:a	0	h	a	606	
+nafsan	nmatu	0011	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0011	ta	NEG	lv	lv				
+nafsan	nmatu	0011	preg-i	make-TS	v:pred	v		pred		
+nafsan	nmatu	0011	ZERO	ZERO	0:p	0		p	613	
+nafsan	nmatu	0011	mau	NEG2	rv	rv				
+nafsan	nmatu	0011	#	#	##ds	##ds				
+nafsan	nmatu	0011	me	but	other	other				
+nafsan	nmatu	0011	nmatu	wife	np.h:s	np	h	s	610	
+nafsan	nmatu	0011	gaag	2S.POS	rn_pro.2:poss	rn_pro	2	poss	609	
+nafsan	nmatu	0011	nen	that	rn	rn				
+nafsan	nmatu	0011	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0011	tae	know	aux	aux				
+nafsan	nmatu	0011	weswes	work	v:pred	v		pred		
+nafsan	nmatu	0011	wi	good	rv	rv				
+nafsan	nmatu	0012	#	#	#ac	#ac				
+nafsan	nmatu	0012	ZERO	ZERO	0.h:a	0	h	a	610	
+nafsan	nmatu	0012	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0012	f	CND	other	other				
+nafsan	nmatu	0012	wel	like	v:pred	v		pred		
+nafsan	nmatu	0012	ag	2S.	pro.2:p	pro	2	p	602	
+nafsan	nmatu	0012	#	#	#ac	#ac				
+nafsan	nmatu	0012	ZERO	ZERO	0.2:a	0	2	a	602	
+nafsan	nmatu	0012	ku=	2S.RS=	=lv	=lv				
+nafsan	nmatu	0012	f	CND	other	other				
+nafsan	nmatu	0012	mur-i	want-TS	v:pred	v		pred		
+nafsan	nmatu	0012	-n	-3S.O	-pro.h:p	-pro	h	p	610	
+nafsan	nmatu	0012	#	#	##	##				
+nafsan	nmatu	0012	go	and	other	other				
+nafsan	nmatu	0012	ZERO	ZERO	0.1:a	0	1	a	609	
+nafsan	nmatu	0012	ka=	1S.IRS=	=lv	=lv				
+nafsan	nmatu	0012	tu-o	give-V	v:pred	v		pred		
+nafsan	nmatu	0012	-k	-2S.O	-pro.2:g	-pro	2	g	602	
+nafsan	nmatu	0012	nmatu	wife	np.h:p	np	h	p	610	
+nafsan	nmatu	0012	neu	1S.POS	rn_pro.1:poss	rn_pro	1	poss	609	
+nafsan	nmatu	0012	#	#	##	##				
+nafsan	nmatu	0012	me	and	other	other				
+nafsan	nmatu	0012	ag	2S.	pro.2:a	pro	2	a	602	
+nafsan	nmatu	0012	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	nmatu	0012	tao	give.me	v:pred	v		pred		
+nafsan	nmatu	0012	nmatu	wife	np.h:p	np	h	p	606	
+nafsan	nmatu	0012	gaag	2S.POS	rn_pro.2:poss	rn_pro	2	poss	602	
+nafsan	nmatu	0013	#	#	##	##				
+nafsan	nmatu	0013	go	and	other	other				
+nafsan	nmatu	0013	te-kaaru	DET-other	np.h:s	np	h	s	609	
+nafsan	nmatu	0013	#	#	#rc_rn	#rc_rn				
+nafsan	nmatu	0013	nen	REL	other	other				
+nafsan	nmatu	0013	ZERO	ZERO	0.h:a	0	h	a	609	
+nafsan	nmatu	0013	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0013	piatlak	have	v:predex	v		predex		
+nafsan	nmatu	0013	wak	pig	np:p	np		p	610	
+nafsan	nmatu	0013	nmatu	woman	rn_np	rn_np			611	
+nafsan	nmatu	0013	nen	that	rn	rn				
+nafsan	nmatu	0013	%	%	%	%				
+nafsan	nmatu	0013	ZERO	ZERO	0.h:s_ds	0	h	s_ds	609	
+nafsan	nmatu	0013	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0013	nag	say	v:pred	v		pred		
+nafsan	nmatu	0013	#	#	#ds	#ds				
+nafsan	nmatu	0013	o	oh	nc	nc				
+nafsan	nmatu	0013	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0013	wi	good	v:pred	v		pred		
+nafsan	nmatu	0013	top	big	rv	rv				
+nafsan	nmatu	0013	#	#	#ac	#ac				
+nafsan	nmatu	0013	ZERO	ZERO	0.h:a	0	h	a	609	
+nafsan	nmatu	0013	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0013	f	CND	other	other				
+nafsan	nmatu	0013	wel	like	v:pred	v		pred		
+nafsan	nmatu	0013	#	#	#cc:p	#cc		p		
+nafsan	nmatu	0013	kin	COMP	other	other				
+nafsan	nmatu	0013	ZERO	ZERO	0.1:a	0	1	a	603	
+nafsan	nmatu	0013	ta=	1d.incRS=	=lv	=lv				
+nafsan	nmatu	0013	f	CND	other	other				
+nafsan	nmatu	0013	tigpiel-ki	exchange-TR	v:pred	v		pred		
+nafsan	nmatu	0013	-n	-3S.O	-pro.h:p	-pro	h	p	606	
+nafsan	nmatu	0013	#	#	##	##				
+nafsan	nmatu	0013	ZERO	ZERO	0:s	0		s	614	new
+nafsan	nmatu	0013	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0013	lakor	very	other	other				
+nafsan	nmatu	0013	wi	good	v:pred	v		pred		
+nafsan	nmatu	0014	#	#	##	##				
+nafsan	nmatu	0014	kineu	1S	pro.1:a	pro	1	a	609	
+nafsan	nmatu	0014	ka=	1S.IRS=	=lv	=lv				
+nafsan	nmatu	0014	tu-o	give-V	v:pred	v		pred		
+nafsan	nmatu	0014	-k	-2S.O	-pro.2:p	-pro	2	p	602	
+nafsan	nmatu	0014	nmatu	wife	np.h:p2	np	h	p2	610	
+nafsan	nmatu	0014	neu	1S.POS	rn_pro.1:poss	rn_pro	1	poss	609	
+nafsan	nmatu	0014	#	#	##	##				
+nafsan	nmatu	0014	me	and	other	other				
+nafsan	nmatu	0014	ag	2S.	pro.2:a	pro	2	a	602	
+nafsan	nmatu	0014	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	nmatu	0014	tao	give.me	v:pred	v		pred		
+nafsan	nmatu	0014	nmatu	wife	np.h:p	np	h	p	606	
+nafsan	nmatu	0014	gaag	2S.POS	rn_pro.2:poss	rn_pro	2	poss	602	
+nafsan	nmatu	0015	#	#	##	##				
+nafsan	nmatu	0015	natam̃ol	person	np.h:s_ds	np	h	s_ds	602	
+nafsan	nmatu	0015	ne	this	rn	rn				
+nafsan	nmatu	0015	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0015	na	say	v:pred	v		pred		
+nafsan	nmatu	0015	#	#	#ds	#ds				
+nafsan	nmatu	0015	o	PART	nc	nc				
+nafsan	nmatu	0015	i=	3S.O.RS=	=lv	=lv				
+nafsan	nmatu	0015	wi	good	v:pred	v		pred		
+nafsan	nmatu	0016	#	#	#ac	#ac				
+nafsan	nmatu	0016	selwan	while	other	other				
+nafsan	nmatu	0016	ZERO	ZERO	0.h:a	0	h	a	609	
+nafsan	nmatu	0016	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0016	plak	accompany	v:pred	v		pred		
+nafsan	nmatu	0016	nmatu	wife	np.h:p	np	h	p	606	
+nafsan	nmatu	0016	ni	of	rn	rn				
+nafsan	nmatu	0016	te-kaaru	DET-other	rn_np.h:poss	rn_np	h	poss	602	
+nafsan	nmatu	0016	#	#	##	##				
+nafsan	nmatu	0016	ZERO	ZERO	0.h:a	0	h	a	609	
+nafsan	nmatu	0016	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0016	trapelpel	hurry	lv	lv				
+nafsan	nmatu	0016	plak-e	accompany-TS	v:pred	v		pred		
+nafsan	nmatu	0016	ZERO	ZERO	0.h:p	0	h	p	606	
+nafsan	nmatu	0016	pak	to	adp	adp				
+nafsan	nmatu	0016	em̃ae	far	np:g	np		g		
+nafsan	nmatu	0016	#	#	##	##				
+nafsan	nmatu	0016	ZERO	ZERO	0.h:s	0	h	s	609	
+nafsan	nmatu	0016	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0016	pak	go.to	v:pred	v		pred		
+nafsan	nmatu	0016	e-sum̃	LOC-house	np:g	np		g	615	new
+nafsan	nmatu	0016	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	609	
+nafsan	nmatu	0017	#	#	##	##				
+nafsan	nmatu	0017	me	but	other	other				
+nafsan	nmatu	0017	kaaru	other	np.h:a	np	h	a	602	
+nafsan	nmatu	0017	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0017	plak	accompany	v:pred	v		pred		
+nafsan	nmatu	0017	nmatu	wife	nc	nc				
+nafsan	nmatu	0017	ga	3S.POS	nc	nc				
+nafsan	nmatu	0017	nmatu	wife	np.h:p	np	h	p	610	
+nafsan	nmatu	0017	ni	of	rn	rn				
+nafsan	nmatu	0017	wak	pig	rn_np:poss	rn_np		poss	610	
+nafsan	nmatu	0017	ne	this	rn	rn				
+nafsan	nmatu	0017	#	#	##	##				
+nafsan	nmatu	0017	ZERO	ZERO	0.h:s	0	h	s	602	
+nafsan	nmatu	0017	kai=	3SG.ES=	=lv	=lv				
+nafsan	nmatu	0017	pak	go_to	v:pred	v		pred		
+nafsan	nmatu	0017	e-sum̃	LOC-house	np:g	np		g	616	new
+nafsan	nmatu	0017	ga	3S.	rn_pro.h:poss	rn_pro	h	poss	602	
+nafsan	nmatu	0017	pa	go	rv	rv				
+nafsan	nmatu	0018	#	#	#nc	#nc				
+nafsan	nmatu	0018	malnen	then	nc	nc				
+nafsan	nmatu	0018	ra=	3D.RS=	nc	nc				
+nafsan	nmatu	0018	tigpiel	exchange	nc	nc				
+nafsan	nmatu	0018	i=	3S.RS=	nc	nc				
+nafsan	nmatu	0018	nom	finish	nc	nc				
+nafsan	nmatu	0018	selwan	while	nc	nc				
+nafsan	nmatu	0018	i=	3S.RS=	nc	nc				
+nafsan	nmatu	0018	plak	with	nc	nc				
+nafsan	nmatu	0018	nmatu	woman	nc	nc				
+nafsan	nmatu	0018	nen	that	nc	nc				
+nafsan	nmatu	0018	pan	until	nc	nc				
+nafsan	nmatu	0018	i=	3S.RS=	nc	nc				
+nafsan	nmatu	0018	pan	go	nc	nc				
+nafsan	nmatu	0018	pa	go	nc	nc				
+nafsan	nmatu	0018	teesa	child	nc	nc				
+nafsan	nmatu	0018	ga	3S.POS	nc	nc				
+nafsan	nmatu	0018	go	and	nc	nc				
+nafsan	nmatu	0018	i=	3S.RS=	nc	nc				
+nafsan	nmatu	0018	nrik	tell	nc	nc				
+nafsan	nmatu	0018	-i	-TS	nc	nc				
+nafsan	nmatu	0018	-n	-3S.O	nc	nc				
+nafsan	nmatu	0018	ki	PREP	nc	nc				
+nafsan	nmatu	0018	-n	-3S.O	nc	nc				
+nafsan	nmatu	0018	na	say	nc	nc				
+nafsan	nmatu	0018	E	oh	nc	nc				
+nafsan	nmatu	0018	kui=	2S.PS=	nc	nc				
+nafsan	nmatu	0018	pe	PF	nc	nc				
+nafsan	nmatu	0018	preg	make	nc	nc				
+nafsan	nmatu	0018	tete	some	nc	nc				
+nafsan	nmatu	0018	nafnag	food	nc	nc				
+nafsan	nmatu	0018	sees	small	nc	nc				
+nafsan	nmatu	0018	tak=	1D.incIRS=	nc	nc				
+nafsan	nmatu	0018	fam	eat	nc	nc				
+nafsan	nmatu	0018	-i	-TS	nc	nc				
+nafsan	nmatu	0018	-ø	-3S.O	nc	nc				
+nafsan	nmatu	0018	me	and	nc	nc				
+nafsan	nmatu	0018	tak=	1D.incIRS=	nc	nc				
+nafsan	nmatu	0018	fo	PSP:IR	nc	nc				
+nafsan	nmatu	0018	to	stay	nc	nc				
+nafsan	nmatu	0019	#	#	##	##				
+nafsan	nmatu	0019	wak	pig	np:s	np		s	610	
+nafsan	nmatu	0019	nen	that	rn	rn				
+nafsan	nmatu	0019	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0019	pan	go	lv	lv				
+nafsan	nmatu	0019	su	dig	v:pred	v		pred		
+nafsan	nmatu	0019	#	#	#ac	#ac				
+nafsan	nmatu	0019	panpan	until	other	other				
+nafsan	nmatu	0019	ZERO	ZERO	0:a	0		a	610	
+nafsan	nmatu	0019	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0019	preg.sa-ki	make.bad-TR	v:pred	v		pred		
+nafsan	nmatu	0019	sernale	everything	np:p	np		p	619	new
+nafsan	nmatu	0019	ni	of	rn	rn				
+nafsan	nmatu	0019	em̃rom	inside	rn_np:poss	rn_np		poss	616	
+nafsan	nmatu	0020	#	#	##	##				
+nafsan	nmatu	0020	maarik	mister	np.h:s	np	h	s	602	
+nafsan	nmatu	0020	nen	that	rn	rn				
+nafsan	nmatu	0020	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0020	tok	stay	v:pred	v		pred		
+nafsan	nmatu	0020	#	#	##	##				
+nafsan	nmatu	0020	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0020	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0020	to	PROG	lv	lv				
+nafsan	nmatu	0020	lek-a	look-TS	v:pred	v		pred		
+nafsan	nmatu	0020	ZERO	ZERO	0:p	0		p		
+nafsan	nmatu	0020	panpan	until	other	other				
+nafsan	nmatu	0020	#	#	##	##				
+nafsan	nmatu	0020	go	and	other	other				
+nafsan	nmatu	0020	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0020	ki=	3S.PS=	=lv	=lv				
+nafsan	nmatu	0020	nrus	move	lv	lv				
+nafsan	nmatu	0020	nrogtesa-ki	feel.bad-TR	v:pred	v		pred		
+nafsan	nmatu	0020	-n	-3S.O	-pro:p	-pro		p		
+nafsan	nmatu	0020	#	#	##	##				
+nafsan	nmatu	0020	me	and	other	other				
+nafsan	nmatu	0020	ZERO	ZERO	0.h:s_ds	0	h	s_ds	602	
+nafsan	nmatu	0020	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0020	na	say	v:pred	v		pred		
+nafsan	nmatu	0020	#	#	#ds	#ds				
+nafsan	nmatu	0020	E	hey	other	other				
+nafsan	nmatu	0020	ZERO	ZERO	0.2:a	0	2	a	610	
+nafsan	nmatu	0020	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	nmatu	0020	freg	make:IR	v:pred	v		pred		
+nafsan	nmatu	0020	nafnag	food	np:p	np		p	618	
+nafsan	nmatu	0020	#	#	##	##				
+nafsan	nmatu	0020	ZERO	ZERO	0.1:s	0	1	s	620	bridging
+nafsan	nmatu	0020	tak=	1D.incIRS=	=lv	=lv				
+nafsan	nmatu	0020	fam	eat:IR	v:pred	v		pred		
+nafsan	nmatu	0020	#	#	##neg	##neg				
+nafsan	nmatu	0020	ag	2S.	pro.2:a	pro	2	a	610	
+nafsan	nmatu	0020	ku=	2S.RS=	=lv	=lv				
+nafsan	nmatu	0020	tap	NEG	lv	lv				
+nafsan	nmatu	0020	nrog	hear	v:pred	v		pred		
+nafsan	nmatu	0020	nale	voice	np:p	np		p	621	new
+nafsan	nmatu	0020	-k	-1S.DP	-rn_pro.1:poss	-rn_pro	1	poss	602	
+nafsan	nmatu	0020	#	#	##neg	##neg				
+nafsan	nmatu	0020	ZERO	ZERO	0.2:a	0	2	a	610	
+nafsan	nmatu	0020	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	nmatu	0020	ta	NEG	lv	lv				
+nafsan	nmatu	0020	freg	make:IR	v:pred	v		pred		
+nafsan	nmatu	0020	nafnag	food	np:p	np		p	618	
+nafsan	nmatu	0020	mau	NEG2	rv	rv				
+nafsan	nmatu	0021	#	#	##	##				
+nafsan	nmatu	0021	ZERO	ZERO	0.2:a	0	2	a	610	
+nafsan	nmatu	0021	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	nmatu	0021	leperkat-i	look_out-TS	v:pred	v		pred		
+nafsan	nmatu	0021	ZERO	ZERO	0:p	0		p		
+nafsan	nmatu	0021	#	#	##	##				
+nafsan	nmatu	0021	ZERO	ZERO	0.1:a	0	1	a	602	
+nafsan	nmatu	0021	ka=	1S.IRS=	=lv	=lv				
+nafsan	nmatu	0021	fo	PSP:IR	lv	lv				
+nafsan	nmatu	0021	wat-gi	hit-TR	v:pred	v		pred		
+nafsan	nmatu	0021	-k	-2S.O	-pro.2:p	-pro	2	p	610	
+nafsan	nmatu	0022	#	#	##	##				
+nafsan	nmatu	0022	ZERO	ZERO	0.2:a	0	2	a	610	
+nafsan	nmatu	0022	ku=	2S.RS=	=lv	=lv				
+nafsan	nmatu	0022	tae	know	v:pred	v		pred		
+nafsan	nmatu	0022	sup̃	fashion	np:p	np		p	622	new
+nafsan	nmatu	0022	ni	of	rn	rn				
+nafsan	nmatu	0022	teem̃ol	animal	rn_np:poss	rn_np		poss	623	new
+nafsan	nmatu	0022	#	#	##neg	##neg				
+nafsan	nmatu	0022	ZERO	ZERO	0.h:a	0	h	a	610	
+nafsan	nmatu	0022	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0022	tap	NEG	lv	lv				
+nafsan	nmatu	0022	tae	know	v:pred	v		pred		
+nafsan	nmatu	0022	nafte	what	np:p	np		p		
+nafsan	nmatu	0022	#	#	#rc_rn	#rc_rn				
+nafsan	nmatu	0022	kin	REL	other	other				
+nafsan	nmatu	0022	marik	husband	np.h:a	np	h	a	602	
+nafsan	nmatu	0022	nen	that	rn	rn				
+nafsan	nmatu	0022	i=	3S.RS=	=lv	=lv			610	
+nafsan	nmatu	0022	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	nmatu	0022	-n	-3S.O	-pro:p	-pro		p		
+nafsan	nmatu	0022	ki	PREP	adp	adp				
+nafsan	nmatu	0022	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	nmatu	0022	mau	NEG2	other	other				
+nafsan	nmatu	0023	#	#	##	##				
+nafsan	nmatu	0023	ZERO	ZERO	0:a	0		a	610	
+nafsan	nmatu	0023	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0023	preg	make	v:pred	v		pred		
+nafsan	nmatu	0023	namurien	desire	np:p	np		p	625	new
+nafsan	nmatu	0023	ga	3S.POS	rn_pro:poss	rn_pro		poss	610	
+nafsan	nmatu	0023	#	#	##	##				
+nafsan	nmatu	0023	ZERO	ZERO	0:a	0		a	610	
+nafsan	nmatu	0023	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0023	pregsa-ki	spoil-TR	v:pred	v		pred		
+nafsan	nmatu	0023	sernale	everything	np:p	np		p	619	
+nafsan	nmatu	0023	ni	of	rn	rn				
+nafsan	nmatu	0023	em̃rom	inside	rn_np:poss	rn_np		poss	616	
+nafsan	nmatu	0023	#	#	##	##				
+nafsan	nmatu	0023	go	and	other	other				
+nafsan	nmatu	0023	maarik	husband	np.h:a	np	h	a	602	
+nafsan	nmatu	0023	nen	that	rn	rn				
+nafsan	nmatu	0023	ki=	3S.PS=	=lv	=lv				
+nafsan	nmatu	0023	nrogtesa-ki	feel.bad-TR	v:pred	v		pred		
+nafsan	nmatu	0023	ZERO	ZERO	0:p	0		p		
+nafsan	nmatu	0023	#	#	##	##				
+nafsan	nmatu	0023	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0023	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0023	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	nmatu	0023	-n	-3S.O	-pro:p	-pro		p	610	
+nafsan	nmatu	0023	ki	PREP	adp	adp				
+nafsan	nmatu	0023	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	nmatu	0023	#	#	##	##				
+nafsan	nmatu	0023	ZERO	ZERO	0.h:s_ds	0	h	s_ds	602	
+nafsan	nmatu	0023	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0023	na	say	v:pred	v		pred		
+nafsan	nmatu	0024	#	#	#ds	#ds				
+nafsan	nmatu	0024	ZERO	ZERO	0.h:s	0	h	s	602	
+nafsan	nmatu	0024	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0024	f	CND	other	other				
+nafsan	nmatu	0024	wel	like	v:pred	v		pred		
+nafsan	nmatu	0024	#	#	#	#				
+nafsan	nmatu	0024	ZERO	ZERO	0.2:s	0	2	s	610	
+nafsan	nmatu	0024	ku=	2S.RS=	=lv	=lv				
+nafsan	nmatu	0024	f	CND	other	other				
+nafsan	nmatu	0024	to	PROG	lv	lv				
+nafsan	nmatu	0024	preg	make	v:pred	v		pred		
+nafsan	nmatu	0024	teflan	similar	rv	rv				
+nafsan	nmatu	0024	pan	go	other	other				
+nafsan	nmatu	0024	#	#	##	##				
+nafsan	nmatu	0024	ZERO	ZERO	0.1:a	0	1	a	602	
+nafsan	nmatu	0024	ka=	1S.IRS=	=lv	=lv				
+nafsan	nmatu	0024	fo	PSP:IR	lv	lv				
+nafsan	nmatu	0024	wat-gi	hit-TR	v:pred	v		pred		
+nafsan	nmatu	0024	-k	-2S.O	-pro.2:p	-pro	2	p	610	
+nafsan	nmatu	0024	tete	some	other	other				
+nafsan	nmatu	0024	nrak	time	np:other	np		other		
+nafsan	nmatu	0025	#	#	##	##				
+nafsan	nmatu	0025	go	and	other	other				
+nafsan	nmatu	0025	naliati	day	np:other	np		other	625	new
+nafsan	nmatu	0025	i=	3S.RS=	=rn	=rn				
+nafsan	nmatu	0025	skei	one	rn_np	rn_np				
+nafsan	nmatu	0025	ZERO	ZERO	0.h:s	0	h	s	602	
+nafsan	nmatu	0025	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0025	to	stay	v:pred	v		pred		
+nafsan	nmatu	0025	panpan	until	adp	adp				
+nafsan	nmatu	0025	#	#	##	##				
+nafsan	nmatu	0025	go	and	other	other				
+nafsan	nmatu	0025	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0025	ki=	3S.PS=	=lv	=lv				
+nafsan	nmatu	0025	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	nmatu	0025	-n	-3S.O	-pro:p	-pro		p		
+nafsan	nmatu	0025	#	#	#cc	#cc				
+nafsan	nmatu	0025	kin	COMP	other	other				
+nafsan	nmatu	0025	na	COMP	other	other				
+nafsan	nmatu	0025	ZERO	ZERO	0:a	0		a	610	
+nafsan	nmatu	0025	ke=	3S.IRS=	=lv	=lv				
+nafsan	nmatu	0025	freg	make:IR	v:pred	v		pred		
+nafsan	nmatu	0025	te-namatun	DET-thing	np:p	np		p	626	new
+nafsan	nmatu	0025	#	#	##	##				
+nafsan	nmatu	0025	ZERO	ZERO	0:a	0		a	610	
+nafsan	nmatu	0025	ke=	3S.IRS=	=lv	=lv				
+nafsan	nmatu	0025	freg	make:IRR	v:pred	v		pred		
+nafsan	nmatu	0025	pta-ki	make.good-TR	rv	rv				
+nafsan	nmatu	0025	em̃rom	inside	np:p	np		p	616	
+nafsan	nmatu	0026	#	#	##	##				
+nafsan	nmatu	0026	esan	place	np:other	np		other		
+nafsan	nmatu	0026	ZERO	ZERO	0.h:s	0	h	s	610	
+nafsan	nmatu	0026	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0026	swai	root	v:pred	v		pred		
+nafsan	nmatu	0026	#	#	##	##				
+nafsan	nmatu	0026	ZERO	ZERO	0.h:a	0	h	a	610	
+nafsan	nmatu	0026	ke=	3S.IRS=	=lv	=lv				
+nafsan	nmatu	0026	freg	make:IRR	v:pred	v		pred		
+nafsan	nmatu	0026	pta-ki	make.good-TR	rv	rv				
+nafsan	nmatu	0026	em̃rom	inside	np:p	np		p	616	
+nafsan	nmatu	0026	#	#	##	##				
+nafsan	nmatu	0026	ZERO	ZERO	0:a	0		a	610	
+nafsan	nmatu	0026	ke=	3S.IRS=	=lv	=lv				
+nafsan	nmatu	0026	freg	make:IR	v:pred	v		pred		
+nafsan	nmatu	0026	tete	some	ln	ln				
+nafsan	nmatu	0026	nafnag	food	np:p	np		p	618	
+nafsan	nmatu	0026	#	#	##	##				
+nafsan	nmatu	0026	ZERO	ZERO	0.h:a	0	h	a	610	
+nafsan	nmatu	0026	rak=	3D.IRS=	=lv	=lv				
+nafsan	nmatu	0026	fam-i	eat:IR-TS	v:pred	v		pred		
+nafsan	nmatu	0026	ZERO	ZERO	0:p	0		p	618	
+nafsan	nmatu	0026	#	#	##	##				
+nafsan	nmatu	0026	ZERO	ZERO	0:s	0		s	610	
+nafsan	nmatu	0026	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0026	mal	not_want	v:pred	v		pred		
+nafsan	nmatu	0027	#	#	##	##				
+nafsan	nmatu	0027	nlaken	because	other	other				
+nafsan	nmatu	0027	wak	pig	np:a	np		a	610	
+nafsan	nmatu	0027	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0027	kano	unable	lv	lv				
+nafsan	nmatu	0027	tae	know	v:pred	v		pred		
+nafsan	nmatu	0027	nafsan	language	np:p	np		p	627	new
+nafsan	nmatu	0027	nen	that	rn	rn				
+nafsan	nmatu	0027	#	#	#rc_rn	#rc_rn				
+nafsan	nmatu	0027	kin	REL	other	other				
+nafsan	nmatu	0027	akit	1P.IN.S	pro.1:a	pro	1	a	628	new
+nafsan	nmatu	0027	natam̃ol	person	np.h:appos	np	h	appos	629	new
+nafsan	nmatu	0027	tu=	1P.IN.RS=	=lv	=lv				
+nafsan	nmatu	0027	to	HABIT	lv	lv				
+nafsan	nmatu	0027	til-i	say-TS	v:pred	v		pred		
+nafsan	nmatu	0027	ZERO	ZERO	0:p	0		p		
+nafsan	nmatu	0028	#	#	##	##				
+nafsan	nmatu	0028	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0028	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0028	nrogtesa-ki	feel.bad-TR	v:pred	v		pred		
+nafsan	nmatu	0028	wak	pig	np:p	np		p	610	
+nafsan	nmatu	0028	nmatu	woman	rn_np	rn_np			611	
+nafsan	nmatu	0028	nen	that	rn	rn				
+nafsan	nmatu	0028	#	#	##	##				
+nafsan	nmatu	0028	go	and	other	other				
+nafsan	nmatu	0028	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0028	ki=	3S.PS=	=lv	=lv				
+nafsan	nmatu	0028	wat-gi	hit-TR	v:pred	v		pred		
+nafsan	nmatu	0028	ZERO	ZERO	0:p	0		p	610	
+nafsan	nmatu	0028	#	#	##	##				
+nafsan	nmatu	0028	ZERO	ZERO	0.h:a	0	h	a	602	
+nafsan	nmatu	0028	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0028	krakpun-i	kill-TS	v:pred	v		pred		
+nafsan	nmatu	0028	ZERO	ZERO	0:p	0		p	610	
+nafsan	nmatu	0029	#	#	##	##				
+nafsan	nmatu	0029	go	and	other	other				
+nafsan	nmatu	0029	ZERO	ZERO	0:s	0		s	630	new
+nafsan	nmatu	0029	i=	3S.RS=	=lv	=lv				
+nafsan	nmatu	0029	pi	be	cop	cop				
+nafsan	nmatu	0029	nametp̃ag	end	np:pred	np		pred	630	
+nafsan	nmatu	0029	na	DET	ln	ln				
+nafsan	nmatu	0029	natrauswen	story	np:obl	np		obl	601	
+nafsan	nmatu	0029	#	#	#rc_rn	#rc_rn				
+nafsan	nmatu	0029	nen	REL	other	other				
+nafsan	nmatu	0029	ZERO	ZERO	0.1:a	0	1	a		
+nafsan	nmatu	0029	a=	1S.RS=	=lv	=lv				
+nafsan	nmatu	0029	traus-i	tell-TS	v:pred	v		pred		
+nafsan	nmatu	0029	ZERO	ZERO	0:p	0		p	601	

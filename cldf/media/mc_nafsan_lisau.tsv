@@ -1,0 +1,431 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	lisau	0001	#	#	##	##				
+nafsan	lisau	0001	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0001	piatlak	have	v:predex	v		predex		
+nafsan	lisau	0001	Etasrik	p.name	np.d:s	np	d	s	301	new
+nafsan	lisau	0001	Ratison	p.name	rn_np	rn_np			302	new
+nafsan	lisau	0001	#	#	##	##				
+nafsan	lisau	0001	Etasrik	p.name	np.d:s	np	d	s	301	
+nafsan	lisau	0001	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0001	piatlak	have	v:predex	v		predex		
+nafsan	lisau	0001	mtulep	wife	np.h:p	np	h	p	303	new
+nafsan	lisau	0001	i=	3S.RS=	=rn	=rn				
+nafsan	lisau	0001	skei	one	rn_np	rn_np				
+nafsan	lisau	0001	#	#	##	##				
+nafsan	lisau	0001	ZERO	ZERO	0.h:s	0	h	s	303	
+nafsan	lisau	0001	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0001	tok	stay	v:pred	v		pred		
+nafsan	lisau	0001	-wes	-3S.OBL	-pro:l	-pro		l	301	
+nafsan	lisau	0002	#	#	##	##				
+nafsan	lisau	0002	ga	3S.	pro.d:s	pro	d	s	303	
+nafsan	lisau	0002	me	and	other	other				
+nafsan	lisau	0002	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0002	tok	stay	v:pred	v		pred		
+nafsan	lisau	0002	-wes	-3S.OBL	-pro:l	-pro		l	301	
+nafsan	lisau	0002	#	#	##	##				
+nafsan	lisau	0002	nagi-e	name-V	np:s	np		s	304	new
+nafsan	lisau	0002	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss	303	
+nafsan	lisau	0002	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0002	pi	be	cop	cop				
+nafsan	lisau	0002	Lisau	p.name	np:pred	np		pred	304	
+nafsan	lisau	0003	#	#	##	##				
+nafsan	lisau	0003	ga	3S.	pro.d:a	pro	d	a	303	
+nafsan	lisau	0003	me	and	other	other				
+nafsan	lisau	0003	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0003	to	HABIT	lv	lv				
+nafsan	lisau	0003	lekor	watch	v:pred	v		pred		
+nafsan	lisau	0003	ga	3S.	pro:p	pro		p		
+nafsan	lisau	0003	e-sa	LOC-here	np:l	np		l	301	
+nafsan	lisau	0004	#	#	##	##				
+nafsan	lisau	0004	ZERO	ZERO	0.d:s	0	d	s	305	bridging
+nafsan	lisau	0004	ru=	3P.RS=	=lv	=lv				
+nafsan	lisau	0004	pi	be	cop	cop				
+nafsan	lisau	0004	natopu	spirit	np.d:pred	np	d	pred	305	
+nafsan	lisau	0004	#	#	##	##				
+nafsan	lisau	0004	me	but	other	other				
+nafsan	lisau	0004	ZERO	ZERO	0.d:a	0	d	a	305	
+nafsan	lisau	0004	ru=	3P.RS=	=lv	=lv				
+nafsan	lisau	0004	tae	know	v:pred	v		pred		
+nafsan	lisau	0004	nam̃er	people	np.h:p	np	h	p	306	new
+nafsan	lisau	0004	#	#	##	##				
+nafsan	lisau	0004	ZERO	ZERO	0.d:a	0	d	a	305	
+nafsan	lisau	0004	ru=	3P.RS=	=lv	=lv				
+nafsan	lisau	0004	tae	know	v:pred	v		pred		
+nafsan	lisau	0004	natam̃ol	person	np.h:p	np	h	p	307	new
+nafsan	lisau	0004	ni	of	rn	rn				
+nafsan	lisau	0004	natokon	village	rn_np:poss	rn_np		poss	308	new
+nafsan	lisau	0004	#	#	##	##				
+nafsan	lisau	0004	ZERO	ZERO	0.d:a	0	d	a	305	
+nafsan	lisau	0004	lekor	watch	v:pred	v		pred		
+nafsan	lisau	0004	pta-ki	make.good-TR	rv	rv				
+nafsan	lisau	0004	natam̃ol	person	np.h:p	np	h	p	307	
+nafsan	lisau	0005	#	#	##	##				
+nafsan	lisau	0005	te-nen	DET-that	np.h:dt	np	h	dt	309	bridging
+nafsan	lisau	0005	#	#	#rc_rn	#rc_rn				
+nafsan	lisau	0005	kin	REL	other	other				
+nafsan	lisau	0005	ZERO	ZERO	f0.h:a	f0	h	a	309	
+nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0005	preg	make	v:pred	v		pred		
+nafsan	lisau	0005	te-namrun	DET-something	np:p	np		p	310	new
+nafsan	lisau	0005	%	%	#rc_rn	#rc_rn				
+nafsan	lisau	0005	ZERO	ZERO	f0.h:s	f0	h	s	309	
+nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0005	takel	crooked	v:pred	v		pred		
+nafsan	lisau	0005	#	#	%	%				
+nafsan	lisau	0005	ZERO	ZERO	0.h:a	0	h	a	307	
+nafsan	lisau	0005	ke=	3S.IRS=	=lv	=lv				
+nafsan	lisau	0005	fo	PSP.IR	lv	lv				
+nafsan	lisau	0005	pei-ki	lead-TR	v:pred	v		pred		
+nafsan	lisau	0005	-n	-3S.O	-pro.d:p	-pro	d	p	310	
+nafsan	lisau	0005	#	#	#cc	#cc				
+nafsan	lisau	0005	kin	COMP	other	other				
+nafsan	lisau	0005	tefla	similar	other	other				
+nafsan	lisau	0005	=n	=DST	=other	=other				
+nafsan	lisau	0005	kin	COMP	other	other				
+nafsan	lisau	0005	ZERO	ZERO	0.h:a	0	h	a	309	
+nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0005	tae	know	v:pred	v		pred		
+nafsan	lisau	0005	#	#	#cc:p	#cc		p		
+nafsan	lisau	0005	na	COMP	other	other				
+nafsan	lisau	0005	ZERO	ZERO	0.h:a	0	h	a	309	
+nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0005	preg	make	v:pred	v		pred		
+nafsan	lisau	0005	namrun	something	np:p	np		p	310	
+nafsan	lisau	0005	#	#	#rc_rn	#rc_rn				
+nafsan	lisau	0005	ZERO	ZERO	0:s	0		s	310	
+nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0005	takel	crooked	v:pred	v		pred		
+nafsan	lisau	0005	#	#	##	##				
+nafsan	lisau	0005	ZERO	ZERO	0.d:a	0	d	a	305	
+nafsan	lisau	0005	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0005	pei-ki	show-TR	v:pred	v		pred		
+nafsan	lisau	0005	-n	-3S.O	-pro.d:p	-pro	d	p	303	
+nafsan	lisau	0005	ki	PREP	adp	adp				
+nafsan	lisau	0005	ZERO	ZERO	0:obl	0		obl		
+nafsan	lisau	0006	#	#	##	##				
+nafsan	lisau	0006	go	and	other	other				
+nafsan	lisau	0006	natam̃ol	person	np.h:a	np	h	a	311	bridging
+nafsan	lisau	0006	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0006	to	PROG	lv	lv				
+nafsan	lisau	0006	mrotae	recognise	v:pred	v		pred		
+nafsan	lisau	0006	#	#	#cc.neg:p	#cc.neg		p		
+nafsan	lisau	0006	na	COMP	other	other				
+nafsan	lisau	0006	te-nen	DET-that	np:s	np		s		
+nafsan	lisau	0006	#	#	#rc_rn	#rc_rn				
+nafsan	lisau	0006	kin	REL	other	other				
+nafsan	lisau	0006	ZERO	ZERO	0.h:a	0	h	a	311	
+nafsan	lisau	0006	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0006	preg-i	make-TS	v:pred	v		pred		
+nafsan	lisau	0006	ZERO	ZERO	0:p	0		p		
+nafsan	lisau	0006	%	%	%	%				
+nafsan	lisau	0006	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0006	ta	not	other	other				
+nafsan	lisau	0006	wi	good	v:pred	v		pred		
+nafsan	lisau	0006	mau	NEG2	other	other				
+nafsan	lisau	0007	[AUD]	[AUD]	[AUD]	[AUD]				
+nafsan	lisau	0007	#	#	#nc	#nc				
+nafsan	lisau	0007	me	but	nc	nc				
+nafsan	lisau	0007	i=	3S.RS=	nc	nc				
+nafsan	lisau	0007	piatlak	have	nc	nc				
+nafsan	lisau	0007	natam̃ol	person	nc_np.h	nc_np	h		306	
+nafsan	lisau	0007	#	#	#nc	#nc				
+nafsan	lisau	0007	nen	REL	nc	nc				
+nafsan	lisau	0007	ZERO	ZERO	nc_0.h	nc_0	h		306	
+nafsan	lisau	0007	ru=	3P.RS=	nc	nc				
+nafsan	lisau	0007	tup-e	give-TS	nc	nc				
+nafsan	lisau	0007	-r	-3P.O	-nc_pro.d	-nc_pro	d		305	
+nafsan	lisau	0007	tete	some	nc	nc				
+nafsan	lisau	0007	nanromien	present	nc_np	nc_np			312	new
+nafsan	lisau	0008	#	#	#nc	#nc				
+nafsan	lisau	0008	ore	yes	nc	nc				
+nafsan	lisau	0008	ore	yes	nc	nc				
+nafsan	lisau	0008	wel	like	nc	nc				
+nafsan	lisau	0008	na-mro-an	NR-think-NR	nc	nc				
+nafsan	lisau	0008	sa	bad	nc	nc				
+nafsan	lisau	0008	ni	of	nc	nc				
+nafsan	lisau	0008	natam̃ol	person	nc	nc				
+nafsan	lisau	0008	natam̃ol	person	nc	nc				
+nafsan	lisau	0008	#	#	##	##				
+nafsan	lisau	0008	ZERO	ZERO	0.h:a	0	h	a	311	
+nafsan	lisau	0008	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0008	mro.sa-ki	think.bad-TR	v:pred	v		pred		
+nafsan	lisau	0008	tete	some	ln	ln				
+nafsan	lisau	0008	natam̃ol	person	np.h:p	np	h	p	313	bridging
+nafsan	lisau	0008	#	#	##	##				
+nafsan	lisau	0008	ZERO	ZERO	0.h:a	0	h	a	311	
+nafsan	lisau	0008	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0008	mro.sa-ki	think.bad-TR	v:pred	v		pred		
+nafsan	lisau	0008	tete	some	ln	ln				
+nafsan	lisau	0008	asel-e	friend-V	np.h:p	np	h	p	314	bridging
+nafsan	lisau	0008	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss	311	
+nafsan	lisau	0009	#	#	##	##				
+nafsan	lisau	0009	ZERO	ZERO	0.h:a	0	h	a	311	
+nafsan	lisau	0009	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0009	sel	take	v:pred	v		pred		
+nafsan	lisau	0009	tete	some	ln	ln				
+nafsan	lisau	0009	nanromien	present	np:p	np		p	312	
+nafsan	lisau	0009	#	#	##	##				
+nafsan	lisau	0009	ZERO	ZERO	0.h:a	0	h	a	311	
+nafsan	lisau	0009	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0009	pan	go	lv	lv				
+nafsan	lisau	0009	tu-a	give-TS	v:pred	v		pred		
+nafsan	lisau	0009	ZERO	ZERO	0.d:p	0	d	p	303	
+nafsan	lisau	0009	ki	PREP	adp	adp				
+nafsan	lisau	0009	ZERO	ZERO	0:obl	0		obl	312	
+nafsan	lisau	0009	#	#	##	##				
+nafsan	lisau	0009	ZERO	ZERO	0.h:s_ds	0	h	s_ds	311	
+nafsan	lisau	0009	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0009	na	say	v:pred	v		pred		
+nafsan	lisau	0009	#	#	#ds	#ds				
+nafsan	lisau	0009	p̃a=	HES	nc	nc				
+nafsan	lisau	0009	fo	HES	nc	nc				
+nafsan	lisau	0009	neu	HES	nc	nc				
+nafsan	lisau	0009	ZERO	ZERO	0.2:a	0	2	a	303	
+nafsan	lisau	0009	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	lisau	0009	fo	PSP:IR	lv	lv				
+nafsan	lisau	0009	neu	1S.BEN	lv_pro.1:obl	lv_pro	1	obl		
+nafsan	lisau	0009	wat-gi	hit-TR	v:pred	v		pred		
+nafsan	lisau	0009	ZERO	3S.O	0.h:p	0	h	p	313	
+nafsan	lisau	0010	#	#	##	##				
+nafsan	lisau	0010	ZERO	ZERO	0.h:a	0	h	a	303	
+nafsan	lisau	0010	ke=	3S.IRS=	=lv	=lv				
+nafsan	lisau	0010	fo	PSP:IR	lv	lv				
+nafsan	lisau	0010	preg-i	make-TS	v:pred	v		pred		
+nafsan	lisau	0010	ZERO	ZERO	0:p	0		p		
+nafsan	lisau	0010	#	#	#ac	#ac				
+nafsan	lisau	0010	taosikin	HES	nc	nc				
+nafsan	lisau	0010	taosi	like	other	other				
+nafsan	lisau	0010	kin	SUB	other	other				
+nafsan	lisau	0010	natam̃ol	person	np.h:a	np	h	a	311	
+nafsan	lisau	0010	nen	that	rn	rn				
+nafsan	lisau	0010	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0010	slat	take	v:pred	v		pred		
+nafsan	lisau	0010	nanromien	present	np:p	np		p	312	
+nafsan	lisau	0010	#	#	##	##				
+nafsan	lisau	0010	ZERO	ZERO	0.h:a	0	h	a	311	
+nafsan	lisau	0010	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0010	pan	go	lv	lv				
+nafsan	lisau	0010	tu-a	give-TS	v:pred	v		pred		
+nafsan	lisau	0010	ZERO	ZERO	0.d:p	0	d	p	303	
+nafsan	lisau	0010	ki	PREP	adp	adp				
+nafsan	lisau	0010	ZERO	ZERO	0:obl	0		obl		
+nafsan	lisau	0011	#	#	##	##				
+nafsan	lisau	0011	malnen	as	other	other				
+nafsan	lisau	0011	kin	SUB	other	other				
+nafsan	lisau	0011	natam̃ol	person	np.h:s	np	h	s	311	
+nafsan	lisau	0011	kaaru	other	rn	rn				
+nafsan	lisau	0011	nen	that	rn	rn				
+nafsan	lisau	0011	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0011	fla	COND	lv	lv				
+nafsan	lisau	0011	tu	stay	v:pred	v		pred		
+nafsan	lisau	0011	msak	sick	rv	rv				
+nafsan	lisau	0011	#	#	#ac	#ac				
+nafsan	lisau	0011	nlaken	because	other	other				
+nafsan	lisau	0011	kin	SUB	other	other				
+nafsan	lisau	0011	te-kaaru	DET-other	np.h:a	np	h	a	315	bridging
+nafsan	lisau	0011	ki=	3S.PS=	=lv	=lv				
+nafsan	lisau	0011	pe	PF	lv	lv				
+nafsan	lisau	0011	pan	go	lv	lv				
+nafsan	lisau	0011	tu	give	v:pred	v		pred		
+nafsan	lisau	0011	natopu	spirit	np.d:p	np	d	p	303	
+nafsan	lisau	0011	ki	PREP	adp	adp				
+nafsan	lisau	0011	ZERO	ZERO	0:obl	0		obl		
+nafsan	lisau	0012	#	#	##	##				
+nafsan	lisau	0012	ZERO	ZERO	0.h:s	0	h	s	311	
+nafsan	lisau	0012	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0012	fla	CND	lv	lv				
+nafsan	lisau	0012	tu	stay	v:pred	v		pred		
+nafsan	lisau	0012	msak	sick	rv	rv				
+nafsan	lisau	0012	panpan	PREP	other	other				
+nafsan	lisau	0012	#	#	##	##				
+nafsan	lisau	0012	ale	okay	nc	nc				
+nafsan	lisau	0012	ZERO	ZERO	0.h:a	0	h	a	311	
+nafsan	lisau	0012	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0012	lel	look	v:pred	v		pred		
+nafsan	lisau	0012	na	ART	ln	ln				
+nafsan	lisau	0012	tete	some	ln	ln				
+nafsan	lisau	0012	munwei	healer	np.h:p	np	h	p	316	new
+nafsan	lisau	0012	#	#	#rc_rn	#rc_rn				
+nafsan	lisau	0012	nen	REL	other	other				
+nafsan	lisau	0012	ZERO	ZERO	0.h:a	0	h	a	316	
+nafsan	lisau	0012	ke=	3S.IRS=	=lv	=lv				
+nafsan	lisau	0012	tae	know	lv	lv				
+nafsan	lisau	0012	ga	3S.BEN	lv_pro.h:g	lv_pro	h	g		
+nafsan	lisau	0012	pam̃or	find	v:pred	v		pred		
+nafsan	lisau	0012	nlak	trunk	np:p	np		p	317	new
+nafsan	lisau	0012	namsaki	sickness	rn_np	rn_np			318	new
+nafsan	lisau	0012	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	311	
+nafsan	lisau	0013	#	#	##	##				
+nafsan	lisau	0013	pan	until	other	other				
+nafsan	lisau	0013	ZERO	ZERO	0.h:a	0	h	a	316	
+nafsan	lisau	0013	ke=	3S.IRS=	=lv	=lv				
+nafsan	lisau	0013	fo	PSP:IR	lv	lv				
+nafsan	lisau	0013	til-i	say-TS	v:pred	v		pred		
+nafsan	lisau	0013	ZERO	ZERO	0.h:p	0	h	p	311	
+nafsan	lisau	0013	#	#	#ds	#ds				
+nafsan	lisau	0013	na	SUB	other	other				
+nafsan	lisau	0013	ZERO	ZERO	0.h:a	0	h	a	316	
+nafsan	lisau	0013	ke=	3S.IRS=	=lv	=lv				
+nafsan	lisau	0013	fo	PSP:IR	lv	lv				
+nafsan	lisau	0013	tae	know	lv	lv				
+nafsan	lisau	0013	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	lisau	0013	-n	-3S.O	-pro.h:p	-pro	h	p	311	
+nafsan	lisau	0013	ki	PREP	adp	adp				
+nafsan	lisau	0013	ZERO	ZERO	0:obl	0		obl		
+nafsan	lisau	0013	#	#	##	##				
+nafsan	lisau	0013	ZERO	ZERO	0.h:s_ds	0	h	s_ds	316	
+nafsan	lisau	0013	na	say	v:pred	v		pred		
+nafsan	lisau	0013	#	#	#ds	#ds				
+nafsan	lisau	0013	ga	3S.	pro.h:s	pro	h	s	315	
+nafsan	lisau	0013	#	#	#rc:pred	#rc		pred		
+nafsan	lisau	0013	kin	REL	other	other				
+nafsan	lisau	0013	ZERO	ZERO	0.h:a	0	h	a	315	
+nafsan	lisau	0013	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0013	tu	give	v:pred	v		pred		
+nafsan	lisau	0013	natopu	spirit	np.d:p	np	d	p	303	
+nafsan	lisau	0013	ki	PREP	adp	adp				
+nafsan	lisau	0013	-k	-2S.O	-pro.2:obl	-pro	2	obl	312	
+nafsan	lisau	0014	#	#	##	##				
+nafsan	lisau	0014	go	and	other	other				
+nafsan	lisau	0014	ga	3S.	pro.h:a	pro	h	a	316	
+nafsan	lisau	0014	ke=	3S.IRS=	=lv	=lv				
+nafsan	lisau	0014	fo	PSP:IR	lv	lv				
+nafsan	lisau	0014	mer	again	lv	lv				
+nafsan	lisau	0014	tae	know	lv	lv				
+nafsan	lisau	0014	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	lisau	0014	-n	-3S.O	-pro.h:p	-pro	h	p	311	
+nafsan	lisau	0014	ki	PREP	adp	adp				
+nafsan	lisau	0014	#	#	#ds	#ds				
+nafsan	lisau	0014	na	SUB	other	other				
+nafsan	lisau	0014	ZERO	ZERO	0.2:a	0	2	a	311	
+nafsan	lisau	0014	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	lisau	0014	mer	again	lv	lv				
+nafsan	lisau	0014	slat	take	v:pred	v		pred		
+nafsan	lisau	0014	tete	some	ln	ln				
+nafsan	lisau	0014	nanromien	present	np:p	np		p	312	
+nafsan	lisau	0014	#	#	##ds	##ds				
+nafsan	lisau	0014	ZERO	ZERO	0.2:s	0	2	s	311	
+nafsan	lisau	0014	mai	come	lv	lv				
+nafsan	lisau	0014	tao	give.me	v:pred	v		pred		
+nafsan	lisau	0014	ki	PREP	adp	adp				
+nafsan	lisau	0014	-n	-3S.O	-pro:obl	-pro		obl	312	
+nafsan	lisau	0014	#	#	##ds	##ds				
+nafsan	lisau	0014	me	and	other	other				
+nafsan	lisau	0014	kineu	1S.	pro.1:s	pro	1	s	316	
+nafsan	lisau	0014	ka=	1S.IRS=	=lv	=lv				
+nafsan	lisau	0014	fo	PSP:IR	lv	lv				
+nafsan	lisau	0014	pan	go	lv	lv				
+nafsan	lisau	0014	ga	3S.BEN	lv_pro.h:obl	lv_pro	h	obl	303	
+nafsan	lisau	0014	pus-i	put-TS	v:pred	v		pred		
+nafsan	lisau	0014	ZERO	ZERO	0:p	0		p	312	
+nafsan	lisau	0014	#	#	##ds	##ds				
+nafsan	lisau	0014	me	but	other	other				
+nafsan	lisau	0014	ZERO	ZERO	0.1:a	0	1	a	316	
+nafsan	lisau	0014	ka=	1S.IRS=	=lv	=lv				
+nafsan	lisau	0014	fo	PSP:IR	lv	lv				
+nafsan	lisau	0014	plak-e	with-V	v:pred	v		pred		
+nafsan	lisau	0014	-k	-2S.O	-pro.2:p	-pro	2	p	311	
+nafsan	lisau	0014	ler	return	rv	rv				
+nafsan	lisau	0015	#	#	##	##				
+nafsan	lisau	0015	tefla	like.that	other	other				
+nafsan	lisau	0015	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0015	piatlak	have	v:predex	v		predex		
+nafsan	lisau	0015	tete	some	ln	ln				
+nafsan	lisau	0015	natam̃ol	person	np.h:s	np	h	s	306	
+nafsan	lisau	0015	nen	that	rn	rn				
+nafsan	lisau	0015	#	#	#rc_rn	#rc_rn				
+nafsan	lisau	0015	kin	REL	other	other				
+nafsan	lisau	0015	namroan	thinking	np:s	np		s	319	new
+nafsan	lisau	0015	gar	3P.POS	rn_pro.h:poss	rn_pro	h	poss	306	
+nafsan	lisau	0015	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0015	takel	crooked	v:pred	v		pred		
+nafsan	lisau	0015	#	#	##	##				
+nafsan	lisau	0015	ZERO	ZERO	0:s	0		s	319	
+nafsan	lisau	0015	ru=	3P.RS=	=lv	=lv				
+nafsan	lisau	0015	to	stay	v:pred	v		pred		
+nafsan	lisau	0016	#	#	##neg	##neg				
+nafsan	lisau	0016	me	but	other	other				
+nafsan	lisau	0016	ZERO	ZERO	0:s	0		s	320	new
+nafsan	lisau	0016	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0016	ta	not	other	other				
+nafsan	lisau	0016	pi	be	cop	cop				
+nafsan	lisau	0016	sup̃	fashion	np:pred	np		pred	320	
+nafsan	lisau	0016	wi	good	rn	rn				
+nafsan	lisau	0016	mau	NEG2	other	other				
+nafsan	lisau	0016	#	#	##	##				
+nafsan	lisau	0016	ZERO	ZERO	0:s	0		s	320	
+nafsan	lisau	0016	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0016	pi	be	cop	cop				
+nafsan	lisau	0016	sup̃	fashion	np:pred	np		pred	320	
+nafsan	lisau	0016	sa	bad	rn	rn				
+nafsan	lisau	0017	#	#	#nc	#nc				
+nafsan	lisau	0017	me	but	nc	nc				
+nafsan	lisau	0017	natopu	spirit	nc_np.d	nc_np	d		303	
+nafsan	lisau	0017	i=	3S.RS=	nc	nc				
+nafsan	lisau	0017	pi	be	nc	nc				
+nafsan	lisau	0017	natopu	spirit	nc_np.d	nc_np	d		303	
+nafsan	lisau	0017	sa	bad	nc	nc				
+nafsan	lisau	0017	#	#	#nc	#nc				
+nafsan	lisau	0017	ko	or	nc	nc				
+nafsan	lisau	0017	ZERO	ZERO	nc_0.d	nc_0	d		303	
+nafsan	lisau	0017	i=	3S.RS=	nc	nc				
+nafsan	lisau	0017	wi	good	nc	nc				
+nafsan	lisau	0018	#	#	##	##				
+nafsan	lisau	0018	ZERO	ZERO	0.d:s	0	d	s	303	
+nafsan	lisau	0018	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0018	wi	good	v:pred	v		pred		
+nafsan	lisau	0018	#	#	##	##				
+nafsan	lisau	0018	ZERO	ZERO	0.d:s	0	d	s	303	
+nafsan	lisau	0018	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0018	nrom	love	v:pred	v		pred		
+nafsan	lisau	0018	#	#	##	##				
+nafsan	lisau	0018	ZERO	ZERO	0.d:a	0	d	a	303	
+nafsan	lisau	0018	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0018	nrom	love	v:pred	v		pred		
+nafsan	lisau	0018	ser	every	ln	ln				
+nafsan	lisau	0018	natam̃ol	person	np.h:p	np	h	p	307	
+nafsan	lisau	0018	#	#	#ac	#ac				
+nafsan	lisau	0018	me	but	other	other				
+nafsan	lisau	0018	malnen	as	other	other				
+nafsan	lisau	0018	kin	SUB	other	other				
+nafsan	lisau	0018	naat	person	np.h:a	np	h	a	313	
+nafsan	lisau	0018	i=	3S.RS=	=rn	=rn				
+nafsan	lisau	0018	skei	one	rn_np	rn_np				
+nafsan	lisau	0018	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0018	maet-ki	angry-TR	v:pred	v		pred		
+nafsan	lisau	0018	asel-e	friend-V	np.h:p	np	h	p	314	
+nafsan	lisau	0018	-n	-3S.DP	-rn_pro.h:poss	-rn_pro	h	poss	313	
+nafsan	lisau	0018	#	#	##	##				
+nafsan	lisau	0018	me	and	other	other				
+nafsan	lisau	0018	ZERO	ZERO	0.h:a	0	h	a	313	
+nafsan	lisau	0018	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0018	pan	go	lv	lv				
+nafsan	lisau	0018	tu-a	give-TS	v:pred	v		pred		
+nafsan	lisau	0018	tete	some	ln	ln				
+nafsan	lisau	0018	nanromien	present	np:p	np		p	312	
+nafsan	lisau	0018	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	313	
+nafsan	lisau	0018	#	#	##	##				
+nafsan	lisau	0018	ZERO	ZERO	0.d:a	0	d	a	303	
+nafsan	lisau	0018	ke=	3S.IRS=	=lv	=lv				
+nafsan	lisau	0018	fo	PSP:IR	lv	lv				
+nafsan	lisau	0018	preg-i	make-TS	v:pred	v		pred		
+nafsan	lisau	0019	taos-i	follow	rv	rv				
+nafsan	lisau	0019	kin	COMP	nc	nc				
+nafsan	lisau	0019	nanromien	present	np:p	np		p	312	
+nafsan	lisau	0019	#	#	#rc_rn	#rc_rn				
+nafsan	lisau	0019	nen	REL	other	other				
+nafsan	lisau	0019	ZERO	ZERO	0.h:a	0	h	a	321	bridging
+nafsan	lisau	0019	ru=	3P.RS=	=lv	=lv				
+nafsan	lisau	0019	pan	go	lv	lv				
+nafsan	lisau	0019	tu-a	give-TS	v:pred	v		pred		
+nafsan	lisau	0019	ZERO	ZERO	0.d:p	0	d	p	303	
+nafsan	lisau	0019	ki	PREP	adp	adp				
+nafsan	lisau	0019	-n	-3S.O	-pro:obl	-pro		obl	312	
+nafsan	lisau	0020	#	#	##	##				
+nafsan	lisau	0020	ZERO	ZERO	0:s	0		s		
+nafsan	lisau	0020	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0020	tefla	like.that	other:pred	other		pred		
+nafsan	lisau	0020	#	#	##	##				
+nafsan	lisau	0020	natopu	spirit	np.d:s	np	d	s	303	
+nafsan	lisau	0020	i=	3S.RS=	=lv	=lv				
+nafsan	lisau	0020	tefla	like.that	other:pred	other		pred		

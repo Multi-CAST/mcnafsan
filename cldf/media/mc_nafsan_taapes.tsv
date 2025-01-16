@@ -1,0 +1,431 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	taapes	0001	#	#	##	##				
+nafsan	taapes	0001	too	fowl	ln_np.d	ln_np	d		801	new
+nafsan	taapes	0001	go	and	ln	ln				
+nafsan	taapes	0001	taap̃es	swamphen	np.d:a	np	d	a	802	new
+nafsan	taapes	0001	ra=	3D.RS=	nc	nc				
+nafsan	taapes	0001	piatlak	have	nc	nc				
+nafsan	taapes	0001	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0001	tme	RECP	lv	lv				
+nafsan	taapes	0001	-r	-3P.DP	-rn_pro.d:poss	-rn_pro	d	poss		
+nafsan	taapes	0001	pi-asel-ki	be.friend-TR	v:pred	v		pred		
+nafsan	taapes	0001	-r	-3P.O	-pro.d:p	-pro	d	p	803	bridging
+nafsan	taapes	0001	#	#	##	##				
+nafsan	taapes	0001	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0001	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0001	to	stay	lv	lv				
+nafsan	taapes	0001	ur	along	v:pred	v		pred		
+nafsan	taapes	0001	naor	place	np:l	np		l		
+nafsan	taapes	0001	i=	3S.RS=	=rn	=rn				
+nafsan	taapes	0001	skei	one	rn_np	rn_np				
+nafsan	taapes	0002	#	#	##	##				
+nafsan	taapes	0002	me	and	other	other				
+nafsan	taapes	0002	nrak	time	np:other	np		other	804	new
+nafsan	taapes	0002	i=	3S.RS=	=rn	=rn				
+nafsan	taapes	0002	skei	one	rn_np	rn_np				
+nafsan	taapes	0002	go	and	other	other				
+nafsan	taapes	0002	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0002	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0002	til-i	say-TS	v:pred	v		pred		
+nafsan	taapes	0002	#	#	#cc	#cc				
+nafsan	taapes	0002	na	SUB	other	other				
+nafsan	taapes	0002	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0002	rak=	3D.IRS=	=lv	=lv				
+nafsan	taapes	0002	fan	go.IR	lv	lv				
+nafsan	taapes	0002	los	swim	v:pred	v		pred		
+nafsan	taapes	0003	#	#	##	##				
+nafsan	taapes	0003	kotfan	afternoon	np:other	np		other	804	
+nafsan	taapes	0003	nrak	time	rn_np	rn_np				
+nafsan	taapes	0003	i=	3S.RS=	=rn	=rn				
+nafsan	taapes	0003	skei	one	rn_np	rn_np				
+nafsan	taapes	0003	go	and	other	other				
+nafsan	taapes	0003	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0003	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0003	til-i	say-TS	v:pred	v		pred		
+nafsan	taapes	0003	#	#	#cc	#cc				
+nafsan	taapes	0003	na	SUB	other	other				
+nafsan	taapes	0003	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0003	rak=	3D.IRS=	=lv	=lv				
+nafsan	taapes	0003	fan	go.IR	lv	lv				
+nafsan	taapes	0003	los	swim	v:pred	v		pred		
+nafsan	taapes	0003	elau	sea	np:l	np		l	805	unused
+nafsan	taapes	0004	#	#	##	##				
+nafsan	taapes	0004	ale	okay	nc	nc				
+nafsan	taapes	0004	ZERO	ZERO	0.d:a	0	d	a	803	
+nafsan	taapes	0004	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0004	na	want	v:pred	v		pred		
+nafsan	taapes	0004	#	#	#cc:p	#cc		p		
+nafsan	taapes	0004	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0004	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0004	to	stay	v:pred	v		pred		
+nafsan	taapes	0004	#	#	#	#				
+nafsan	taapes	0004	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0004	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0004	pan	go	lv	lv				
+nafsan	taapes	0004	los	wash	v:pred	v		pred		
+nafsan	taapes	0004	elau	sea	np:l	np		l	805	
+nafsan	taapes	0005	#	#	##	##				
+nafsan	taapes	0005	me	but	other	other				
+nafsan	taapes	0005	nlaken	because	other	other				
+nafsan	taapes	0005	nser	comb	nc	nc				
+nafsan	taapes	0005	ne	this	nc	nc				
+nafsan	taapes	0005	nser	comb	np:dt_p	np		dt_p	806	new
+nafsan	taapes	0005	nen	that	rn	rn				
+nafsan	taapes	0005	too	fowl	np:a	np		a	801	
+nafsan	taapes	0005	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0005	suun	carry_on_head	v:pred	v		pred		
+nafsan	taapes	0005	to	stay	rv	rv				
+nafsan	taapes	0005	ZERO	ZERO	0:p	0		p	806	
+nafsan	taapes	0005	wanki	EXCL	nc	nc				
+nafsan	taapes	0006	#	#	##	##				
+nafsan	taapes	0006	ga	3S	pro:s	pro		s	806	
+nafsan	taapes	0006	te-ni	DET-of	rn	rn				
+nafsan	taapes	0006	taap̃es	swamphen	rn_np:poss	rn_np		poss	802	
+nafsan	taapes	0006	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0006	pi	be	cop	cop				
+nafsan	taapes	0006	nser	comb	np:pred	np		pred	806	
+nafsan	taapes	0006	ni	of	rn	rn				
+nafsan	taapes	0006	taap̃es	swamphen	rn_np:poss	rn_np		poss	802	
+nafsan	taapes	0006	#	#	##	##				
+nafsan	taapes	0006	te-ne	DET-this	np:s	np		s	806	
+nafsan	taapes	0006	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0006	pi	be	cop	cop				
+nafsan	taapes	0006	te-ni	DET-of	dem_pro:pred	dem_pro		pred		
+nafsan	taapes	0006	taap̃es	swamphen	rn_np:poss	rn_np		poss	802	
+nafsan	taapes	0007	#	#	##	##				
+nafsan	taapes	0007	me	but	other	other				
+nafsan	taapes	0007	te-ne	DET-this	np:s	np		s	806	
+nafsan	taapes	0007	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0007	pi	be	cop	cop				
+nafsan	taapes	0007	te-ni	DET-of	dem_pro:pred	dem_pro		pred		
+nafsan	taapes	0007	too	chicken	rn_np:poss	rn_np		poss	801	
+nafsan	taapes	0007	gawanki	that's_it	nc	nc				
+nafsan	taapes	0007	#	#	##	##				
+nafsan	taapes	0007	ale	okay	other	other				
+nafsan	taapes	0007	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0007	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0007	to	stay	v:pred	v		pred		
+nafsan	taapes	0007	#	#	##	##				
+nafsan	taapes	0007	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0007	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0007	pan	go	lv	lv				
+nafsan	taapes	0007	los	wash	v:pred	v		pred		
+nafsan	taapes	0007	elau	sea	np:l	np		l	805	
+nafsan	taapes	0008	#	#	##	##				
+nafsan	taapes	0008	me	and	other	other				
+nafsan	taapes	0008	nlaken	because	other	other				
+nafsan	taapes	0008	too	chicken	np.d:a	np	d	a	801	
+nafsan	taapes	0008	ki=	3S.PS=	=lv	=lv				
+nafsan	taapes	0008	pe	PF	lv	lv				
+nafsan	taapes	0008	lewi-ki	admire-TR	v:pred	v		pred		
+nafsan	taapes	0008	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0008	ni	of	rn	rn				
+nafsan	taapes	0008	taap̃es	swamphen	rn_np:poss	rn_np		poss	802	
+nafsan	taapes	0009	#	#	##	##				
+nafsan	taapes	0009	malnen	then	other	other				
+nafsan	taapes	0009	ZERO	ZERO	0.d:s	0	d	s	803	
+nafsan	taapes	0009	ra=	3D.RS=	=lv	=lv				
+nafsan	taapes	0009	pato	be_at	lv	lv				
+nafsan	taapes	0009	los	wash	v:pred	v		pred		
+nafsan	taapes	0009	pan	go	other	other				
+nafsan	taapes	0009	#	#	##	##				
+nafsan	taapes	0009	go	and	other	other				
+nafsan	taapes	0009	too	chicken	np.d:a	np	d	a	801	
+nafsan	taapes	0009	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0009	nrik	tell	v:pred	v		pred		
+nafsan	taapes	0009	taap̃es	swamphen	np:p	np		p	802	
+nafsan	taapes	0009	ki	PREP	adp	adp				
+nafsan	taapes	0009	#	#	#ds	#ds				
+nafsan	taapes	0009	na	SUB	other	other				
+nafsan	taapes	0009	ag	2S.	pro.2:s	pro	2	s	802	
+nafsan	taapes	0009	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	taapes	0009	fei	first:IR	lv	lv				
+nafsan	taapes	0009	to	stay	v:pred	v		pred		
+nafsan	taapes	0009	#	#	##ds	##ds				
+nafsan	taapes	0009	me	and	other	other				
+nafsan	taapes	0009	kineu	1S.	pro.1:s	pro	1	s	801	
+nafsan	taapes	0009	ka=	1S.IRS=	=lv	=lv				
+nafsan	taapes	0009	fei	first:IR	lv	lv				
+nafsan	taapes	0009	sak	come.ashore	v:pred	v		pred		
+nafsan	taapes	0010	#	#	##	##				
+nafsan	taapes	0010	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0010	na	want	v:pred	v		pred		
+nafsan	taapes	0010	#	#	#cc:p	#cc		p		
+nafsan	taapes	0010	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0010	pa	go	v:pred	v		pred		
+nafsan	taapes	0010	#	#	#ac	#ac				
+nafsan	taapes	0010	na	PURP	other	other				
+nafsan	taapes	0010	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0010	kal-ki	dress-TR	v:pred	v		pred		
+nafsan	taapes	0010	nkal	cloth	np:p	np		p	807	
+nafsan	taapes	0010	ga	3S.POS	rn_pro:poss	rn_pro		poss	801	
+nafsan	taapes	0010	#	#	##	##				
+nafsan	taapes	0010	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0010	nom	finish	v:pred	v		pred		
+nafsan	taapes	0010	#	#	##	##				
+nafsan	taapes	0010	me	but	other	other				
+nafsan	taapes	0010	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0010	mailum	quiet	lv	lv				
+nafsan	taapes	0010	pnak-lu	steal-completely	v:pred	v		pred		
+nafsan	taapes	0010	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0010	ni	of	rn	rn				
+nafsan	taapes	0010	taap̃es	swamphen	rn_np:poss	rn_np		poss	802	
+nafsan	taapes	0010	#	#	##	##				
+nafsan	taapes	0010	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0010	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0010	pas-ki	push-TR	v:pred	v		pred		
+nafsan	taapes	0010	-n	-3S.O	-pro:p	-pro		p	806	
+nafsan	taapes	0010	np̃au	head	np:g	np		g	808	
+nafsan	taapes	0010	-n	-3S.DP	-rn_pro:poss	-rn_pro		poss	801	
+nafsan	taapes	0011	#	#	##	##				
+nafsan	taapes	0011	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0011	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0011	sef	escape	v:pred	v		pred		
+nafsan	taapes	0011	#	#	##	##				
+nafsan	taapes	0011	ZERO	ZERO	es_f0.d:s	es_f0	d	s	801	
+nafsan	taapes	0011	kai=	ES=	=lv	=lv				
+nafsan	taapes	0011	pa	go	v:pred	v		pred		
+nafsan	taapes	0011	#	#	##	##				
+nafsan	taapes	0011	me	and	other	other				
+nafsan	taapes	0011	taap̃es	swamphen	np.d:s	np	d	s	802	
+nafsan	taapes	0011	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0011	pen	there	other	other				
+nafsan	taapes	0011	los	swim	v:pred	v		pred		
+nafsan	taapes	0011	#	#	##	##				
+nafsan	taapes	0011	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0011	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0011	pen	there	other	other				
+nafsan	taapes	0011	los	swim	v:pred	v		pred		
+nafsan	taapes	0011	panpan	until	other	other				
+nafsan	taapes	0011	#	#	#ac	#ac				
+nafsan	taapes	0011	na	PURP	other	other				
+nafsan	taapes	0011	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0011	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0011	mai	come	v:pred	v		pred		
+nafsan	taapes	0011	#	#	#ac	#ac				
+nafsan	taapes	0011	na	PURP	other	other				
+nafsan	taapes	0011	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0011	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0011	kal-ki	dress-TR	v:pred	v		pred		
+nafsan	taapes	0011	nkal	cloth	np:p	np		p	807	
+nafsan	taapes	0011	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	801	
+nafsan	taapes	0011	pan	until	other	other				
+nafsan	taapes	0011	#	#	##	##				
+nafsan	taapes	0011	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0011	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0011	nom	finish	v:pred	v		pred		
+nafsan	taapes	0012	#	#	##	##				
+nafsan	taapes	0012	me	and	other	other				
+nafsan	taapes	0012	ZERO	ZERO	0.d:a	0	d	a	802	
+nafsan	taapes	0012	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0012	lel	look_for	v:pred	v		pred		
+nafsan	taapes	0012	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0012	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	802	
+nafsan	taapes	0012	#	#	##	##				
+nafsan	taapes	0012	me	but	other	other				
+nafsan	taapes	0012	kom	comb:BI	np:s	np		s	806	
+nafsan	taapes	0012	ga	3S.POS	rn_pro:poss	rn_pro		poss	802	
+nafsan	taapes	0012	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0012	puel	absent	v:pred	v		pred		
+nafsan	taapes	0012	#	#	#ac	#ac				
+nafsan	taapes	0012	nlaken	because	other	other				
+nafsan	taapes	0012	too	chicken	np.d:a	np	d	a	801	
+nafsan	taapes	0012	ki=	3S.PS=	=lv	=lv				
+nafsan	taapes	0012	pe	PF	lv	lv				
+nafsan	taapes	0012	pnak-o	steal-TS	v:pred	v		pred		
+nafsan	taapes	0012	-n	-3S.O	-pro:p	-pro		p	806	
+nafsan	taapes	0012	pa	go	rv	rv				
+nafsan	taapes	0012	#	#	##	##				
+nafsan	taapes	0012	me	but	other	other				
+nafsan	taapes	0012	ni	of	nc	nc				
+nafsan	taapes	0012	too	chicken	nc	nc				
+nafsan	taapes	0012	kom	comb:BI	np:s	np		s	806	
+nafsan	taapes	0012	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	801	
+nafsan	taapes	0012	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0012	to	stay	v:pred	v		pred		
+nafsan	taapes	0013	#	#	##	##				
+nafsan	taapes	0013	taap̃es	swamphen	np.d:s	np	d	s	802	
+nafsan	taapes	0013	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0013	nrogtesa	feel.bad	v:pred	v		pred		
+nafsan	taapes	0013	#	#	##	##				
+nafsan	taapes	0013	too	chicken	np.d:a	np	d	a	801	
+nafsan	taapes	0013	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0013	pnak	steal	v:pred	v		pred		
+nafsan	taapes	0013	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0013	ni	of	rn	rn				
+nafsan	taapes	0013	taap̃es	swamphen	rn_np.d:poss	rn_np	d	poss	802	
+nafsan	taapes	0014	#	#	##	##				
+nafsan	taapes	0014	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0014	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0014	semsem	happy	v:pred	v		pred		
+nafsan	taapes	0014	-wes	-3S.OBL	-pro:obl	-pro		obl		
+nafsan	taapes	0014	#	#	##	##				
+nafsan	taapes	0014	go	and	other	other				
+nafsan	taapes	0014	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0014	ki=	3S.PS=	=lv	=lv				
+nafsan	taapes	0014	pe	PF	lv	lv				
+nafsan	taapes	0014	to	HABIT	lv	lv				
+nafsan	taapes	0014	ur	go_along	v:pred	v		pred		
+nafsan	taapes	0014	e-sum̃	LOC-house	np:g	np		g	810	new
+nafsan	taapes	0014	#	#	##	##				
+nafsan	taapes	0014	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0014	ur	go_along	v:pred	v		pred		
+nafsan	taapes	0014	narmal	clearing	np:g	np		g	811	new
+nafsan	taapes	0014	#	#	##	##				
+nafsan	taapes	0014	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0014	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0014	tu	PROG	lv	lv				
+nafsan	taapes	0014	fekfek-ki	show_off-TR	v:pred	v		pred		
+nafsan	taapes	0014	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0014	#	#	#ac	#ac				
+nafsan	taapes	0014	nlaken	because	other	other				
+nafsan	taapes	0014	kin	SUB	other	other				
+nafsan	taapes	0014	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0014	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0014	pnak-o	steal-TS	v:pred	v		pred		
+nafsan	taapes	0014	kom	NC	nc	nc				
+nafsan	taapes	0015	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0015	ni	of	rn	rn				
+nafsan	taapes	0015	taap̃es	swamphen	rn_np.d:poss	rn_np	d	poss	802	
+nafsan	taapes	0015	#	#	##	##				
+nafsan	taapes	0015	me	but	other	other				
+nafsan	taapes	0015	taap̃es	swamphen	np.d:a	np	d	a	802	
+nafsan	taapes	0015	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0015	na	want	v:pred	v		pred		
+nafsan	taapes	0015	#	#	#cc:p	#cc		p		
+nafsan	taapes	0015	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0015	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0015	pan	go	v:pred	v		pred		
+nafsan	taapes	0015	#	#	#ac	#ac				
+nafsan	taapes	0015	na	PURP	other	other				
+nafsan	taapes	0015	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0015	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0015	kal	dress	v:pred	v		pred		
+nafsan	taapes	0015	su	PERF	rv	rv				
+nafsan	taapes	0015	#	#	##	##				
+nafsan	taapes	0015	me	but	other	other				
+nafsan	taapes	0015	ZERO	ZERO	0.d:a	0	d	a	802	
+nafsan	taapes	0015	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0015	lek-a	look-TS	v:pred	v		pred		
+nafsan	taapes	0015	ZERO	ZERO	0:p	0		p	806	
+nafsan	taapes	0015	ki	PREP	other	other				
+nafsan	taapes	0015	#	#	##	##				
+nafsan	taapes	0015	kom	comb:BI	np:s	np		s	806	
+nafsan	taapes	0015	ga	3S.POS	rn_pro.d:poss	rn_pro	d	poss	802	
+nafsan	taapes	0015	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0015	puel	absent	v:pred	v		pred		
+nafsan	taapes	0016	#	#	##	##				
+nafsan	taapes	0016	me	but	other	other				
+nafsan	taapes	0016	kom	comb:BI	np:s	np		s	806	
+nafsan	taapes	0016	ni	of	rn	rn				
+nafsan	taapes	0016	too	chicken	rn_np.d:poss	rn_np	d	poss	801	
+nafsan	taapes	0016	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0016	to	stay	v:pred	v		pred		
+nafsan	taapes	0016	#	#	##	##				
+nafsan	taapes	0016	go	and	other	other				
+nafsan	taapes	0016	ZERO	ZERO	0.d:a	0	d	a		
+nafsan	taapes	0016	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0016	na	want	v:pred	v		pred		
+nafsan	taapes	0016	#	#	#cc:p	#cc		p		
+nafsan	taapes	0016	ZERO	ZERO	0.d:a	0	d	a		
+nafsan	taapes	0016	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0016	slat-i	take-TS	v:pred	v		pred		
+nafsan	taapes	0016	ZERO	ZERO	0:p	0		p		
+nafsan	taapes	0016	#	#	#	#				
+nafsan	taapes	0016	ZERO	ZERO	es_f0.d:a	es_f0	d	a		
+nafsan	taapes	0016	kai=	ES=	=lv	=lv				
+nafsan	taapes	0016	pus-i	put	v:pred	v		pred		
+nafsan	taapes	0016	ZERO	ZERO	0:p	0		p		
+nafsan	taapes	0016	np̃au	head	np:g	np		g		
+nafsan	taapes	0016	-n	-3S.DP	-pro.d:poss	-pro	d	poss		
+nafsan	taapes	0016	#	#	##	##				
+nafsan	taapes	0016	me	but	other	other				
+nafsan	taapes	0016	ZERO	ZERO	0.d:s	0	d	s		
+nafsan	taapes	0016	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0016	nrogtesa	feel.bad	v:pred	v		pred		
+nafsan	taapes	0017	#	#	##	##				
+nafsan	taapes	0017	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0017	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0017	maet	angry	v:pred	v		pred		
+nafsan	taapes	0017	#	#	##	##				
+nafsan	taapes	0017	go	and	other	other				
+nafsan	taapes	0017	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0017	ki=	3S.PS=	=lv	=lv				
+nafsan	taapes	0017	sef	escape	v:pred	v		pred		
+nafsan	taapes	0017	#	#	##	##				
+nafsan	taapes	0017	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0017	pan	go	lv	lv				
+nafsan	taapes	0017	kus	hide	v:pred	v		pred		
+nafsan	taapes	0017	namlas	bush	np:g	np		g	812	new
+nafsan	taapes	0017	#	#	##	##				
+nafsan	taapes	0017	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0017	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0017	pan	go	lv	lv				
+nafsan	taapes	0017	kus	hide	v:pred	v		pred		
+nafsan	taapes	0017	namlas	bush	np:g	np		g	812	
+nafsan	taapes	0017	#	#	##	##				
+nafsan	taapes	0017	go	and	other	other				
+nafsan	taapes	0017	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0017	ki=	3S.PS=	=lv	=lv				
+nafsan	taapes	0017	to	HABIT	lv	lv				
+nafsan	taapes	0017	ur	go_along	v:pred	v		pred		
+nafsan	taapes	0017	namlas	bush	np:g	np		g	812	
+nafsan	taapes	0018	#	#	##	##				
+nafsan	taapes	0018	go	and	other	other				
+nafsan	taapes	0018	mees	today	np:other	np		other		
+nafsan	taapes	0018	ZERO	ZERO	0.2:a	0	2	a		
+nafsan	taapes	0018	ku=	2S.RS=	=lv	=lv				
+nafsan	taapes	0018	tae	know	lv	lv				
+nafsan	taapes	0018	pam̃or	find	v:pred	v		pred		
+nafsan	taapes	0018	too	chicken	np.d:p	np	d	p	801	
+nafsan	taapes	0018	#	#	#rc_rn	#rc_rn				
+nafsan	taapes	0018	kin	REL	other	other				
+nafsan	taapes	0018	ZERO	ZERO	0.d:s	0	d	s	801	
+nafsan	taapes	0018	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0018	to	PROG	lv	lv				
+nafsan	taapes	0018	ur	go_along	v:pred	v		pred		
+nafsan	taapes	0018	e-sum̃	LOC-house	np:l	np		l	810	
+nafsan	taapes	0018	#	#	#ac	#ac				
+nafsan	taapes	0018	nlaken	because	other	other				
+nafsan	taapes	0018	kin	SUB	other	other				
+nafsan	taapes	0018	ZERO	ZERO	0.d:a	0	d	a	801	
+nafsan	taapes	0018	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0018	pnak	steal	v:pred	v		pred		
+nafsan	taapes	0018	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0018	ni	of	rn	rn				
+nafsan	taapes	0018	taap̃es	swamphen	rn_np.d:poss	rn_np	d	poss	802	
+nafsan	taapes	0019	#	#	##	##				
+nafsan	taapes	0019	taap̃es	swamphen	np.d:a	np	d	a	802	
+nafsan	taapes	0019	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0019	malier	ashamed	v:pred	v		pred		
+nafsan	taapes	0019	kom	comb:BI	np:p	np		p	806	
+nafsan	taapes	0019	ni	of	rn	rn				
+nafsan	taapes	0019	too	of.chicken	rn_np.d:poss	rn_np	d	poss	801	
+nafsan	taapes	0019	#	#	#ac	#ac				
+nafsan	taapes	0019	nlaken	because	other	other				
+nafsan	taapes	0019	ZERO	ZERO	0:s	0		s	802	
+nafsan	taapes	0019	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0019	sees	small	v:pred	v		pred		
+nafsan	taapes	0019	#	#	##	##				
+nafsan	taapes	0019	go	and	other	other				
+nafsan	taapes	0019	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0019	ki=	3S.PS=	=lv	=lv				
+nafsan	taapes	0019	sef	escape	v:pred	v		pred		
+nafsan	taapes	0019	#	#	##	##				
+nafsan	taapes	0019	ZERO	ZERO	0.d:s	0	d	s	802	
+nafsan	taapes	0019	pan	go	lv	lv				
+nafsan	taapes	0019	kus	hide	v:pred	v		pred		
+nafsan	taapes	0019	namlas	bush	np:g	np		g	812	
+nafsan	taapes	0020	#	#	##	##				
+nafsan	taapes	0020	nafuserekwen	story	np:s	np		s		
+nafsan	taapes	0020	ni	of	rn	rn				
+nafsan	taapes	0020	taap̃es	swamphen	rn_np:poss	rn_np		poss	802	
+nafsan	taapes	0020	go	and	rn	rn				
+nafsan	taapes	0020	too	fowl	rn_np	rn_np			801	
+nafsan	taapes	0020	i=	3S.RS=	=lv	=lv				
+nafsan	taapes	0020	tefla	similar	v:pred	v		pred		

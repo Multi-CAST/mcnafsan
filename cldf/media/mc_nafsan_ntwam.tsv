@@ -1,0 +1,1209 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+nafsan	ntwam	0001	#	#	##	##				
+nafsan	ntwam	0001	nrak	time	np:other	np		other		
+nafsan	ntwam	0001	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0001	skei	one	rn_np	rn_np				
+nafsan	ntwam	0001	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0001	piatlak	have	v:predex	v		predex		
+nafsan	ntwam	0001	apu	grandfather	ln_np.h	ln_np	h		701	new
+nafsan	ntwam	0001	go	and	ln	ln				
+nafsan	ntwam	0001	ati	grandmother	np.h:s	np	h	s	702	new
+nafsan	ntwam	0001	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0001	skei	one	rn_np	rn_np				
+nafsan	ntwam	0001	#	#	##	##				
+nafsan	ntwam	0001	ZERO	ZERO	0.h:s	0	h	s	703	bridging
+nafsan	ntwam	0001	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0001	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0002	#	#	##	##				
+nafsan	ntwam	0002	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0002	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0002	preg	make	v:pred	v		pred		
+nafsan	ntwam	0002	nasum̃	house	np:p	np		p	704	new
+nafsan	ntwam	0002	gar	3P.POS	rn_pro.h:poss	rn_pro	h	poss	703	
+nafsan	ntwam	0002	#	#	##	##				
+nafsan	ntwam	0002	ZERO	ZERO	0:s	0		s	704	
+nafsan	ntwam	0002	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0002	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0002	em̃ae	distant	rv	rv				
+nafsan	ntwam	0002	ki	PREP	adp	adp				
+nafsan	ntwam	0002	talm̃at	garden	np:l	np		l	705	bridging
+nafsan	ntwam	0003	#	#	##	##				
+nafsan	ntwam	0003	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0003	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0003	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0003	panpan	until	adp	adp				
+nafsan	ntwam	0003	nrak	time	np:other	np		other		
+nafsan	ntwam	0003	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0003	skei	one	rn_np	rn_np				
+nafsan	ntwam	0003	#	#	##	##				
+nafsan	ntwam	0003	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0003	ra=	1D.exRS=	=lv	=lv				
+nafsan	ntwam	0003	na	want	v:pred	v		pred		
+nafsan	ntwam	0003	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0003	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0003	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0003	fak	go_to	v:pred	v		pred		
+nafsan	ntwam	0003	talm̃at	garden	np:g	np		g	705	
+nafsan	ntwam	0003	gar	3P.POS	rn_pro.h:poss	rn_pro	h	poss	703	
+nafsan	ntwam	0004	#	#	##	##				
+nafsan	ntwam	0004	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0004	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0004	slat	take	v:pred	v		pred		
+nafsan	ntwam	0004	sernale	everything	np:p	np		p	706	new
+nafsan	ntwam	0004	ni	of	rn	rn				
+nafsan	ntwam	0004	talm̃at	garden	rn_np	rn_np			705	
+nafsan	ntwam	0004	gar	3P.POS	rn_pro.h:poss	rn_pro	h	poss	703	
+nafsan	ntwam	0004	#	#	##	##				
+nafsan	ntwam	0004	ZERO	ZERO	es_f0.h:s	es_f0	h	s	703	
+nafsan	ntwam	0004	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0004	pa	go	v:pred	v		pred		
+nafsan	ntwam	0005	#	#	##	##				
+nafsan	ntwam	0005	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0005	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0005	slat	take	v:pred	v		pred		
+nafsan	ntwam	0005	masmes	knife	np:p	np		p	707	bridging
+nafsan	ntwam	0005	#	#	##	##				
+nafsan	ntwam	0005	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0005	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0005	slat	take	v:pred	v		pred		
+nafsan	ntwam	0005	kram	axe	np:p	np		p	708	bridging
+nafsan	ntwam	0005	#	#	##	##				
+nafsan	ntwam	0005	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0005	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0005	slat	take	v:pred	v		pred		
+nafsan	ntwam	0005	naal	basket	np:p	np		p	709	bridging
+nafsan	ntwam	0005	#	#	#rc_rn	#rc_rn				
+nafsan	ntwam	0005	nen	REL	other	other				
+nafsan	ntwam	0005	ZERO	ZERO	0.h:s	0	h	s	709	
+nafsan	ntwam	0005	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0005	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0005	paai	pack_up	v:pred	v		pred		
+nafsan	ntwam	0005	sernale	everything	np	np			706	
+nafsan	ntwam	0005	-wes	-3S.OBL	-pro:obl	-pro		obl		
+nafsan	ntwam	0005	#	#	##	##				
+nafsan	ntwam	0005	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0005	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0005	pa	go	v:pred	v		pred		
+nafsan	ntwam	0006	#	#	##	##				
+nafsan	ntwam	0006	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0006	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0006	pan	go	v:pred	v		pred		
+nafsan	ntwam	0006	panpan	until	adp	adp				
+nafsan	ntwam	0006	#	#	##	##				
+nafsan	ntwam	0006	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0006	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0006	pato	be_at	v:pred	v		pred		
+nafsan	ntwam	0006	m̃eltig	close	rv	rv				
+nafsan	ntwam	0006	ki	PREP	adp	adp				
+nafsan	ntwam	0006	talm̃at	garden	np:l	np		l	705	
+nafsan	ntwam	0006	#	#	##	##				
+nafsan	ntwam	0006	go	and	other	other				
+nafsan	ntwam	0006	wak	pig	np:s	np		s	710	new
+nafsan	ntwam	0006	p̃ur	big	rn	rn				
+nafsan	ntwam	0006	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0006	skei	one	rn_np	rn_np				
+nafsan	ntwam	0006	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0006	mai	come	v:pred	v		pred		
+nafsan	ntwam	0007	#	#	##	##				
+nafsan	ntwam	0007	wak	pig	np:s	np		s	710	
+nafsan	ntwam	0007	p̃ur	big	rn	rn				
+nafsan	ntwam	0007	nen	that	rn	rn				
+nafsan	ntwam	0007	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0007	mai	come	v:pred	v		pred		
+nafsan	ntwam	0007	#	#	##	##				
+nafsan	ntwam	0007	ZERO	ZERO	es_f0:a	es_f0		a	710	
+nafsan	ntwam	0007	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0007	p̃as-i	chase-TS	v:pred	v		pred		
+nafsan	ntwam	0007	-r	-3P.O	-pro.h:p	-pro	h	p	703	
+nafsan	ntwam	0008	#	#	##	##				
+nafsan	ntwam	0008	wak	pig	np:a	np		a	710	
+nafsan	ntwam	0008	nen	that	rn	rn				
+nafsan	ntwam	0008	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0008	p̃as-i	chase-TS	v:pred	v		pred		
+nafsan	ntwam	0008	-r	-3P.O	-pro.h:p	-pro	h	p	703	
+nafsan	ntwam	0009	#	#	##	##				
+nafsan	ntwam	0009	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0009	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0009	fit	run	lv	lv				
+nafsan	ntwam	0009	fit	run	v:pred	v		pred		
+nafsan	ntwam	0009	panpan	until	adp	adp				
+nafsan	ntwam	0009	#	#	##	##				
+nafsan	ntwam	0009	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0009	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0009	na	want	v:pred	v		pred		
+nafsan	ntwam	0009	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0009	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0009	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0009	tkal	touch	v:pred	v		pred		
+nafsan	ntwam	0009	e-sum̃	LOC-house	np:p	np		p	704	
+nafsan	ntwam	0010	#	#	##	##				
+nafsan	ntwam	0010	me	and	other	other				
+nafsan	ntwam	0010	maarik	husband	np.h:a	np	h	a	701	
+nafsan	ntwam	0010	nen	that	rn	rn				
+nafsan	ntwam	0010	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0010	na	want	v:pred	v		pred		
+nafsan	ntwam	0010	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0010	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0010	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0010	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0010	#	#	##	##				
+nafsan	ntwam	0010	go	and	other	other				
+nafsan	ntwam	0010	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0010	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0010	preg.pta-ki	make.good-TR	v:pred	v		pred		
+nafsan	ntwam	0010	sernale	everything	np:p	np		p	711	new
+nafsan	ntwam	0011	#	#	##	##				
+nafsan	ntwam	0011	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0011	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0011	preg.pta-ki	make.good-TR	v:pred	v		pred		
+nafsan	ntwam	0011	ola	spear	ln_np	ln_np			712	bridging
+nafsan	ntwam	0011	nas	bow	ln_np	ln_np			713	bridging
+nafsan	ntwam	0011	plak	with	ln	ln				
+nafsan	ntwam	0011	timen	arrow	np:p	np		p	714	bridging
+nafsan	ntwam	0011	nega	3S.POS	rn_pro.h:poss	rn_pro	h	poss	701	
+nafsan	ntwam	0012	#	#	##	##				
+nafsan	ntwam	0012	go	and	other	other				
+nafsan	ntwam	0012	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0012	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0012	sol	bring	v:pred	v		pred		
+nafsan	ntwam	0012	kram	axe	ln_np	ln_np			708	
+nafsan	ntwam	0012	go	and	ln	ln				
+nafsan	ntwam	0012	masmes	knife	np:p	np		p	707	
+nafsan	ntwam	0012	#	#	##	##				
+nafsan	ntwam	0012	ZERO	ZERO	es_f0.h:s	es_f0	h	s	701	
+nafsan	ntwam	0012	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0012	ler	return	v:pred	v		pred		
+nafsan	ntwam	0012	#	#	##	##				
+nafsan	ntwam	0012	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0012	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0012	nrik	tell	v:pred	v		pred		
+nafsan	ntwam	0012	mtulep	wife	np:p	np		p	702	
+nafsan	ntwam	0012	#	#	#ds	#ds				
+nafsan	ntwam	0012	kin	SUB	other	other				
+nafsan	ntwam	0012	nag	SUB	other	other				
+nafsan	ntwam	0012	ag	2S.	pro.2:s	pro	2	s	702	
+nafsan	ntwam	0012	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	ntwam	0012	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0012	#	#	##ds	##ds				
+nafsan	ntwam	0012	me	and	other	other				
+nafsan	ntwam	0012	kineu	1S.	pro.h:s	pro	h	s	701	
+nafsan	ntwam	0012	ka=	1S.IRS=	=lv	=lv				
+nafsan	ntwam	0012	mer	again	aux	aux				
+nafsan	ntwam	0012	pak	go_to	v:pred	v		pred		
+nafsan	ntwam	0012	talm̃at	garden	np:g	np		g	705	
+nafsan	ntwam	0012	pan	go	rv	rv				
+nafsan	ntwam	0012	#	#	#ds	#ds				
+nafsan	ntwam	0012	ZERO	ZERO	0.1:a	0	1	a	701	
+nafsan	ntwam	0012	ka=	1S.IRS=	=lv	=lv				
+nafsan	ntwam	0012	fan	go:IR	aux	aux				
+nafsan	ntwam	0012	lel	look_for	v:pred	v		pred		
+nafsan	ntwam	0012	wak	pig	np:p	np		p	710	
+nafsan	ntwam	0012	p̃ur	big	rn	rn				
+nafsan	ntwam	0012	#	#	#rc_rn	#rc_rn				
+nafsan	ntwam	0012	na	REL	other	other				
+nafsan	ntwam	0012	kia	DEM	pro:a	pro		a	710	
+nafsan	ntwam	0012	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0012	p̃as	chase	v:pred	v		pred		
+nafsan	ntwam	0012	kit	1P.O	pro.1:p	pro	1	p	703	
+nafsan	ntwam	0013	#	#	##	##				
+nafsan	ntwam	0013	selwan	while	other	other				
+nafsan	ntwam	0013	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0013	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0013	panpan	go	v:pred	v		pred		
+nafsan	ntwam	0013	#	#	#ac	#ac				
+nafsan	ntwam	0013	na	SUB	other	other				
+nafsan	ntwam	0013	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0013	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0013	tkal	touch	v:pred	v		pred		
+nafsan	ntwam	0013	talm̃at	garden	np:p	np		p	705	
+nafsan	ntwam	0013	#	#	##	##				
+nafsan	ntwam	0013	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0013	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0013	us	follow	v:pred	v		pred		
+nafsan	ntwam	0013	nalof	track	np:p	np		p	715	new
+nafsan	ntwam	0013	wak	pig	rn_np:poss	rn_np		poss	710	
+nafsan	ntwam	0014	#	#	##	##				
+nafsan	ntwam	0014	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0014	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0014	us	follow	v:pred	v		pred		
+nafsan	ntwam	0014	nalof-e	track-V	np:p	np		p	715	
+nafsan	ntwam	0014	-n	-3S.DP	-rn_pro:poss	-rn_pro		poss	710	
+nafsan	ntwam	0014	panpan	until	adp	adp				
+nafsan	ntwam	0014	#	#	##	##				
+nafsan	ntwam	0014	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0014	pe	PF	lv	lv				
+nafsan	ntwam	0014	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0014	malik	dark	nc	nc				
+nafsan	ntwam	0014	#	#	#ac	#ac				
+nafsan	ntwam	0014	nmalko	dark	np:s	np		s	716	unused
+nafsan	ntwam	0014	sa	very	rn	rn				
+nafsan	ntwam	0014	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0014	pe	PF	lv	lv				
+nafsan	ntwam	0014	tok	PROG	aux	aux				
+nafsan	ntwam	0014	mai	come	v:pred	v		pred		
+nafsan	ntwam	0015	#	#	##	##				
+nafsan	ntwam	0015	selwan	while	other	other				
+nafsan	ntwam	0015	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0015	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0015	panpan	go	v:pred	v		pred		
+nafsan	ntwam	0015	#	#	##	##				
+nafsan	ntwam	0015	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0015	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0015	siwer	walk	v:pred	v		pred		
+nafsan	ntwam	0015	panpan	until	adp	adp				
+nafsan	ntwam	0015	#	#	##	##				
+nafsan	ntwam	0015	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0015	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0015	na	want	v:pred	v		pred		
+nafsan	ntwam	0015	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0015	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0015	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0015	tkal	touch	v:pred	v		pred		
+nafsan	ntwam	0015	natikin	edge	np:p	np		p	717	new
+nafsan	ntwam	0015	erfale	cave	rn_np	rn_np			718	new
+nafsan	ntwam	0016	#	#	##	##				
+nafsan	ntwam	0016	go	and	other	other				
+nafsan	ntwam	0016	nmalko	dark	np:s	np		s	716	
+nafsan	ntwam	0016	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0016	pe	PF	lv	lv				
+nafsan	ntwam	0016	tok	PROG	aux	aux				
+nafsan	ntwam	0016	mai	come	v:pred	v		pred		
+nafsan	ntwam	0016	#	#	##	##				
+nafsan	ntwam	0016	go	and	other	other				
+nafsan	ntwam	0016	maarik	husband	np.h:a	np	h	a	701	
+nafsan	ntwam	0016	wan	TOP	rn	rn				
+nafsan	ntwam	0016	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0016	mur-i	want-TS	v:pred	v		pred		
+nafsan	ntwam	0016	-n	-3S.O	-pro:other	-pro		other		
+nafsan	ntwam	0016	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0016	nen	COMP	other	other				
+nafsan	ntwam	0016	kin	COMP	other	other				
+nafsan	ntwam	0016	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0016	ke=	3S.IRS=	=lv	=lv				
+nafsan	ntwam	0016	fan	go:IR	aux	aux				
+nafsan	ntwam	0016	sil	enter	v:pred	v		pred		
+nafsan	ntwam	0016	pak	to	adp	adp				
+nafsan	ntwam	0016	erfale	cave	np:g	np		g	718	
+nafsan	ntwam	0016	#	#	##	##				
+nafsan	ntwam	0016	me	and	other	other				
+nafsan	ntwam	0016	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0016	ke=	3S.IRS=	=lv	=lv				
+nafsan	ntwam	0016	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0016	matur	sleep	v:pred	v		pred		
+nafsan	ntwam	0016	p̃og	night	np:other	np		other	719	unused
+nafsan	ntwam	0016	paakor	arrive	rn	rn				
+nafsan	ntwam	0016	p̃ulp̃og	morning	rn_np	rn_np				
+nafsan	ntwam	0016	#	#	##	##				
+nafsan	ntwam	0016	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0016	ke=	3S.IRS=	=lv	=lv				
+nafsan	ntwam	0016	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0016	mer	again	aux	aux				
+nafsan	ntwam	0016	us	follow	v:pred	v		pred		
+nafsan	ntwam	0016	nalof	track	np:p	np		p	715	
+nafsan	ntwam	0016	wak	pig	rn_np	rn_np			710	
+nafsan	ntwam	0016	p̃ur	big	rn	rn				
+nafsan	ntwam	0016	nen	that	rn	rn				
+nafsan	ntwam	0017	#	#	#ac	#ac				
+nafsan	ntwam	0017	me	but	other	other				
+nafsan	ntwam	0017	selwan	while	other	other				
+nafsan	ntwam	0017	kin	SUB	other	other				
+nafsan	ntwam	0017	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0017	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0017	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0017	panpan	until	adp	adp				
+nafsan	ntwam	0018	#	#	##	##				
+nafsan	ntwam	0018	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0018	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0018	tok	PROG	aux	aux				
+nafsan	ntwam	0018	toto	grope	v:pred	v		pred		
+nafsan	ntwam	0018	nfal	hole	np:p	np		p	718	
+nafsan	ntwam	0018	faat	stone	rn_np	rn_np			722	bridging
+nafsan	ntwam	0018	nen	that	rn	rn				
+nafsan	ntwam	0018	#	#	#rc_rn	#rc_rn				
+nafsan	ntwam	0018	kin	REL	other	other				
+nafsan	ntwam	0018	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0018	ke=	3S.IRS=	=lv	=lv				
+nafsan	ntwam	0018	sil	enter	v:pred	v		pred		
+nafsan	ntwam	0018	-wes	-3S.OBL	-pro:g	-pro		g	718	
+nafsan	ntwam	0018	#	#	#ac	#ac				
+nafsan	ntwam	0018	selwan	while	other	other				
+nafsan	ntwam	0018	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0018	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0018	tok	PROG	aux	aux				
+nafsan	ntwam	0018	toto	grope	v:pred	v		pred		
+nafsan	ntwam	0018	panpan	until	adp	adp				
+nafsan	ntwam	0018	#	#	##	##				
+nafsan	ntwam	0018	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0018	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0018	to	PROG	aux	aux				
+nafsan	ntwam	0018	nrog	hear	v:pred	v		pred		
+nafsan	ntwam	0018	namrun	something	np:p	np		p	723	new
+nafsan	ntwam	0019	#	#	##	##				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0019	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0019	to	PROG	aux	aux				
+nafsan	ntwam	0019	nrog	hear	v:pred	v		pred		
+nafsan	ntwam	0019	namrun	something	np:p	np		p	723	
+nafsan	ntwam	0019	#	#	##	##				
+nafsan	ntwam	0019	go	and	other	other				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0019	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0019	tok	PROG	aux	aux				
+nafsan	ntwam	0019	mro-ki	think-TR	v:pred	v		pred		
+nafsan	ntwam	0019	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0019	#	#	#ds	#ds				
+nafsan	ntwam	0019	na	SUB	other	other				
+nafsan	ntwam	0019	nafte	what	np:pred	np		pred		
+nafsan	ntwam	0019	kin	HES	nc	nc				
+nafsan	ntwam	0019	#	#	#ac	#ac				
+nafsan	ntwam	0019	selwan	while	other	other				
+nafsan	ntwam	0019	kin	SUB	other	other				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0019	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0019	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0019	panpan	until	adp	adp				
+nafsan	ntwam	0019	#	#	#ac	#ac				
+nafsan	ntwam	0019	na	SUB	other	other				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0019	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0019	tok	PROG	aux	aux				
+nafsan	ntwam	0019	tkal-i	touch-TS	v:pred	v		pred		
+nafsan	ntwam	0019	ZERO	ZERO	0:p	0		p		
+nafsan	ntwam	0019	#	#	##	##				
+nafsan	ntwam	0019	go	and	other	other				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0019	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0019	tok	PROG	aux	aux				
+nafsan	ntwam	0019	takinrog	listen	v:pred	v		pred		
+nafsan	ntwam	0019	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0019	kin	COMP	other	other				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0019	pan	go	v:pred	v		pred		
+nafsan	ntwam	0019	#	#	##	##				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0019	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0019	nrog-o	hear-TS	v:pred	v		pred		
+nafsan	ntwam	0019	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0019	na	COMP	other	other				
+nafsan	ntwam	0019	ZERO	ZERO	0.h:s	0	h	s	724	bridging
+nafsan	ntwam	0019	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0019	pi	be	cop	cop				
+nafsan	ntwam	0019	natam̃ol	person	np.h:pred	np	h	pred	724	
+nafsan	ntwam	0020	#	#	##	##				
+nafsan	ntwam	0020	ale	okay:BI	other	other				
+nafsan	ntwam	0020	ZERO	ZERO	0.h:s	0	h	s	724	
+nafsan	ntwam	0020	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0020	pestaf-i	talk_to-TS	v:pred	v		pred		
+nafsan	ntwam	0020	#	#	#ds	#ds				
+nafsan	ntwam	0020	e	hey	other	other				
+nafsan	ntwam	0020	me	but	other	other				
+nafsan	ntwam	0020	ag	2S.	pro.2:s	pro	2	s	701	
+nafsan	ntwam	0020	ku=	2S.RS=	=lv	=lv				
+nafsan	ntwam	0020	tfale	how	other	other				
+nafsan	ntwam	0020	mai	come	aux	aux				
+nafsan	ntwam	0020	pak	go_to	v:pred	v		pred		
+nafsan	ntwam	0020	nfal	hole	np:g	np		g	718	
+nafsan	ntwam	0020	at	stone	rn_np	rn_np			722	
+nafsan	ntwam	0020	nen	that	rn	rn				
+nafsan	ntwam	0020	#	#	##	##				
+nafsan	ntwam	0020	maarik	husband	np.h:s	np	h	s	701	
+nafsan	ntwam	0020	nen	that	rn	rn				
+nafsan	ntwam	0020	#	#	#rc_rn	#rc_rn				
+nafsan	ntwam	0020	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0020	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0020	em̃rom	inside	adp	adp				
+nafsan	ntwam	0020	nfal	hole	np:l	np		l	718	
+nafsan	ntwam	0020	faat	stone	rn_np	rn_np			722	
+nafsan	ntwam	0020	nen	that	rn	rn				
+nafsan	ntwam	0020	%	%	%	%				
+nafsan	ntwam	0020	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0020	pestaf-i	talk_to-TS	v:pred	v		pred		
+nafsan	ntwam	0020	#	#	#ds	#ds				
+nafsan	ntwam	0020	me	but	other	other				
+nafsan	ntwam	0020	ag	2S.	pro.2:s	pro	2	s	701	
+nafsan	ntwam	0020	ku=	2S.RS=	=lv	=lv				
+nafsan	ntwam	0020	tfale	how	other	other				
+nafsan	ntwam	0020	mai	come	v:pred	v		pred		
+nafsan	ntwam	0020	#	#	##	##				
+nafsan	ntwam	0020	go	and	other	other				
+nafsan	ntwam	0020	maarik	spirit	np.d:s_ds	np	d	s_ds	701	
+nafsan	ntwam	0020	nen	that	rn	rn				
+nafsan	ntwam	0020	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0020	ga	3S.BEN	lv_pro.h:g	lv_pro	h	g	701	
+nafsan	ntwam	0020	traus-i	tell-TS	v:pred	v		pred		
+nafsan	ntwam	0020	#	#	##	##				
+nafsan	ntwam	0020	ZERO	ZERO	0.h:s_ds	0	h	s_ds	701	
+nafsan	ntwam	0020	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0020	til-i	say-TS	v:pred	v		pred		
+nafsan	ntwam	0020	#	#	#ds	#ds				
+nafsan	ntwam	0020	na	SUB	other	other				
+nafsan	ntwam	0020	komam	1P.ex	pro.1:s	pro	1	s	701	
+nafsan	ntwam	0020	mtulep	wife	rn_np.h	rn_np	h		702	
+nafsan	ntwam	0020	ra=	1D.exRS=	=lv	=lv				
+nafsan	ntwam	0020	mai	come	v:pred	v		pred		
+nafsan	ntwam	0020	pak	to	adp	adp				
+nafsan	ntwam	0020	talm̃at	garden	np:g	np		g	705	
+nafsan	ntwam	0020	#	#	##ds	##ds				
+nafsan	ntwam	0020	me	but	other	other				
+nafsan	ntwam	0020	wak	pig	np:s	np		s	710	
+nafsan	ntwam	0020	p̃ur	big	rn	rn				
+nafsan	ntwam	0020	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0020	skei	one	rn_np	rn_np				
+nafsan	ntwam	0020	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0020	p̃as	chase	v:pred	v		pred		
+nafsan	ntwam	0020	komam	1P.ex	pro.1:p	pro	1	p	703	
+nafsan	ntwam	0021	#	#	##ds	##ds				
+nafsan	ntwam	0021	ale	okay:BI	other	other				
+nafsan	ntwam	0021	ZERO	ZERO	0.1:s	0	1	s	703	
+nafsan	ntwam	0021	ra=	1D.exRS=	=lv	=lv				
+nafsan	ntwam	0021	ler	return	v:pred	v		pred		
+nafsan	ntwam	0021	pak	to	adp	adp				
+nafsan	ntwam	0021	e-sum̃	LOC-house	np:g	np		g	704	
+nafsan	ntwam	0021	pa	go	other	other				
+nafsan	ntwam	0021	#	#	##ds	##ds				
+nafsan	ntwam	0021	me	but	other	other				
+nafsan	ntwam	0021	ZERO	ZERO	0.1:s	0	1	s	701	
+nafsan	ntwam	0021	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0021	to	stay	v:pred	v		pred		
+nafsan	ntwam	0021	kia	DEM	pro:other	pro		other		
+nafsan	ntwam	0021	#	#	##ds	##ds				
+nafsan	ntwam	0021	ZERO	ZERO	0.1:s	0	1	s	701	
+nafsan	ntwam	0021	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0021	kraksok	prepare	v:pred	v		pred		
+nafsan	ntwam	0021	#	#	##ds	##ds				
+nafsan	ntwam	0021	me	and	other	other				
+nafsan	ntwam	0021	ZERO	ZERO	0.1:s	0	1	s	701	
+nafsan	ntwam	0021	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0021	pareki	go_for	v:pred	v		pred		
+nafsan	ntwam	0021	=n	=DST	=rv	=rv				
+nafsan	ntwam	0021	mai	come	rv	rv				
+nafsan	ntwam	0022	#	#	##	##				
+nafsan	ntwam	0022	me	but	other	other				
+nafsan	ntwam	0022	ZERO	ZERO	0.2:a	0	2	a		
+nafsan	ntwam	0022	ku=	2S.RS=	=lv	=lv				
+nafsan	ntwam	0022	tae	know	v:pred	v		pred		
+nafsan	ntwam	0022	#	#	#cc.neg:p	#cc.neg		p		
+nafsan	ntwam	0022	wak	pig	np:s	np		s	710	
+nafsan	ntwam	0022	p̃ur	big	rn	rn				
+nafsan	ntwam	0022	nen	that	rn	rn				
+nafsan	ntwam	0022	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0022	ta	not	other	other				
+nafsan	ntwam	0022	pi	be	cop	cop				
+nafsan	ntwam	0022	wak	pig	np:pred	np		pred	725	new
+nafsan	ntwam	0022	mau	NEG2	other	other				
+nafsan	ntwam	0023	#	#	##	##				
+nafsan	ntwam	0023	me	but	other	other				
+nafsan	ntwam	0023	wak	pig	np:s	np		s	710	
+nafsan	ntwam	0023	p̃ur	big	rn	rn				
+nafsan	ntwam	0023	nen	that	rn	rn				
+nafsan	ntwam	0023	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0023	pi	be	cop	cop				
+nafsan	ntwam	0023	ntwam	devil	np.d:pred	np	d	pred	726	new
+nafsan	ntwam	0024	#	#	##	##				
+nafsan	ntwam	0024	me	but	other	other				
+nafsan	ntwam	0024	malnen	as	other	other				
+nafsan	ntwam	0024	kin	REL	other	other				
+nafsan	ntwam	0024	ZERO	ZERO	0.d:s	0	d	s	726	
+nafsan	ntwam	0024	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0024	pan	go	v:pred	v		pred		
+nafsan	ntwam	0024	i=	3S.RS=	nc	nc				
+nafsan	ntwam	0024	pan	go	nc	nc				
+nafsan	ntwam	0024	#	#	##	##				
+nafsan	ntwam	0024	ZERO	ZERO	es_f0.d:a	es_f0	d	a	726	
+nafsan	ntwam	0024	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0024	waalu	take_off	v:pred	v		pred		
+nafsan	ntwam	0024	namlun	skin	np:p	np		p	727	bridging
+nafsan	ntwam	0024	#	#	##	##				
+nafsan	ntwam	0024	ZERO	ZERO	es_f0.d:a	es_f0	d	a	726	
+nafsan	ntwam	0024	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0024	of	wear	v:pred	v		pred		
+nafsan	ntwam	0024	nasok	skin	np:p	np		p	728	new
+nafsan	ntwam	0024	natam̃ol	person	rn_np	rn_np			729	new
+nafsan	ntwam	0025	#	#	##	##				
+nafsan	ntwam	0025	malnen	as	other	other				
+nafsan	ntwam	0025	kin	REL	other	other				
+nafsan	ntwam	0025	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0025	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0025	nrik	tell	v:pred	v		pred		
+nafsan	ntwam	0025	ntwam	devil	np.d:p	np	d	p	726	
+nafsan	ntwam	0025	nen	that	rn	rn				
+nafsan	ntwam	0025	ZERO	ZERO	0:p2	0		p2		
+nafsan	ntwam	0025	#	#	##	##				
+nafsan	ntwam	0025	kin	REL	other	other				
+nafsan	ntwam	0025	ntwam	devil	np.d:s_ds	np	d	s_ds	726	
+nafsan	ntwam	0025	nen	that	rn	rn				
+nafsan	ntwam	0025	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0025	na	say	v:pred	v		pred		
+nafsan	ntwam	0025	#	#	#ds	#ds				
+nafsan	ntwam	0025	a	ah	other	other				
+nafsan	ntwam	0025	me	but	other	other				
+nafsan	ntwam	0025	kineu	1S.	pro.1:s	pro	1	s	726	
+nafsan	ntwam	0025	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0025	na	want	v:pred	v		pred		
+nafsan	ntwam	0025	#	#	#ds_cc	#ds_cc				
+nafsan	ntwam	0025	ZERO	ZERO	0.1:a	0	1	a	726	
+nafsan	ntwam	0025	ka=	1S.IRS=	=lv	=lv				
+nafsan	ntwam	0025	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0025	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0025	akam	2P.	pro.2:p	pro	2	p	701	
+nafsan	ntwam	0025	kia	DEM	nc	nc				
+nafsan	ntwam	0025	#	#	##ds	##ds				
+nafsan	ntwam	0025	me	but	other	other				
+nafsan	ntwam	0025	akam	2P.	pro.2:s	pro	2	s	701	
+nafsan	ntwam	0025	ra=	2D.RS=	=lv	=lv				
+nafsan	ntwam	0025	sef	escape	v:pred	v		pred		
+nafsan	ntwam	0026	#	#	##ds	##ds				
+nafsan	ntwam	0026	me	but	other	other				
+nafsan	ntwam	0026	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0026	pi	be	cop	cop				
+nafsan	ntwam	0026	malfane	now	np:pred	np		pred	730	new
+nafsan	ntwam	0026	#	#	##ds	##ds				
+nafsan	ntwam	0026	ZERO	ZERO	0.1:s	0	1	s	731	bridging
+nafsan	ntwam	0026	tak=	1D.incIRS=	=lv	=lv				
+nafsan	ntwam	0026	to	stay	v:pred	v		pred		
+nafsan	ntwam	0026	panpan	until	adp	adp				
+nafsan	ntwam	0026	#	#	#ds_ac	#ds_ac				
+nafsan	ntwam	0026	na	SUB	other	other				
+nafsan	ntwam	0026	ZERO	ZERO	0.2:s	0	2	s	701	
+nafsan	ntwam	0026	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	ntwam	0026	matur	sleep	v:pred	v		pred		
+nafsan	ntwam	0026	#	#	##ds	##ds				
+nafsan	ntwam	0026	go	and	other	other				
+nafsan	ntwam	0026	ZERO	ZERO	0.1:a	0	1	a	726	
+nafsan	ntwam	0026	ka=	1S.IRS=	=lv	=lv				
+nafsan	ntwam	0026	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0026	pam-i	eat-TS	v:pred	v		pred		
+nafsan	ntwam	0026	-k	-2S.O	-pro.2:p	-pro	2	p	701	
+nafsan	ntwam	0027	#	#	##neg	##neg				
+nafsan	ntwam	0027	me	and	other	other				
+nafsan	ntwam	0027	ntwam	devil	np.d:a	np	d	a	726	
+nafsan	ntwam	0027	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0027	ta	not	other	other				
+nafsan	ntwam	0027	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	ntwam	0027	-n	-3S.O	-pro.h:p	-pro	h	p	701	
+nafsan	ntwam	0027	ki	PREP	adp	adp				
+nafsan	ntwam	0027	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	ntwam	0027	mau	NEG2	other	other				
+nafsan	ntwam	0027	#	#	##	##				
+nafsan	ntwam	0027	ntwam	devil	np.d:a	np	d	a	726	
+nafsan	ntwam	0027	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0027	to	PROG	aux	aux				
+nafsan	ntwam	0027	mro-ki	think-TR	v:pred	v		pred		
+nafsan	ntwam	0027	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0027	tefla	similar	other	other				
+nafsan	ntwam	0027	=n	=DST	=other	=other				
+nafsan	ntwam	0027	#	#	#cc	#cc				
+nafsan	ntwam	0027	na	SUB	other	other				
+nafsan	ntwam	0027	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0027	ke=	3S.IRS=	=lv	=lv				
+nafsan	ntwam	0027	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0027	wat	hit	v:pred	v		pred		
+nafsan	ntwam	0027	maarik	husband	np.h:p	np	h	p	701	
+nafsan	ntwam	0027	nen	that	rn	rn				
+nafsan	ntwam	0027	p̃og	night	np:other	np		other	732	new
+nafsan	ntwam	0028	#	#	##	##				
+nafsan	ntwam	0028	me	and	other	other				
+nafsan	ntwam	0028	selwan	while	other	other				
+nafsan	ntwam	0028	kin	SUB	other	other				
+nafsan	ntwam	0028	ZERO	ZERO	0.h:s	0	h	s	731	
+nafsan	ntwam	0028	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0028	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0028	panpan	until	adp	adp				
+nafsan	ntwam	0028	#	#	##	##				
+nafsan	ntwam	0028	ZERO	ZERO	0.h:s	0	h	s	731	
+nafsan	ntwam	0028	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0028	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0028	panpan	until	adp	adp				
+nafsan	ntwam	0028	#	#	##	##				
+nafsan	ntwam	0028	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0028	tok	PROG	lv	lv				
+nafsan	ntwam	0028	malik	dark	v:pred	v		pred		
+nafsan	ntwam	0028	sa	very	rv	rv				
+nafsan	ntwam	0028	#	#	##	##				
+nafsan	ntwam	0028	ZERO	ZERO	0:s	0		s	716	
+nafsan	ntwam	0028	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0028	tok	PROG	lv	lv				
+nafsan	ntwam	0028	tarup̃	fall	v:pred	v		pred		
+nafsan	ntwam	0028	ntan	ground	np:g	np		g	733	new
+nafsan	ntwam	0028	mai	come	rv	rv				
+nafsan	ntwam	0029	#	#	##	##				
+nafsan	ntwam	0029	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0029	pe	PF	lv	lv				
+nafsan	ntwam	0029	tok	PROG	aux	aux				
+nafsan	ntwam	0029	pareki	go_for	v:pred	v		pred		
+nafsan	ntwam	0029	maloput	middle	adp	adp				
+nafsan	ntwam	0029	p̃og	night	np:obl	np		obl	732	
+nafsan	ntwam	0029	#	#	##	##				
+nafsan	ntwam	0029	go	and	other	other				
+nafsan	ntwam	0029	ntwam	devil	np.d:s	np	d	s	726	
+nafsan	ntwam	0029	nen	that	rn	rn				
+nafsan	ntwam	0029	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0029	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0029	#	#	##	##				
+nafsan	ntwam	0029	ZERO	ZERO	es_f0.d:a	es_f0	d	a		
+nafsan	ntwam	0029	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0029	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	ntwam	0029	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0029	#	#	#ds	#ds				
+nafsan	ntwam	0029	kin	SUB	other	other				
+nafsan	ntwam	0029	na	SUB	other	other				
+nafsan	ntwam	0029	me	but	other	other				
+nafsan	ntwam	0029	ag	2S.	pro.2:s	pro	2	s	701	
+nafsan	ntwam	0029	kui=	2S.PS=	=lv	=lv				
+nafsan	ntwam	0029	pe	PF	lv	lv				
+nafsan	ntwam	0029	fam	eat:IR	v:pred	v		pred		
+nafsan	ntwam	0029	#	#	##	##				
+nafsan	ntwam	0029	ko	or	other	other				
+nafsan	ntwam	0029	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0029	tik	no	v:pred	v		pred		
+nafsan	ntwam	0030	#	#	##	##				
+nafsan	ntwam	0030	go	and	other	other				
+nafsan	ntwam	0030	maarik	husband	np.h:s_ds	np	h	s_ds	701	
+nafsan	ntwam	0030	nen	that	rn	rn				
+nafsan	ntwam	0030	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0030	na	say	v:pred	v		pred		
+nafsan	ntwam	0030	#	#	#ds.neg	#ds.neg				
+nafsan	ntwam	0030	kineu	1S.	pro.1:s	pro	1	s	701	
+nafsan	ntwam	0030	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0030	ta	still	lv	lv				
+nafsan	ntwam	0030	ta	not	lv	lv				
+nafsan	ntwam	0030	fam	eat:IR	v:pred	v		pred		
+nafsan	ntwam	0030	mau	NEG2	other	other				
+nafsan	ntwam	0031	#	#	##	##				
+nafsan	ntwam	0031	#	#	#ac	#ac				
+nafsan	ntwam	0031	me	and	other	other				
+nafsan	ntwam	0031	selwan	while	other	other				
+nafsan	ntwam	0031	kin	SUB	other	other				
+nafsan	ntwam	0031	maarik	husband	np.h:a	np	h	a	701	
+nafsan	ntwam	0031	nen	that	rn	rn				
+nafsan	ntwam	0031	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0031	to	PROG	aux	aux				
+nafsan	ntwam	0031	us	follow	v:pred	v		pred		
+nafsan	ntwam	0031	napu	road	np:p	np		p	734	
+nafsan	ntwam	0031	#	#	#rc_rn	#rc_rn				
+nafsan	ntwam	0031	kin	REL	other	other				
+nafsan	ntwam	0031	ZERO	ZERO	0:a	0		a	701	
+nafsan	ntwam	0031	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0031	to	PROG	aux	aux				
+nafsan	ntwam	0031	us	follow	v:pred	v		pred		
+nafsan	ntwam	0031	nalof	track	np:p	np		p	715	
+nafsan	ntwam	0031	wak	pig	rn_np	rn_np			710	
+nafsan	ntwam	0031	pan	go	rv	rv				
+nafsan	ntwam	0031	#	#	#ac	#ac				
+nafsan	ntwam	0031	malnen	then	other	other				
+nafsan	ntwam	0031	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0031	ta	still	lv	lv				
+nafsan	ntwam	0031	pi	be	cop	cop				
+nafsan	ntwam	0031	aliat	day	np:pred	np		pred	735	unused
+nafsan	ntwam	0031	to	at	adp	adp				
+nafsan	ntwam	0031	%	%	%	%				
+nafsan	ntwam	0031	%	%	%	%				
+nafsan	ntwam	0031	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0031	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0031	pan	go	v:pred	v		pred		
+nafsan	ntwam	0031	#	#	##	##				
+nafsan	ntwam	0031	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0031	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0031	lek	look	v:pred	v		pred		
+nafsan	ntwam	0031	nlak	trunk	np:p	np		p	736	bridging
+nafsan	ntwam	0031	nafil	nut_tree	rn_np	rn_np			737	new
+nafsan	ntwam	0031	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0031	skei	one	rn	rn				
+nafsan	ntwam	0031	#	#	##	##				
+nafsan	ntwam	0031	ZERO	ZERO	0:s	0		s	737	
+nafsan	ntwam	0031	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0031	to	stay	v:pred	v		pred		
+nafsan	ntwam	0032	#	#	##	##				
+nafsan	ntwam	0032	ale	okay:BI	nc	nc				
+nafsan	ntwam	0032	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0032	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0032	tai	cut	v:pred	v		pred		
+nafsan	ntwam	0032	nafil	nut_tree	np:p	np		p	737	
+nafsan	ntwam	0033	#	#	##	##				
+nafsan	ntwam	0033	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0033	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0033	tok	PROG	lv	lv				
+nafsan	ntwam	0033	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0033	tai	cut	v:pred	v		pred		
+nafsan	ntwam	0033	nafil	nut_tree	np:p	np		p	737	
+nafsan	ntwam	0033	panpan	until	adp	adp				
+nafsan	ntwam	0033	#	#	##	##				
+nafsan	ntwam	0033	ZERO	ZERO	es_f0.h:a	es_f0	h	a	701	
+nafsan	ntwam	0033	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0033	paai	pack_up	v:pred	v		pred		
+nafsan	ntwam	0033	nafil	nut_tree	np:p	np		p	737	
+nafsan	ntwam	0033	#	#	##	##				
+nafsan	ntwam	0033	ZERO	ZERO	0:s	0		s	738	bridging
+nafsan	ntwam	0033	ru=	3P.RS=	=lv	=lv				
+nafsan	ntwam	0033	pak	go_to	v:pred	v		pred		
+nafsan	ntwam	0033	em̃rom	inside	adp	adp				
+nafsan	ntwam	0033	naal	basket	np:g	np		g	747	new
+nafsan	ntwam	0033	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	701	
+nafsan	ntwam	0034	#	#	##	##				
+nafsan	ntwam	0034	#	#	#ac	#ac				
+nafsan	ntwam	0034	selwan	while	other	other				
+nafsan	ntwam	0034	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0034	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0034	pa	go	v:pred	v		pred		
+nafsan	ntwam	0034	%	%	%	%				
+nafsan	ntwam	0034	ntwam	devil	np.d:s_ds	np	d	s_ds	726	
+nafsan	ntwam	0034	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0034	na	say	v:pred	v		pred		
+nafsan	ntwam	0034	#	#	#ds	#ds				
+nafsan	ntwam	0034	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0034	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0034	fan	go:IR	aux	aux				
+nafsan	ntwam	0034	fam	eat:IR	v:pred	v		pred		
+nafsan	ntwam	0034	p̃og	night	np:other	np		other	719	
+nafsan	ntwam	0035	#	#	##	##				
+nafsan	ntwam	0035	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0035	tok	stay	aux	aux				
+nafsan	ntwam	0035	p̃as	chase	v:pred	v		pred		
+nafsan	ntwam	0035	maloput	middle	adp	adp				
+nafsan	ntwam	0035	p̃og	night	np:obl	np		obl	719	
+nafsan	ntwam	0035	#	#	##	##				
+nafsan	ntwam	0035	#	#	#ac	#ac				
+nafsan	ntwam	0035	selwan	while	other	other				
+nafsan	ntwam	0035	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0035	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0035	to	stay	aux	aux				
+nafsan	ntwam	0035	%	%	%	%				
+nafsan	ntwam	0035	na	SUB	other	other				
+nafsan	ntwam	0035	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0035	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0035	fareki	go_for:IR	v:pred	v		pred		
+nafsan	ntwam	0035	namlas	bush	np:p	np		p	739	new
+nafsan	ntwam	0035	pan	go	rv	rv				
+nafsan	ntwam	0035	#	#	##	##				
+nafsan	ntwam	0035	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0035	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0035	to	stay	v:pred	v		pred		
+nafsan	ntwam	0035	#	#	#ac	#ac				
+nafsan	ntwam	0035	na	SUB	other	other				
+nafsan	ntwam	0035	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0035	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0035	fareki	go_for:IR	v:pred	v		pred		
+nafsan	ntwam	0035	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0035	#	#	#rc_rn	#rc_rn				
+nafsan	ntwam	0035	nen	REL	other	other				
+nafsan	ntwam	0035	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0035	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0035	fan	go:IR	aux	aux				
+nafsan	ntwam	0035	fam	eat:IR	v:pred	v		pred		
+nafsan	ntwam	0036	#	#	##	##				
+nafsan	ntwam	0036	maarik	husband	np.h:a	np	h	a	701	
+nafsan	ntwam	0036	nen	that	rn	rn				
+nafsan	ntwam	0036	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0036	mro-ki	think-TR	v:pred	v		pred		
+nafsan	ntwam	0036	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0036	#	#	#cc	#cc				
+nafsan	ntwam	0036	nen	COMP	other	other				
+nafsan	ntwam	0036	ZERO	ZERO	0.h:a	0	h	a	703	
+nafsan	ntwam	0036	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0036	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0036	pan	go	aux	aux				
+nafsan	ntwam	0036	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0036	ntal	taro	ln_np	ln_np			740	new
+nafsan	ntwam	0036	ko	or	ln	ln				
+nafsan	ntwam	0036	nawi	yam_sp.	ln_np	ln_np			741	new
+nafsan	ntwam	0036	ko	or	ln	ln				
+nafsan	ntwam	0036	nanr	banana	ln_np	ln_np			742	new
+nafsan	ntwam	0036	ko	or	ln	ln				
+nafsan	ntwam	0036	tete	some	ln	ln				
+nafsan	ntwam	0036	nafnag	food	np:p	np		p	743	new
+nafsan	ntwam	0036	nen	that	rn	rn				
+nafsan	ntwam	0036	#	#	#rc_rn	#rc_rn				
+nafsan	ntwam	0036	kin	REL	other	other				
+nafsan	ntwam	0036	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0036	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0036	to	PROG	aux	aux				
+nafsan	ntwam	0036	mro-ki	think-TR	v:pred	v		pred		
+nafsan	ntwam	0036	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0036	#	#	#cc	#cc				
+nafsan	ntwam	0036	nen	SUB	other	other				
+nafsan	ntwam	0036	ZERO	ZERO	0.h:s	0	h	s	703	
+nafsan	ntwam	0036	rak=	3D.IRS=	=lv	=lv				
+nafsan	ntwam	0036	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0036	pan	go	aux	aux				
+nafsan	ntwam	0036	pam-i	eat-TS	v:pred	v		pred		
+nafsan	ntwam	0037	#	#	##	##				
+nafsan	ntwam	0037	#	#	#ac	#ac				
+nafsan	ntwam	0037	selwan	while	other	other				
+nafsan	ntwam	0037	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0037	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0037	pa	go	aux	aux				
+nafsan	ntwam	0037	%	%	%	%				
+nafsan	ntwam	0037	ntwam	devil	np.d:s	np	d	s	726	
+nafsan	ntwam	0037	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0037	to	stay	v:pred	v		pred		
+nafsan	ntwam	0037	#	#	##	##				
+nafsan	ntwam	0037	ZERO	ZERO	es_f0.d:a	es_f0	d	a	726	
+nafsan	ntwam	0037	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0037	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	ntwam	0037	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0037	#	#	#ds	#ds				
+nafsan	ntwam	0037	kin	SUB	other	other				
+nafsan	ntwam	0037	na	SUB	other	other				
+nafsan	ntwam	0037	ZERO	ZERO	0.2:s	0	2	s	701	
+nafsan	ntwam	0037	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	ntwam	0037	fag	climb:IR	v:pred	v		pred		
+nafsan	ntwam	0037	sago	there	other	other				
+nafsan	ntwam	0037	#	#	##	##				
+nafsan	ntwam	0037	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0037	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0037	to	stay	v:pred	v		pred		
+nafsan	ntwam	0037	#	#	##	##				
+nafsan	ntwam	0037	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0037	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0037	kelkel-ki	hold-TR	v:pred	v		pred		
+nafsan	ntwam	0037	nlak	trunk	np:p	np		p	744	bridging
+nafsan	ntwam	0037	nait	Fig_tree	rn_np	rn_np			745	new
+nafsan	ntwam	0037	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0037	skei	one	rn_np	rn_np				
+nafsan	ntwam	0037	pak	to	adp	adp				
+nafsan	ntwam	0037	elag	high	np:l	np		l		
+nafsan	ntwam	0037	pa	go	rv	rv				
+nafsan	ntwam	0038	#	#	##	##				
+nafsan	ntwam	0038	ntwam	devil	np.d:a	np	d	a	726	
+nafsan	ntwam	0038	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0038	na	want	v:pred	v		pred		
+nafsan	ntwam	0038	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0038	ZERO	ZERO	0.d:s	0	d	s	726	
+nafsan	ntwam	0038	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0038	to	stay	v:pred	v		pred		
+nafsan	ntwam	0038	#	#	##	##				
+nafsan	ntwam	0038	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0038	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0038	slat-lu	bring-fully	v:pred	v		pred		
+nafsan	ntwam	0038	nua	fruit	np:p	np		p	746	bridging
+nafsan	ntwam	0038	nait	Fig_tree	rn_np	rn_np			745	
+nafsan	ntwam	0038	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0038	skei	one	rn_np	rn_np				
+nafsan	ntwam	0038	#	#	##	##				
+nafsan	ntwam	0038	ZERO	ZERO	es_f0.h:a	es_f0	h	a	726	
+nafsan	ntwam	0038	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0038	pam-i	eat-TS	v:pred	v		pred		
+nafsan	ntwam	0038	ZERO	ZERO	0:p	0		p	746	
+nafsan	ntwam	0039	#	#	##	##				
+nafsan	ntwam	0039	ZERO	ZERO	0.d:s	0	d	s	726	
+nafsan	ntwam	0039	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0039	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0039	#	#	##	##				
+nafsan	ntwam	0039	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0039	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0039	nrik	tell	v:pred	v		pred		
+nafsan	ntwam	0039	apu	grandfather	np:p	np		p	701	
+nafsan	ntwam	0039	ki	PREP	adp	adp				
+nafsan	ntwam	0039	-n	-3S.O	-pro:obl	-pro		obl		
+nafsan	ntwam	0039	#	#	#ds	#ds				
+nafsan	ntwam	0039	na	SUB	other	other				
+nafsan	ntwam	0039	ZERO	ZERO	0.2:a	0	2	a	701	
+nafsan	ntwam	0039	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	ntwam	0039	slat	take	v:pred	v		pred		
+nafsan	ntwam	0039	nafnag	food	np:p	np		p	746	
+nafsan	ntwam	0039	#	#	##	##				
+nafsan	ntwam	0039	me	and	other	other				
+nafsan	ntwam	0039	ZERO	ZERO	0.2:s	0	2	s	701	
+nafsan	ntwam	0039	p̃a=	2S.IRS=	=lv	=lv				
+nafsan	ntwam	0039	fam	eat:IR	v:pred	v		pred		
+nafsan	ntwam	0040	#	#	##	##				
+nafsan	ntwam	0040	#	#	#ac	#ac				
+nafsan	ntwam	0040	selwan	while	other	other				
+nafsan	ntwam	0040	apu	grandfather	np.h:a	np	h	a	701	
+nafsan	ntwam	0040	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0040	nrog-o	hear-TS	v:pred	v		pred		
+nafsan	ntwam	0040	ZERO	ZERO	0:p	0		p		
+nafsan	ntwam	0040	#	#	##	##				
+nafsan	ntwam	0040	apu	grandfather	np.h:s_ds	np	h	s_ds	701	
+nafsan	ntwam	0040	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0040	na	say	v:pred	v		pred		
+nafsan	ntwam	0040	#	#	##ds	##ds				
+nafsan	ntwam	0040	e	hey	other	other				
+nafsan	ntwam	0040	me	but	other	other				
+nafsan	ntwam	0040	kineu	1S.	pro.1:a	pro	1	a	701	
+nafsan	ntwam	0040	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0040	kano	unable	aux	aux				
+nafsan	ntwam	0040	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0040	nua	fruit	np:p	np		p	746	
+nafsan	ntwam	0040	nait	Fig_tree	rn_np	rn_np			745	
+nafsan	ntwam	0041	#	#	##	##				
+nafsan	ntwam	0041	#	#	#ac	#ac				
+nafsan	ntwam	0041	malnen	as	other	other				
+nafsan	ntwam	0041	ntwam	devil	np.d:a	np	d	a	726	
+nafsan	ntwam	0041	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0041	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0041	nua	fruit	np:p	np		p	746	
+nafsan	ntwam	0041	nait	Fig_tree	rn_np	rn_np			745	
+nafsan	ntwam	0041	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0041	skei	one	rn_np	rn_np				
+nafsan	ntwam	0041	%	%	%	%				
+nafsan	ntwam	0041	apu	grandfather	np.h:a	np	h	a	701	
+nafsan	ntwam	0041	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0041	slat-lu	take-fully	v:pred	v		pred		
+nafsan	ntwam	0041	nafil	nut_tree	np:p	np		p	738	
+nafsan	ntwam	0041	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0041	skei	one	rn_np	rn_np				
+nafsan	ntwam	0041	em̃rom	inside	adp	adp				
+nafsan	ntwam	0041	naal	basket	np:l	np		l	747	
+nafsan	ntwam	0041	ga	3S.POS	rn_pro.h:poss	rn_pro	h	poss	701	
+nafsan	ntwam	0041	#	#	##	##				
+nafsan	ntwam	0041	ZERO	ZERO	es_f0.h:a	es_f0	h	a	701	
+nafsan	ntwam	0041	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0041	pam-i	eat-TS	v:pred	v		pred		
+nafsan	ntwam	0041	ZERO	ZERO	0:p	0		p	738	
+nafsan	ntwam	0042	#	#	##	##				
+nafsan	ntwam	0042	me	and	other	other				
+nafsan	ntwam	0042	apu	grandfather	np.h:s	np	h	s	701	
+nafsan	ntwam	0042	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0042	nrus	move	aux	aux				
+nafsan	ntwam	0042	fam	eat:IR	v:pred	v		pred		
+nafsan	ntwam	0042	pelpel	quickly	rv	rv				
+nafsan	ntwam	0042	#	#	#ac	#ac				
+nafsan	ntwam	0042	selwan	while	other	other				
+nafsan	ntwam	0042	ZERO	ZERO	0.h:s	0	h	s	701	
+nafsan	ntwam	0042	ra=	3D.RS=	=lv	=lv				
+nafsan	ntwam	0042	nrus	move	aux	aux				
+nafsan	ntwam	0042	torik	wait	v:pred	v		pred		
+nafsan	ntwam	0042	#	#	##	##				
+nafsan	ntwam	0042	ntwam	devil	np.d:s	np	d	s	726	
+nafsan	ntwam	0042	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0042	paos-ki	ask-TR	v:pred	v		pred		
+nafsan	ntwam	0042	#	#	#ds	#ds				
+nafsan	ntwam	0042	ag	2S.	pro.2:a	pro	2	a	701	
+nafsan	ntwam	0042	kui=	2S.PS=	=lv	=lv				
+nafsan	ntwam	0042	pe	PF	lv	lv				
+nafsan	ntwam	0042	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0042	natam̃ol	person	np:p	np		p	729	
+nafsan	ntwam	0042	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0042	pi	be	nc	nc				
+nafsan	ntwam	0042	#	#	##	##				
+nafsan	ntwam	0042	go	and	other	other				
+nafsan	ntwam	0042	maarik	husband	np.h:s	np	h	s	701	
+nafsan	ntwam	0042	nen	that	rn	rn				
+nafsan	ntwam	0042	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0042	tok	stay	v:pred	v		pred		
+nafsan	ntwam	0042	#	#	##	##				
+nafsan	ntwam	0042	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0042	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0042	nrik-i	tell-TS	v:pred	v		pred		
+nafsan	ntwam	0042	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0042	#	#	#nc	#nc				
+nafsan	ntwam	0042	kin	SUB	nc	nc				
+nafsan	ntwam	0042	na	SUB	nc	nc				
+nafsan	ntwam	0042	me	but	nc	nc				
+nafsan	ntwam	0042	ag	2S.	nc	nc				
+nafsan	ntwam	0042	#	#	##	##				
+nafsan	ntwam	0042	go	and	ln	ln				
+nafsan	ntwam	0042	ntwam	devil	np.d:s_ds	np	d	s_ds	726	
+nafsan	ntwam	0042	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0042	na	say	v:pred	v		pred		
+nafsan	ntwam	0042	#	#	#ds	#ds				
+nafsan	ntwam	0042	kineu	1S.	pro.1:a	pro	1	a	726	
+nafsan	ntwam	0042	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0042	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0042	natam̃ol	person	np:p	np		p	748	new
+nafsan	ntwam	0042	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0042	tol	three	rn_np	rn_np				
+nafsan	ntwam	0042	su	PF	rv	rv				
+nafsan	ntwam	0043	#	#	#nc	#nc				
+nafsan	ntwam	0043	me	and	nc	nc				
+nafsan	ntwam	0043	ag	2S.	nc_pro.2	nc_pro	2		701	
+nafsan	ntwam	0043	#	#	##	##				
+nafsan	ntwam	0043	go	and	other	other				
+nafsan	ntwam	0043	maarik	husband	np.h:s_ds	np	h	s_ds	701	
+nafsan	ntwam	0043	nen	that	rn	rn				
+nafsan	ntwam	0043	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0043	na	say	v:pred	v		pred		
+nafsan	ntwam	0043	#	#	#ds	#ds				
+nafsan	ntwam	0043	kineu	1S.	pro.1:a	pro	1	a	701	
+nafsan	ntwam	0043	kai=	1S.PS=	=lv	=lv				
+nafsan	ntwam	0043	pe	PF	lv	lv				
+nafsan	ntwam	0043	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0043	natam̃ol	person	np.h:p	np	h	p	749	
+nafsan	ntwam	0043	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0043	latol	eight	rn_np	rn_np				
+nafsan	ntwam	0043	ki	TOP	other	other				
+nafsan	ntwam	0044	#	#	##	##				
+nafsan	ntwam	0044	ntwam	devil	np.d:a	np	d	a	726	
+nafsan	ntwam	0044	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0044	na	INCH	v:pred	v		pred		
+nafsan	ntwam	0044	#	#	#cc:p	#cc		p		
+nafsan	ntwam	0044	ZERO	ZERO	0.d:s	0	d	s	726	
+nafsan	ntwam	0044	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0044	to	stay	v:pred	v		pred		
+nafsan	ntwam	0044	#	#	##	##				
+nafsan	ntwam	0044	ZERO	ZERO	es_f0.d:a	es_f0	d	a	726	
+nafsan	ntwam	0044	kai=	ES=	=lv	=lv				
+nafsan	ntwam	0044	mro-ki	think-TR	v:pred	v		pred		
+nafsan	ntwam	0044	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0044	#	#	##	##				
+nafsan	ntwam	0044	ZERO	ZERO	0.d:s_ds	0	d	s_ds	726	
+nafsan	ntwam	0044	na	say	v:pred	v		pred		
+nafsan	ntwam	0044	#	#	#ds	#ds				
+nafsan	ntwam	0044	ZERO	ZERO	0.1:a	0	1	a	726	
+nafsan	ntwam	0044	kai=	1S.PS=	=lv	=lv				
+nafsan	ntwam	0044	pe	PF	lv	lv				
+nafsan	ntwam	0044	en	keep_on	aux	aux				
+nafsan	ntwam	0044	mro-ki	think-TR	v:pred	v		pred		
+nafsan	ntwam	0044	-n	-3S.O	-pro:p	-pro		p		
+nafsan	ntwam	0044	pan	until	adp	adp				
+nafsan	ntwam	0044	#	#	##	##				
+nafsan	ntwam	0044	ZERO	ZERO	0.1:s	0	1	s	726	
+nafsan	ntwam	0044	kai=	1S.PS=	=lv	=lv				
+nafsan	ntwam	0044	pe	PF	lv	lv				
+nafsan	ntwam	0044	tok	PROG	aux	aux				
+nafsan	ntwam	0044	nrus	move	lv	lv				
+nafsan	ntwam	0044	mroput	worry	v:pred	v		pred		
+nafsan	ntwam	0045	#	#	##	##				
+nafsan	ntwam	0045	ZERO	ZERO	0.d:s_ds	0	d	s_ds	726	
+nafsan	ntwam	0045	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0045	na	say	v:pred	v		pred		
+nafsan	ntwam	0045	#	#	#ds	#ds				
+nafsan	ntwam	0045	me	but	other	other				
+nafsan	ntwam	0045	kineu	1S.	pro.1:a	pro	1	a	726	
+nafsan	ntwam	0045	ga	NC	nc	nc				
+nafsan	ntwam	0045	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0045	na	want	v:pred	v		pred		
+nafsan	ntwam	0045	#	#	#ds_cc:p	#ds_cc		p		
+nafsan	ntwam	0045	ZERO	ZERO	0.1:a	0	1	a	726	
+nafsan	ntwam	0045	ka=	1S.IRS=	=lv	=lv				
+nafsan	ntwam	0045	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0045	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0045	maarik	husband	np.h:p	np	h	p	701	
+nafsan	ntwam	0045	nen	that	rn	rn				
+nafsan	ntwam	0045	tok	stay	rv	rv				
+nafsan	ntwam	0045	#	#	##ds	##ds				
+nafsan	ntwam	0045	me	but	other	other				
+nafsan	ntwam	0045	malfane	now	other	other				
+nafsan	ntwam	0045	ga	3S	pro.h:a	pro	h	a	701	
+nafsan	ntwam	0045	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0045	pe	PF	lv	lv				
+nafsan	ntwam	0045	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0045	natam̃ol	person	np.h:p	np	h	p	749	
+nafsan	ntwam	0045	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0045	latol	eight	rn_np	rn_np				
+nafsan	ntwam	0046	#	#	##ds	##ds				
+nafsan	ntwam	0046	me	but	other	other				
+nafsan	ntwam	0046	malfane	now	other	other				
+nafsan	ntwam	0046	kineu	1S.	pro.1:a	pro	1	a	726	
+nafsan	ntwam	0046	a=	1S.RS=	=lv	=lv				
+nafsan	ntwam	0046	pam	eat	v:pred	v		pred		
+nafsan	ntwam	0046	natam̃ol	person	np.h:p	np	h	p	748	
+nafsan	ntwam	0046	i=	3S.RS=	=rn	=rn				
+nafsan	ntwam	0046	tol	three	rn_np	rn_np				
+nafsan	ntwam	0046	m̃as	only	rn	rn				
+nafsan	ntwam	0047	#	#	##ds	##ds				
+nafsan	ntwam	0047	go	and	other	other				
+nafsan	ntwam	0047	malfane	now	other	other				
+nafsan	ntwam	0047	ZERO	ZERO	0.h:a	0	h	a	701	
+nafsan	ntwam	0047	ke=	3S.IRS=	=lv	=lv				
+nafsan	ntwam	0047	fo	PSP:IR	lv	lv				
+nafsan	ntwam	0047	lakor	maybe	lv	lv				
+nafsan	ntwam	0047	wat	hit	v:pred	v		pred		
+nafsan	ntwam	0047	kineu	1S.O	pro.1:p	pro	1	p	726	
+nafsan	ntwam	0047	#	#	#nc	#nc				
+nafsan	ntwam	0047	kin	REL	nc	nc				
+nafsan	ntwam	0047	to	go	nc	nc				
+nafsan	ntwam	0048	#	#	##	##				
+nafsan	ntwam	0048	ntwam	devil	np.d:s	np	d	s	726	
+nafsan	ntwam	0048	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0048	en	keep_on	lv	lv				
+nafsan	ntwam	0048	mro	think	v:pred	v		pred		
+nafsan	ntwam	0048	pankisa	to_bad	other	other				
+nafsan	ntwam	0048	#	#	##	##				
+nafsan	ntwam	0048	ZERO	ZERO	0.d:s	0	d	s	726	
+nafsan	ntwam	0048	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0048	pato	be_at	v:pred	v		pred		
+nafsan	ntwam	0048	elag	high	adp	adp				
+nafsan	ntwam	0048	nait	Fig_tree	np:l	np		l	745	
+nafsan	ntwam	0048	#	#	##	##				
+nafsan	ntwam	0048	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0048	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0048	of	wear	v:pred	v		pred		
+nafsan	ntwam	0048	nra	tree	np:p	np		p	750	bridging
+nafsan	ntwam	0048	nait	Fig_tree	rn	rn			745	
+nafsan	ntwam	0048	#	#	#ac	#ac				
+nafsan	ntwam	0048	ZERO	ZERO	0.d:s	0	d	s	726	
+nafsan	ntwam	0048	mai	come	v:pred	v		pred		
+nafsan	ntwam	0048	pak	to	adp	adp				
+nafsan	ntwam	0048	etan	down	np:g	np		g		
+nafsan	ntwam	0048	nra	tree	rn	rn			750	
+nafsan	ntwam	0048	nait	Fig_tree	rn	rn			745	
+nafsan	ntwam	0048	#	#	#nc	#nc				
+nafsan	ntwam	0048	i=	3S.RS=	nc	nc				
+nafsan	ntwam	0048	makot	broken	nc	nc				
+nafsan	ntwam	0048	wes	3S.OBL	nc	nc				
+nafsan	ntwam	0049	#	#	##	##				
+nafsan	ntwam	0049	selwan	while	other	other				
+nafsan	ntwam	0049	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0049	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0049	ofa	bury	v:pred	v		pred		
+nafsan	ntwam	0049	nra	tree	np:p	np		p	750	
+nafsan	ntwam	0049	nait	Fig_tree	rn	rn			745	
+nafsan	ntwam	0049	#	#	##	##				
+nafsan	ntwam	0049	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0049	mai	come	lv	lv				
+nafsan	ntwam	0049	tik	bang	v:pred	v		pred		
+nafsan	ntwam	0049	ntan	ground	np:p	np		p	751	new
+nafsan	ntwam	0049	tefla	similar	other	other				
+nafsan	ntwam	0049	=n	=DST	=other	=other				
+nafsan	ntwam	0049	#	#	##	##				
+nafsan	ntwam	0049	namlas	bush	np:s	np		s	752	new
+nafsan	ntwam	0049	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0049	makot	broken	v:pred	v		pred		
+nafsan	ntwam	0049	kot	EMPH	other	other				
+nafsan	ntwam	0049	wes	3S.OBL	nc	nc				
+nafsan	ntwam	0049	pan	until	other	other				
+nafsan	ntwam	0049	#	#	##	##				
+nafsan	ntwam	0049	kin	REL	other	other				
+nafsan	ntwam	0049	ZERO	ZERO	0.d:a	0	d	a	726	
+nafsan	ntwam	0049	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0049	mtak-ki	fear-TR	v:pred	v		pred		
+nafsan	ntwam	0049	maarik	husband	np:p	np		p	701	
+nafsan	ntwam	0049	nen	that	rn	rn				
+nafsan	ntwam	0049	ki	TOP	rn	rn				
+nafsan	ntwam	0050	#	#	##	##				
+nafsan	ntwam	0050	ZERO	ZERO	0.d:s	0	d	s	726	
+nafsan	ntwam	0050	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0050	sef	escape	v:pred	v		pred		
+nafsan	ntwam	0050	pan	go	rv	rv				
+nafsan	ntwam	0050	#	#	##	##				
+nafsan	ntwam	0050	me	and	other	other				
+nafsan	ntwam	0050	maarik	husband	np.h:s	np	h	s	701	
+nafsan	ntwam	0050	nen	that	rn	rn				
+nafsan	ntwam	0050	me	and	rn	rn				
+nafsan	ntwam	0050	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0050	tok	PROG	aux	aux				
+nafsan	ntwam	0050	mroput	worry	v:pred	v		pred		
+nafsan	ntwam	0051	#	#	##	##				
+nafsan	ntwam	0051	#	#	#ac	#ac				
+nafsan	ntwam	0051	selwan	while	other	other				
+nafsan	ntwam	0051	ntwam	devil	np.d:s	np	d	s	726	
+nafsan	ntwam	0051	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0051	sef	escape	v:pred	v		pred		
+nafsan	ntwam	0051	%	%	%	%				
+nafsan	ntwam	0051	maarik	husband	np.h:s	np	h	s	701	
+nafsan	ntwam	0051	me	and	other	other				
+nafsan	ntwam	0051	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0051	su	descend	v:pred	v		pred		
+nafsan	ntwam	0051	#	#	##	##				
+nafsan	ntwam	0051	ga	3S.	nc	nc				
+nafsan	ntwam	0051	me	and	other	other				
+nafsan	ntwam	0051	namlas	bush	np:s	np		s	752	
+nafsan	ntwam	0051	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0051	makot	broken	v:pred	v		pred		
+nafsan	ntwam	0051	kot	EMPH	other	other				
+nafsan	ntwam	0051	-wes	-3S.OBL	-pro:obl	-pro		obl		
+nafsan	ntwam	0051	reki	as_for	adp	adp				
+nafsan	ntwam	0051	e-sum̃	LOC-house	np:l	np		l	704	
+nafsan	ntwam	0052	#	#	##	##				
+nafsan	ntwam	0052	go	and	other	other				
+nafsan	ntwam	0052	i=	3S.RS=	=lv	=lv				
+nafsan	ntwam	0052	pi	be	cop	cop				
+nafsan	ntwam	0052	e-sua	LOC-where	np:pred	np		pred		
+nafsan	ntwam	0052	=n	=DST	=rn	=rn				
+nafsan	ntwam	0052	#	#	##	##				
+nafsan	ntwam	0052	natrauswen	story	np:s	np		s		
+nafsan	ntwam	0052	ki=	3S.PS=	=lv	=lv				
+nafsan	ntwam	0052	nom	finish	v:pred	v		pred		
+nafsan	ntwam	0052	-wes	-3S.OBL	-pro:obl	-pro		obl		

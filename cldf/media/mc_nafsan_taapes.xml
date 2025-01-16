@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="nafsan">
         <text t_name="taapes" annotators="Nick Thieberger, Timothy Brickell" speaker="NF02">
             <file f_name="mc_nafsan_taapes" audio="mc_nafsan_taapes.wav" updated="2019-08-05">

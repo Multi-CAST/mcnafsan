@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="nafsan">
         <text t_name="ntwam" annotators="Nick Thieberger, Timothy Brickell" speaker="NF04">
-            <file f_name="mc_nafsan_ntwam" audio="mc_nafsan_ntwam.wav" updated="2019-08-05">
+            <file f_name="mc_nafsan_ntwam" audio="mc_nafsan_ntwam.wav" updated="2019-09-16">
                 <unit uid="0001" start_time="10620" end_time="14540">
                     <utterance_id>nafsan_ntwam_0001</utterance_id>
                     <utterance>Nrak iskei ipiatlak apu go ati iskei ratok.</utterance>
@@ -5578,7 +5578,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#ds</graid>
+                            <graid>##ds</graid>
                         </segment>
                         <segment>
                             <gword>kineu</gword>
@@ -5599,7 +5599,7 @@
                         <segment>
                             <gword>natam̃ol</gword>
                             <gloss>person</gloss>
-                            <graid>np:p</graid>
+                            <graid>np.h:p</graid>
                             <refind>748</refind>
                             <isnref>new</isnref>
                         </segment>

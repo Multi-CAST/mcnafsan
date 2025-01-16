@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2001">
     <corpus c_name="nafsan">
         <text t_name="kori" annotators="Nick Thieberger, Timothy Brickell" speaker="NF01">
             <file f_name="mc_nafsan_kori" audio="mc_nafsan_kori.wav" updated="2019-08-05">

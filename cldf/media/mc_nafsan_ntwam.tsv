@@ -997,11 +997,11 @@ nafsan	ntwam	0042	go	and	ln	ln
 nafsan	ntwam	0042	ntwam	devil	np.d:s_ds	np	d	s_ds	726	
 nafsan	ntwam	0042	ki=	3S.PS=	=lv	=lv				
 nafsan	ntwam	0042	na	say	v:pred	v		pred		
-nafsan	ntwam	0042	#	#	#ds	#ds				
+nafsan	ntwam	0042	#	#	##ds	##ds				
 nafsan	ntwam	0042	kineu	1S.	pro.1:a	pro	1	a	726	
 nafsan	ntwam	0042	a=	1S.RS=	=lv	=lv				
 nafsan	ntwam	0042	pam	eat	v:pred	v		pred		
-nafsan	ntwam	0042	natam̃ol	person	np:p	np		p	748	new
+nafsan	ntwam	0042	natam̃ol	person	np.h:p	np	h	p	748	new
 nafsan	ntwam	0042	i=	3S.RS=	=rn	=rn				
 nafsan	ntwam	0042	tol	three	rn_np	rn_np				
 nafsan	ntwam	0042	su	PF	rv	rv				

@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Thieberger, Nick & Brickell, Timothy. 2019. Multi-CAST Nafsan. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nafsan) (date accessed)
+  > Thieberger, Nick & Brickell, Timothy. 2020. Multi-CAST Nafsan. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2001. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nafsan) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -123,9 +123,9 @@ information on all annotated categories, including those not listed here.
 | **⟨pro⟩** | 9 | 3 | 0 | 25 | 19 | 1 | 10 | 2 | 12 | 4 | 85 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 34 | 22 | 0 | 48 | 1 | 1 | 0 | 7 | 6 | 1 | 120 |
+| **⟨np.h⟩** | 34 | 22 | 0 | 49 | 1 | 1 | 0 | 7 | 6 | 1 | 121 |
 | **⟨np.d⟩** | 42 | 21 | 0 | 14 | 2 | 1 | 0 | 7 | 5 | 0 | 92 |
-| **⟨np⟩** | 60 | 7 | 0 | 180 | 14 | 50 | 38 | 26 | 31 | 52 | 458 |
+| **⟨np⟩** | 60 | 7 | 0 | 179 | 14 | 50 | 38 | 26 | 31 | 52 | 457 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -138,8 +138,8 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | count |
 |:-----------|--------:|
-| **⟨##⟩** | 778 |
-| **⟨#⟩** | 234 |
+| **⟨##⟩** | 779 |
+| **⟨#⟩** | 233 |
 | **totals** | 1012 |
 
 
